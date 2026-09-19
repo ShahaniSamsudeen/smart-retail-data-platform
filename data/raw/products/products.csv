@@ -1,0 +1,337 @@
+product_id,product_name,category,brand,unit_cost,selling_price,supplier_id
+PRD0001,Wireless Mouse 1,Electronics,UrbanLife,9645.49,11200.87,SUP004
+PRD0002,Wireless Mouse 2,Electronics,LankaPlus,3464.68,5132.62,SUP010
+PRD0003,Wireless Mouse 3,Electronics,Prime,6415.54,7463.9,SUP004
+PRD0004,Wireless Mouse 4,Electronics,Prime,7654.53,8894.11,SUP012
+PRD0005,Wireless Mouse 5,Electronics,Prime,9800.78,13674.28,SUP008
+PRD0006,Wireless Mouse 6,Electronics,Nova,8900.6,13477.68,SUP003
+PRD0007,Bluetooth Speaker 1,Electronics,SmartChoice,10517.37,13705.32,SUP004
+PRD0008,Bluetooth Speaker 2,Electronics,LankaPlus,14364.61,18695.07,SUP007
+PRD0009,Bluetooth Speaker 3,Electronics,UrbanLife,1586.24,2429.12,SUP001
+PRD0010,Bluetooth Speaker 4,Electronics,ProMax,10986.52,15285.57,SUP002
+PRD0011,Bluetooth Speaker 5,Electronics,EverBest,8347.8,12715.64,SUP010
+PRD0012,Bluetooth Speaker 6,Electronics,Prime,3005.49,3550.38,SUP005
+PRD0013,USB Cable 1,Electronics,LankaPlus,14780.54,22686.55,SUP007
+PRD0014,USB Cable 2,Electronics,EverBest,4277.91,6143.33,SUP003
+PRD0015,USB Cable 3,Electronics,UrbanLife,5647.19,7026.68,SUP012
+PRD0016,USB Cable 4,Electronics,SmartChoice,14059.32,20268.14,SUP009
+PRD0017,USB Cable 5,Electronics,ProMax,10977.53,13431.35,SUP005
+PRD0018,USB Cable 6,Electronics,Prime,14844.42,21346.27,SUP011
+PRD0019,Power Bank 1,Electronics,Nova,4965.6,7427.25,SUP004
+PRD0020,Power Bank 2,Electronics,ProMax,12353.77,18682.24,SUP005
+PRD0021,Power Bank 3,Electronics,EverBest,1132.9,1768.36,SUP004
+PRD0022,Power Bank 4,Electronics,DailyMart,9883.26,13125.31,SUP003
+PRD0023,Power Bank 5,Electronics,UrbanLife,4083.47,5149.18,SUP012
+PRD0024,Power Bank 6,Electronics,ProMax,8831.1,13723.71,SUP006
+PRD0025,Keyboard 1,Electronics,DailyMart,3406.91,5447.28,SUP002
+PRD0026,Keyboard 2,Electronics,SmartChoice,11373.37,17486.51,SUP011
+PRD0027,Keyboard 3,Electronics,LankaPlus,2525.73,3678.01,SUP007
+PRD0028,Keyboard 4,Electronics,UrbanLife,5817.05,9297.13,SUP009
+PRD0029,Keyboard 5,Electronics,LankaPlus,12932.58,14939.28,SUP011
+PRD0030,Keyboard 6,Electronics,EverBest,13289.11,19772.8,SUP002
+PRD0031,Headphones 1,Electronics,Nova,4508.48,5505.62,SUP012
+PRD0032,Headphones 2,Electronics,SmartChoice,13156.42,16689.25,SUP009
+PRD0033,Headphones 3,Electronics,UrbanLife,13702.52,21125.63,SUP011
+PRD0034,Headphones 4,Electronics,EverBest,7688.79,9530.33,SUP003
+PRD0035,Headphones 5,Electronics,Nova,8159.78,12242.79,SUP010
+PRD0036,Headphones 6,Electronics,EverBest,4963.72,5751.78,SUP005
+PRD0037,Webcam 1,Electronics,LankaPlus,3705.87,4663.44,SUP002
+PRD0038,Webcam 2,Electronics,SmartChoice,11018.83,16717.88,SUP003
+PRD0039,Webcam 3,Electronics,SmartChoice,9947.3,15677.76,SUP005
+PRD0040,Webcam 4,Electronics,Prime,7985.96,11363.76,SUP009
+PRD0041,Webcam 5,Electronics,UrbanLife,11365.69,16598.91,SUP007
+PRD0042,Webcam 6,Electronics,DailyMart,14927.97,21532.78,SUP009
+PRD0043,Smart Watch 1,Electronics,LankaPlus,6854.57,8647.43,SUP006
+PRD0044,Smart Watch 2,Electronics,Prime,462.36,646.96,SUP001
+PRD0045,Smart Watch 3,Electronics,Prime,1204.25,1726.89,SUP002
+PRD0046,Smart Watch 4,Electronics,LankaPlus,13595.49,20894.04,SUP009
+PRD0047,Smart Watch 5,Electronics,Prime,3684.37,5346.17,SUP009
+PRD0048,Smart Watch 6,Electronics,DailyMart,2114.83,3322.36,SUP004
+PRD0049,Electric Kettle 1,Home & Kitchen,Prime,11801.6,17860.23,SUP002
+PRD0050,Electric Kettle 2,Home & Kitchen,ProMax,1589.42,2136.14,SUP007
+PRD0051,Electric Kettle 3,Home & Kitchen,LankaPlus,7085.32,10472.7,SUP001
+PRD0052,Electric Kettle 4,Home & Kitchen,LankaPlus,6128.93,7984.07,SUP004
+PRD0053,Electric Kettle 5,Home & Kitchen,SmartChoice,2995.11,4167.18,SUP007
+PRD0054,Electric Kettle 6,Home & Kitchen,LankaPlus,2874.8,3904.5,SUP008
+PRD0055,Rice Cooker 1,Home & Kitchen,LankaPlus,12149.13,18651.16,SUP001
+PRD0056,Rice Cooker 2,Home & Kitchen,Nova,9834.35,13701.85,SUP002
+PRD0057,Rice Cooker 3,Home & Kitchen,SmartChoice,13906.55,21303.63,SUP007
+PRD0058,Rice Cooker 4,Home & Kitchen,ProMax,7361.77,9174.14,SUP001
+PRD0059,Rice Cooker 5,Home & Kitchen,ProMax,2594.86,2986.61,SUP005
+PRD0060,Rice Cooker 6,Home & Kitchen,UrbanLife,13908.79,20909.2,SUP007
+PRD0061,Water Bottle 1,Home & Kitchen,DailyMart,10494.38,15518.33,SUP003
+PRD0062,Water Bottle 2,Home & Kitchen,Nova,2969.98,3706.43,SUP010
+PRD0063,Water Bottle 3,Home & Kitchen,EverBest,11075.7,13040.87,SUP001
+PRD0064,Water Bottle 4,Home & Kitchen,SmartChoice,894.61,1220.74,SUP001
+PRD0065,Water Bottle 5,Home & Kitchen,SmartChoice,14417.57,17099.96,SUP002
+PRD0066,Water Bottle 6,Home & Kitchen,Prime,8986.27,13064.65,SUP007
+PRD0067,Dinner Set 1,Home & Kitchen,Prime,1930.32,2993.21,SUP010
+PRD0068,Dinner Set 2,Home & Kitchen,ProMax,8978.61,12827.93,SUP011
+PRD0069,Dinner Set 3,Home & Kitchen,UrbanLife,8817.53,12214.5,SUP004
+PRD0070,Dinner Set 4,Home & Kitchen,UrbanLife,10095.43,13037.06,SUP007
+PRD0071,Dinner Set 5,Home & Kitchen,DailyMart,2093.54,3015.69,SUP006
+PRD0072,Dinner Set 6,Home & Kitchen,Nova,13945.92,21910.16,SUP008
+PRD0073,Frying Pan 1,Home & Kitchen,LankaPlus,9374.21,13155.27,SUP002
+PRD0074,Frying Pan 2,Home & Kitchen,SmartChoice,8133.87,11205.61,SUP006
+PRD0075,Frying Pan 3,Home & Kitchen,EverBest,13230.83,20450.52,SUP005
+PRD0076,Frying Pan 4,Home & Kitchen,UrbanLife,2492.54,3801.59,SUP010
+PRD0077,Frying Pan 5,Home & Kitchen,Nova,14760.22,22335.09,SUP011
+PRD0078,Frying Pan 6,Home & Kitchen,LankaPlus,12284.0,15781.51,SUP003
+PRD0079,Storage Container 1,Home & Kitchen,SmartChoice,4077.32,6321.36,SUP005
+PRD0080,Storage Container 2,Home & Kitchen,EverBest,4334.08,5394.99,SUP004
+PRD0081,Storage Container 3,Home & Kitchen,DailyMart,10359.33,15889.25,SUP005
+PRD0082,Storage Container 4,Home & Kitchen,LankaPlus,13594.25,20809.35,SUP011
+PRD0083,Storage Container 5,Home & Kitchen,Nova,6440.1,8207.95,SUP006
+PRD0084,Storage Container 6,Home & Kitchen,UrbanLife,11601.12,16667.34,SUP003
+PRD0085,Kitchen Knife 1,Home & Kitchen,ProMax,11157.28,15600.74,SUP009
+PRD0086,Kitchen Knife 2,Home & Kitchen,SmartChoice,293.6,347.58,SUP009
+PRD0087,Kitchen Knife 3,Home & Kitchen,SmartChoice,685.02,901.59,SUP007
+PRD0088,Kitchen Knife 4,Home & Kitchen,Nova,2042.57,2632.29,SUP006
+PRD0089,Kitchen Knife 5,Home & Kitchen,LankaPlus,3269.64,4127.23,SUP006
+PRD0090,Kitchen Knife 6,Home & Kitchen,ProMax,11734.73,18163.73,SUP010
+PRD0091,Table Lamp 1,Home & Kitchen,Prime,11279.74,17670.77,SUP003
+PRD0092,Table Lamp 2,Home & Kitchen,ProMax,14646.66,22187.45,SUP001
+PRD0093,Table Lamp 3,Home & Kitchen,ProMax,2813.51,4406.01,SUP011
+PRD0094,Table Lamp 4,Home & Kitchen,UrbanLife,12981.35,19664.63,SUP003
+PRD0095,Table Lamp 5,Home & Kitchen,Nova,11842.51,14194.94,SUP008
+PRD0096,Table Lamp 6,Home & Kitchen,DailyMart,3453.14,5240.02,SUP006
+PRD0097,Rice 1,Grocery,Prime,4682.08,7060.13,SUP004
+PRD0098,Rice 2,Grocery,EverBest,501.42,620.21,SUP005
+PRD0099,Rice 3,Grocery,UrbanLife,12985.64,20583.54,SUP006
+PRD0100,Rice 4,Grocery,EverBest,9676.0,12867.68,SUP001
+PRD0101,Rice 5,Grocery,SmartChoice,1862.83,2955.72,SUP010
+PRD0102,Rice 6,Grocery,LankaPlus,14443.63,18335.61,SUP010
+PRD0103,Sugar 1,Grocery,EverBest,6603.27,9758.61,SUP007
+PRD0104,Sugar 2,Grocery,ProMax,9152.2,12631.32,SUP010
+PRD0105,Sugar 3,Grocery,ProMax,2972.67,3477.95,SUP001
+PRD0106,Sugar 4,Grocery,Prime,7870.82,11908.0,SUP006
+PRD0107,Sugar 5,Grocery,EverBest,6554.77,10336.83,SUP010
+PRD0108,Sugar 6,Grocery,UrbanLife,4811.65,7369.56,SUP009
+PRD0109,Tea 1,Grocery,ProMax,4742.88,6325.94,SUP012
+PRD0110,Tea 2,Grocery,ProMax,4540.48,5481.63,SUP011
+PRD0111,Tea 3,Grocery,SmartChoice,14114.4,20533.53,SUP010
+PRD0112,Tea 4,Grocery,Nova,8601.21,11463.12,SUP005
+PRD0113,Tea 5,Grocery,EverBest,4410.67,5925.51,SUP008
+PRD0114,Tea 6,Grocery,DailyMart,6710.52,9757.31,SUP012
+PRD0115,Coffee 1,Grocery,EverBest,2669.92,3172.29,SUP002
+PRD0116,Coffee 2,Grocery,UrbanLife,12303.59,18307.89,SUP004
+PRD0117,Coffee 3,Grocery,Nova,12127.46,14750.74,SUP004
+PRD0118,Coffee 4,Grocery,LankaPlus,14761.45,21036.15,SUP008
+PRD0119,Coffee 5,Grocery,Prime,6304.45,9036.76,SUP012
+PRD0120,Coffee 6,Grocery,Prime,10490.86,14398.39,SUP003
+PRD0121,Milk Powder 1,Grocery,LankaPlus,9892.46,11401.01,SUP007
+PRD0122,Milk Powder 2,Grocery,DailyMart,3399.79,5139.97,SUP001
+PRD0123,Milk Powder 3,Grocery,LankaPlus,8427.48,13170.98,SUP008
+PRD0124,Milk Powder 4,Grocery,EverBest,2130.09,2894.98,SUP008
+PRD0125,Milk Powder 5,Grocery,ProMax,9247.89,13628.37,SUP009
+PRD0126,Milk Powder 6,Grocery,DailyMart,6771.82,8272.6,SUP008
+PRD0127,Biscuits 1,Grocery,UrbanLife,3998.99,5043.76,SUP009
+PRD0128,Biscuits 2,Grocery,DailyMart,7346.27,9239.11,SUP002
+PRD0129,Biscuits 3,Grocery,EverBest,10746.14,13492.02,SUP006
+PRD0130,Biscuits 4,Grocery,SmartChoice,13411.45,15909.47,SUP004
+PRD0131,Biscuits 5,Grocery,Prime,5838.07,7115.22,SUP002
+PRD0132,Biscuits 6,Grocery,DailyMart,6310.79,8197.06,SUP007
+PRD0133,Cooking Oil 1,Grocery,ProMax,1074.65,1638.63,SUP010
+PRD0134,Cooking Oil 2,Grocery,ProMax,14199.02,16453.67,SUP008
+PRD0135,Cooking Oil 3,Grocery,ProMax,237.56,310.8,SUP007
+PRD0136,Cooking Oil 4,Grocery,Prime,8142.58,12055.78,SUP008
+PRD0137,Cooking Oil 5,Grocery,Nova,3408.41,4588.15,SUP007
+PRD0138,Cooking Oil 6,Grocery,ProMax,5141.52,7484.07,SUP012
+PRD0139,Cereal 1,Grocery,SmartChoice,2600.91,3538.08,SUP010
+PRD0140,Cereal 2,Grocery,Nova,8081.74,12592.3,SUP002
+PRD0141,Cereal 3,Grocery,DailyMart,9694.83,11741.07,SUP003
+PRD0142,Cereal 4,Grocery,Prime,896.73,1184.22,SUP008
+PRD0143,Cereal 5,Grocery,ProMax,5003.66,7468.23,SUP005
+PRD0144,Cereal 6,Grocery,UrbanLife,11317.35,17251.78,SUP002
+PRD0145,Shampoo 1,Personal Care,Nova,7134.06,10608.78,SUP006
+PRD0146,Shampoo 2,Personal Care,Nova,3479.7,4109.1,SUP001
+PRD0147,Shampoo 3,Personal Care,Nova,14251.73,17668.05,SUP010
+PRD0148,Shampoo 4,Personal Care,LankaPlus,2412.88,2911.86,SUP010
+PRD0149,Shampoo 5,Personal Care,UrbanLife,14224.19,19334.45,SUP006
+PRD0150,Shampoo 6,Personal Care,LankaPlus,2641.67,3759.79,SUP003
+PRD0151,Conditioner 1,Personal Care,Nova,14476.1,17351.7,SUP005
+PRD0152,Conditioner 2,Personal Care,ProMax,8700.58,13560.83,SUP007
+PRD0153,Conditioner 3,Personal Care,Prime,14130.84,17511.62,SUP002
+PRD0154,Conditioner 4,Personal Care,LankaPlus,10503.32,13504.25,SUP010
+PRD0155,Conditioner 5,Personal Care,ProMax,11772.13,15377.25,SUP011
+PRD0156,Conditioner 6,Personal Care,EverBest,5652.98,7788.01,SUP001
+PRD0157,Face Wash 1,Personal Care,LankaPlus,12766.2,19405.25,SUP007
+PRD0158,Face Wash 2,Personal Care,DailyMart,14417.7,20704.01,SUP012
+PRD0159,Face Wash 3,Personal Care,UrbanLife,2421.92,2977.17,SUP010
+PRD0160,Face Wash 4,Personal Care,DailyMart,12151.76,16917.41,SUP008
+PRD0161,Face Wash 5,Personal Care,UrbanLife,6618.28,9788.18,SUP006
+PRD0162,Face Wash 6,Personal Care,LankaPlus,12797.94,19501.87,SUP005
+PRD0163,Body Lotion 1,Personal Care,DailyMart,13242.22,16681.73,SUP010
+PRD0164,Body Lotion 2,Personal Care,Nova,9213.43,12166.75,SUP008
+PRD0165,Body Lotion 3,Personal Care,Prime,12786.65,15750.95,SUP006
+PRD0166,Body Lotion 4,Personal Care,UrbanLife,11997.81,15634.98,SUP009
+PRD0167,Body Lotion 5,Personal Care,LankaPlus,300.74,474.16,SUP004
+PRD0168,Body Lotion 6,Personal Care,Prime,10843.11,14853.54,SUP012
+PRD0169,Toothpaste 1,Personal Care,DailyMart,7219.98,10615.75,SUP001
+PRD0170,Toothpaste 2,Personal Care,Prime,1531.84,1914.37,SUP005
+PRD0171,Toothpaste 3,Personal Care,EverBest,10009.81,13173.5,SUP007
+PRD0172,Toothpaste 4,Personal Care,EverBest,14949.98,20895.21,SUP012
+PRD0173,Toothpaste 5,Personal Care,Prime,6888.12,8871.76,SUP002
+PRD0174,Toothpaste 6,Personal Care,SmartChoice,10861.07,14032.47,SUP004
+PRD0175,Soap 1,Personal Care,UrbanLife,3363.31,4600.64,SUP002
+PRD0176,Soap 2,Personal Care,EverBest,12514.53,16060.03,SUP003
+PRD0177,Soap 3,Personal Care,SmartChoice,4638.67,6812.39,SUP005
+PRD0178,Soap 4,Personal Care,UrbanLife,825.91,970.06,SUP012
+PRD0179,Soap 5,Personal Care,DailyMart,14169.73,20362.49,SUP002
+PRD0180,Soap 6,Personal Care,DailyMart,13109.89,18463.04,SUP008
+PRD0181,Deodorant 1,Personal Care,Nova,6690.96,8249.71,SUP005
+PRD0182,Deodorant 2,Personal Care,LankaPlus,14124.79,19280.03,SUP007
+PRD0183,Deodorant 3,Personal Care,Nova,7452.44,10505.4,SUP003
+PRD0184,Deodorant 4,Personal Care,UrbanLife,2365.58,3319.57,SUP002
+PRD0185,Deodorant 5,Personal Care,ProMax,14909.68,17940.87,SUP010
+PRD0186,Deodorant 6,Personal Care,ProMax,9002.48,12858.14,SUP008
+PRD0187,Hand Wash 1,Personal Care,ProMax,13641.29,17512.81,SUP005
+PRD0188,Hand Wash 2,Personal Care,LankaPlus,8594.15,10116.21,SUP004
+PRD0189,Hand Wash 3,Personal Care,LankaPlus,9438.9,11978.82,SUP003
+PRD0190,Hand Wash 4,Personal Care,SmartChoice,3712.0,5190.85,SUP001
+PRD0191,Hand Wash 5,Personal Care,DailyMart,6216.49,9077.42,SUP005
+PRD0192,Hand Wash 6,Personal Care,UrbanLife,634.7,812.19,SUP012
+PRD0193,T-Shirt 1,Clothing,Prime,12915.16,15266.12,SUP005
+PRD0194,T-Shirt 2,Clothing,Prime,11849.25,16959.55,SUP007
+PRD0195,T-Shirt 3,Clothing,SmartChoice,1854.43,2320.2,SUP005
+PRD0196,T-Shirt 4,Clothing,SmartChoice,12425.47,14688.58,SUP005
+PRD0197,T-Shirt 5,Clothing,UrbanLife,8986.4,13667.49,SUP008
+PRD0198,T-Shirt 6,Clothing,ProMax,1996.65,2914.92,SUP005
+PRD0199,Jeans 1,Clothing,LankaPlus,7582.01,10404.09,SUP010
+PRD0200,Jeans 2,Clothing,EverBest,741.93,997.46,SUP010
+PRD0201,Jeans 3,Clothing,Nova,3867.96,4607.12,SUP011
+PRD0202,Jeans 4,Clothing,SmartChoice,12348.11,17402.33,SUP008
+PRD0203,Jeans 5,Clothing,UrbanLife,7856.61,10598.59,SUP003
+PRD0204,Jeans 6,Clothing,DailyMart,14954.64,20131.16,SUP002
+PRD0205,Casual Shirt 1,Clothing,EverBest,7129.65,9509.22,SUP011
+PRD0206,Casual Shirt 2,Clothing,ProMax,1703.31,2082.08,SUP012
+PRD0207,Casual Shirt 3,Clothing,ProMax,7507.71,10872.38,SUP009
+PRD0208,Casual Shirt 4,Clothing,UrbanLife,694.95,826.73,SUP006
+PRD0209,Casual Shirt 5,Clothing,Nova,1871.44,2802.76,SUP011
+PRD0210,Casual Shirt 6,Clothing,Nova,13060.11,17734.18,SUP004
+PRD0211,Dress 1,Clothing,DailyMart,7848.82,11225.27,SUP011
+PRD0212,Dress 2,Clothing,UrbanLife,6714.31,7877.4,SUP009
+PRD0213,Dress 3,Clothing,DailyMart,2095.55,2681.49,SUP002
+PRD0214,Dress 4,Clothing,Prime,578.71,829.59,SUP012
+PRD0215,Dress 5,Clothing,ProMax,2501.92,3497.38,SUP002
+PRD0216,Dress 6,Clothing,LankaPlus,3486.8,5330.04,SUP008
+PRD0217,Hoodie 1,Clothing,SmartChoice,14213.85,20488.83,SUP008
+PRD0218,Hoodie 2,Clothing,UrbanLife,13999.9,17938.6,SUP007
+PRD0219,Hoodie 3,Clothing,Prime,12545.65,19961.51,SUP008
+PRD0220,Hoodie 4,Clothing,SmartChoice,8336.29,11025.69,SUP002
+PRD0221,Hoodie 5,Clothing,ProMax,4252.27,6401.8,SUP006
+PRD0222,Hoodie 6,Clothing,Nova,14023.59,19331.27,SUP005
+PRD0223,Shorts 1,Clothing,DailyMart,10931.86,16691.47,SUP003
+PRD0224,Shorts 2,Clothing,EverBest,6781.23,9276.41,SUP009
+PRD0225,Shorts 3,Clothing,EverBest,11478.66,15148.9,SUP004
+PRD0226,Shorts 4,Clothing,ProMax,14714.5,18502.93,SUP004
+PRD0227,Shorts 5,Clothing,EverBest,12861.79,17168.54,SUP012
+PRD0228,Shorts 6,Clothing,ProMax,7173.7,11198.46,SUP007
+PRD0229,Skirt 1,Clothing,SmartChoice,14827.95,22339.45,SUP008
+PRD0230,Skirt 2,Clothing,EverBest,14477.64,17471.77,SUP002
+PRD0231,Skirt 3,Clothing,DailyMart,13131.73,17703.38,SUP001
+PRD0232,Skirt 4,Clothing,SmartChoice,10878.29,14516.97,SUP002
+PRD0233,Skirt 5,Clothing,EverBest,7121.94,11296.41,SUP010
+PRD0234,Skirt 6,Clothing,EverBest,10436.66,15054.11,SUP011
+PRD0235,Sports Trousers 1,Clothing,EverBest,12911.23,17055.79,SUP011
+PRD0236,Sports Trousers 2,Clothing,Nova,10822.95,16144.93,SUP010
+PRD0237,Sports Trousers 3,Clothing,UrbanLife,1166.05,1672.14,SUP004
+PRD0238,Sports Trousers 4,Clothing,LankaPlus,11239.48,15120.33,SUP011
+PRD0239,Sports Trousers 5,Clothing,SmartChoice,10602.78,12672.74,SUP012
+PRD0240,Sports Trousers 6,Clothing,EverBest,4597.07,5346.51,SUP001
+PRD0241,Notebook 1,Stationery,SmartChoice,4506.51,5942.64,SUP004
+PRD0242,Notebook 2,Stationery,SmartChoice,8037.82,11290.47,SUP003
+PRD0243,Notebook 3,Stationery,ProMax,2749.78,3916.43,SUP010
+PRD0244,Notebook 4,Stationery,SmartChoice,10294.55,14144.2,SUP004
+PRD0245,Notebook 5,Stationery,UrbanLife,6998.08,8847.6,SUP011
+PRD0246,Notebook 6,Stationery,UrbanLife,289.55,437.82,SUP011
+PRD0247,Ball Pen 1,Stationery,EverBest,8266.98,9781.8,SUP010
+PRD0248,Ball Pen 2,Stationery,UrbanLife,4592.44,7269.43,SUP008
+PRD0249,Ball Pen 3,Stationery,ProMax,12702.76,15746.95,SUP008
+PRD0250,Ball Pen 4,Stationery,EverBest,1733.8,2291.41,SUP010
+PRD0251,Ball Pen 5,Stationery,Nova,4543.7,6655.05,SUP011
+PRD0252,Ball Pen 6,Stationery,Nova,6027.72,6953.84,SUP010
+PRD0253,Pencil Set 1,Stationery,UrbanLife,11215.81,17101.61,SUP004
+PRD0254,Pencil Set 2,Stationery,Prime,9164.92,11992.71,SUP010
+PRD0255,Pencil Set 3,Stationery,SmartChoice,3871.81,5769.03,SUP011
+PRD0256,Pencil Set 4,Stationery,Nova,1592.88,2281.57,SUP005
+PRD0257,Pencil Set 5,Stationery,EverBest,11860.87,13818.08,SUP012
+PRD0258,Pencil Set 6,Stationery,EverBest,2101.47,3276.89,SUP012
+PRD0259,Marker Set 1,Stationery,EverBest,6320.22,7839.33,SUP009
+PRD0260,Marker Set 2,Stationery,SmartChoice,7601.65,9674.14,SUP005
+PRD0261,Marker Set 3,Stationery,UrbanLife,13723.63,21613.13,SUP012
+PRD0262,Marker Set 4,Stationery,DailyMart,13075.39,19768.74,SUP002
+PRD0263,Marker Set 5,Stationery,ProMax,2240.24,3550.61,SUP009
+PRD0264,Marker Set 6,Stationery,Nova,5581.76,8405.05,SUP005
+PRD0265,File Folder 1,Stationery,UrbanLife,8118.1,10997.21,SUP010
+PRD0266,File Folder 2,Stationery,EverBest,5808.23,8348.44,SUP002
+PRD0267,File Folder 3,Stationery,EverBest,10171.32,13855.01,SUP010
+PRD0268,File Folder 4,Stationery,DailyMart,3437.3,4050.68,SUP012
+PRD0269,File Folder 5,Stationery,SmartChoice,4637.52,6185.21,SUP001
+PRD0270,File Folder 6,Stationery,DailyMart,14201.98,18277.44,SUP002
+PRD0271,Stapler 1,Stationery,SmartChoice,1593.3,2468.45,SUP007
+PRD0272,Stapler 2,Stationery,ProMax,6886.61,9997.42,SUP010
+PRD0273,Stapler 3,Stationery,ProMax,11172.69,13625.49,SUP011
+PRD0274,Stapler 4,Stationery,ProMax,1620.47,2220.38,SUP005
+PRD0275,Stapler 5,Stationery,DailyMart,635.84,837.23,SUP008
+PRD0276,Stapler 6,Stationery,LankaPlus,14265.74,21897.23,SUP011
+PRD0277,Calculator 1,Stationery,EverBest,5604.92,8719.93,SUP001
+PRD0278,Calculator 2,Stationery,LankaPlus,6062.37,7489.54,SUP008
+PRD0279,Calculator 3,Stationery,Nova,1511.35,1882.31,SUP001
+PRD0280,Calculator 4,Stationery,SmartChoice,11833.9,14906.05,SUP010
+PRD0281,Calculator 5,Stationery,Prime,3197.3,4870.82,SUP010
+PRD0282,Calculator 6,Stationery,EverBest,3356.88,5174.17,SUP003
+PRD0283,Sketch Book 1,Stationery,UrbanLife,11861.36,16821.68,SUP003
+PRD0284,Sketch Book 2,Stationery,SmartChoice,14814.78,20638.42,SUP002
+PRD0285,Sketch Book 3,Stationery,Nova,9966.71,11577.34,SUP006
+PRD0286,Sketch Book 4,Stationery,EverBest,11881.27,14935.58,SUP001
+PRD0287,Sketch Book 5,Stationery,ProMax,2737.56,3212.74,SUP009
+PRD0288,Sketch Book 6,Stationery,DailyMart,1837.69,2165.9,SUP006
+PRD0289,Football 1,Sports,Prime,7771.58,9318.7,SUP010
+PRD0290,Football 2,Sports,UrbanLife,793.97,1192.9,SUP008
+PRD0291,Football 3,Sports,DailyMart,9703.61,11295.17,SUP007
+PRD0292,Football 4,Sports,DailyMart,6480.16,7767.01,SUP002
+PRD0293,Football 5,Sports,SmartChoice,13504.11,17487.15,SUP002
+PRD0294,Football 6,Sports,EverBest,2023.95,2896.16,SUP007
+PRD0295,Basketball 1,Sports,DailyMart,14920.22,20720.46,SUP009
+PRD0296,Basketball 2,Sports,LankaPlus,9140.59,10919.63,SUP011
+PRD0297,Basketball 3,Sports,Prime,9816.11,14685.23,SUP007
+PRD0298,Basketball 4,Sports,EverBest,6855.59,8588.83,SUP008
+PRD0299,Basketball 5,Sports,EverBest,6071.14,8975.12,SUP007
+PRD0300,Basketball 6,Sports,SmartChoice,4790.98,6059.15,SUP011
+PRD0301,Tennis Racket 1,Sports,LankaPlus,13856.33,16353.38,SUP002
+PRD0302,Tennis Racket 2,Sports,EverBest,6563.37,9747.03,SUP003
+PRD0303,Tennis Racket 3,Sports,EverBest,8412.11,11893.96,SUP011
+PRD0304,Tennis Racket 4,Sports,ProMax,1965.13,2572.59,SUP012
+PRD0305,Tennis Racket 5,Sports,UrbanLife,913.97,1169.36,SUP006
+PRD0306,Tennis Racket 6,Sports,SmartChoice,1688.47,2327.28,SUP011
+PRD0307,Yoga Mat 1,Sports,EverBest,7310.51,11194.39,SUP009
+PRD0308,Yoga Mat 2,Sports,Prime,5608.28,8374.13,SUP007
+PRD0309,Yoga Mat 3,Sports,Nova,12700.55,20175.41,SUP010
+PRD0310,Yoga Mat 4,Sports,UrbanLife,13946.9,21244.72,SUP001
+PRD0311,Yoga Mat 5,Sports,UrbanLife,2829.18,4148.18,SUP006
+PRD0312,Yoga Mat 6,Sports,SmartChoice,5362.7,6604.88,SUP010
+PRD0313,Skipping Rope 1,Sports,Nova,9911.57,11708.67,SUP002
+PRD0314,Skipping Rope 2,Sports,ProMax,11229.76,14001.37,SUP008
+PRD0315,Skipping Rope 3,Sports,EverBest,5212.31,6862.13,SUP010
+PRD0316,Skipping Rope 4,Sports,SmartChoice,9003.92,13933.6,SUP003
+PRD0317,Skipping Rope 5,Sports,LankaPlus,11353.37,13310.61,SUP005
+PRD0318,Skipping Rope 6,Sports,DailyMart,6730.23,9023.94,SUP007
+PRD0319,Water Bottle 1,Sports,LankaPlus,4206.53,6266.57,SUP006
+PRD0320,Water Bottle 2,Sports,DailyMart,6534.22,8347.21,SUP009
+PRD0321,Water Bottle 3,Sports,ProMax,10056.92,11771.0,SUP010
+PRD0322,Water Bottle 4,Sports,Prime,963.51,1196.67,SUP003
+PRD0323,Water Bottle 5,Sports,LankaPlus,11497.79,14720.06,SUP001
+PRD0324,Water Bottle 6,Sports,SmartChoice,7536.17,10127.07,SUP007
+PRD0325,Sports Bag 1,Sports,EverBest,8058.85,10102.17,SUP002
+PRD0326,Sports Bag 2,Sports,ProMax,6046.51,8972.53,SUP001
+PRD0327,Sports Bag 3,Sports,EverBest,6977.35,8268.43,SUP010
+PRD0328,Sports Bag 4,Sports,ProMax,6524.87,8691.06,SUP005
+PRD0329,Sports Bag 5,Sports,EverBest,1860.32,2156.83,SUP003
+PRD0330,Sports Bag 6,Sports,EverBest,12049.63,17208.76,SUP002
+PRD0331,Training Gloves 1,Sports,ProMax,6635.17,7946.53,SUP010
+PRD0332,Training Gloves 2,Sports,UrbanLife,6096.68,7226.95,SUP012
+PRD0333,Training Gloves 3,Sports,SmartChoice,5191.77,6748.68,SUP002
+PRD0334,Training Gloves 4,Sports,Prime,7730.68,9286.96,SUP006
+PRD0335,Training Gloves 5,Sports,SmartChoice,5363.83,8481.29,SUP004
+PRD0336,Training Gloves 6,Sports,SmartChoice,1676.65,2121.27,SUP010
