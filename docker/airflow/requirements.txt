@@ -1,0 +1,7 @@
+boto3
+pandas
+numpy
+requests
+python-dotenv
+psycopg2-binary
+pyarrow
