@@ -1,0 +1,1051 @@
+customer_id,first_name,last_name,email,phone,city,loyalty_tier,registration_date
+CUST0001,Ruwan,Herath,ruwan.herath1@retaillake.lk,0797980930,Kandy,Silver,2024-08-25
+CUST0002,Zainab,Herath,zainab.herath2@retaillake.lk,0787774890,Matara,Gold,2023-03-15
+CUST0003,Kamal,Rathnayake,kamal.rathnayake3@retaillake.lk,0769352161,Kurunegala,Gold,2025-01-12
+CUST0004,Anjali,Fernando,anjali.fernando4@retaillake.lk,0751662236,Matara,Platinum,2021-01-12
+CUST0005,Chamath,Fernando,chamath.fernando5@retaillake.lk,0796525668,Kandy,Platinum,2024-10-18
+CUST0006,Nimal,Rathnayake,nimal.rathnayake6@retaillake.lk,0786726461,Badulla,Gold,2025-08-17
+CUST0007,Ruwan,Perera,ruwan.perera7@retaillake.lk,0770468188,Kandy,Gold,2021-09-21
+CUST0008,Kasun,Perera,kasun.perera8@retaillake.lk,0743251599,Matara,Platinum,2025-09-20
+CUST0009,Kasun,Wijesinghe,kasun.wijesinghe9@retaillake.lk,0760043345,Kurunegala,Platinum,2024-06-22
+CUST0010,Madhavi,Perera,madhavi.perera10@retaillake.lk,0794676162,Jaffna,Bronze,2023-02-18
+CUST0011,Dilani,Jayasinghe,dilani.jayasinghe11@retaillake.lk,0743822301,Nuwara Eliya,Silver,2023-02-19
+CUST0012,Ruwan,Wijesinghe,ruwan.wijesinghe12@retaillake.lk,0751638598,Negombo,Silver,2025-12-03
+CUST0013,Chamath,Senanayake,chamath.senanayake13@retaillake.lk,0760557040,Jaffna,Silver,2025-02-21
+CUST0014,Hiruni,Senanayake,hiruni.senanayake14@retaillake.lk,0758563745,Colombo,Gold,2023-03-07
+CUST0015,Ayesha,Herath,ayesha.herath15@retaillake.lk,0775266178,Badulla,Silver,2022-03-03
+CUST0016,Chamath,Abeysekara,chamath.abeysekara16@retaillake.lk,0723574883,Ratnapura,Bronze,2023-10-05
+CUST0017,Madhavi,Gunawardena,madhavi.gunawardena17@retaillake.lk,0730703455,Galle,Silver,2025-03-24
+CUST0018,Shalini,Perera,shalini.perera18@retaillake.lk,0765144509,Jaffna,Silver,2024-10-10
+CUST0019,Shalini,Bandara,shalini.bandara19@retaillake.lk,0781673763,Badulla,Gold,2024-04-12
+CUST0020,Zainab,Rathnayake,zainab.rathnayake20@retaillake.lk,0771965637,Kurunegala,Platinum,2025-09-14
+CUST0021,Kasun,Abeysekara,kasun.abeysekara21@retaillake.lk,0736802975,Nuwara Eliya,Silver,2023-01-21
+CUST0022,Tharushi,Abeysekara,tharushi.abeysekara22@retaillake.lk,0759823245,Ratnapura,Bronze,2025-02-10
+CUST0023,Kamal,Herath,kamal.herath23@retaillake.lk,0731516757,Kurunegala,Platinum,2025-03-27
+CUST0024,Hiruni,Fernando,hiruni.fernando24@retaillake.lk,0739801436,Matara,Gold,2021-07-02
+CUST0025,Dilani,Senanayake,dilani.senanayake25@retaillake.lk,0760192261,Badulla,Platinum,2021-06-08
+CUST0026,Amal,Wijesinghe,amal.wijesinghe26@retaillake.lk,0723298711,Jaffna,Silver,2022-01-10
+CUST0027,Tharushi,Rajapaksha,tharushi.rajapaksha27@retaillake.lk,0728628439,Matara,Platinum,2025-01-03
+CUST0028,Amal,Jayasinghe,amal.jayasinghe28@retaillake.lk,0738944689,Galle,Platinum,2021-05-08
+CUST0029,Chamath,Fernando,chamath.fernando29@retaillake.lk,0716408822,Badulla,Platinum,2025-08-03
+CUST0030,Saman,Abeysekara,saman.abeysekara30@retaillake.lk,0777085942,Nuwara Eliya,Bronze,2025-10-08
+CUST0031,Ruwan,Jayasinghe,ruwan.jayasinghe31@retaillake.lk,0767611469,Colombo,Gold,2022-10-14
+CUST0032,Kasun,De Silva,kasun.desilva32@retaillake.lk,0799686286,Kandy,Gold,2021-09-18
+CUST0033,Anjali,Herath,anjali.herath33@retaillake.lk,0778131950,Ratnapura,Bronze,2024-08-02
+CUST0034,Dilani,Wijesinghe,dilani.wijesinghe34@retaillake.lk,0744044361,Colombo,Gold,2021-06-08
+CUST0035,Saman,Herath,saman.herath35@retaillake.lk,0788101741,Jaffna,Silver,2021-06-18
+CUST0036,Ayesha,Abeysekara,ayesha.abeysekara36@retaillake.lk,0796274567,Galle,Platinum,2024-11-06
+CUST0037,Ruwan,Fernando,ruwan.fernando37@retaillake.lk,0771428713,Colombo,Gold,2022-01-26
+CUST0038,Dinesh,Perera,dinesh.perera38@retaillake.lk,0752358553,Kurunegala,Platinum,2025-08-09
+CUST0039,Nimal,Herath,nimal.herath39@retaillake.lk,0796825515,Badulla,Gold,2023-01-28
+CUST0040,Ayesha,Jayasinghe,ayesha.jayasinghe40@retaillake.lk,0726706752,Jaffna,Platinum,2024-12-15
+CUST0041,Dilani,Wijesinghe,dilani.wijesinghe41@retaillake.lk,0735074182,Matara,Platinum,2023-09-09
+CUST0042,Kamal,Rajapaksha,kamal.rajapaksha42@retaillake.lk,0766975380,Kandy,Platinum,2025-03-18
+CUST0043,Chamath,Wijesinghe,chamath.wijesinghe43@retaillake.lk,0723770458,Kandy,Gold,2023-05-15
+CUST0044,Madhavi,Rajapaksha,madhavi.rajapaksha44@retaillake.lk,0767192331,Galle,Platinum,2023-08-02
+CUST0045,Nadeesha,Karunaratne,nadeesha.karunaratne45@retaillake.lk,0768376726,Kurunegala,Bronze,2021-11-21
+CUST0046,Dilani,Wijesinghe,dilani.wijesinghe46@retaillake.lk,0778865239,Galle,Bronze,2022-10-22
+CUST0047,Shalini,Perera,shalini.perera47@retaillake.lk,0726942307,Kandy,Silver,2023-06-13
+CUST0048,Zainab,Perera,zainab.perera48@retaillake.lk,0791214453,Galle,Platinum,2023-06-15
+CUST0049,Kamal,Karunaratne,kamal.karunaratne49@retaillake.lk,0728481124,Ratnapura,Gold,2024-06-21
+CUST0050,Isuru,Bandara,isuru.bandara50@retaillake.lk,0725226815,Colombo,Silver,2024-09-13
+CUST0051,Fathima,Fernando,fathima.fernando51@retaillake.lk,0745135070,Kurunegala,Platinum,2022-10-10
+CUST0052,Tharushi,Bandara,tharushi.bandara52@retaillake.lk,0726460116,Galle,Bronze,2024-03-23
+CUST0053,Shalini,Fernando,shalini.fernando53@retaillake.lk,0752894344,Jaffna,Bronze,2025-09-10
+CUST0054,Chamath,Abeysekara,chamath.abeysekara54@retaillake.lk,0731139996,Galle,Gold,2025-04-04
+CUST0055,Dinesh,Herath,dinesh.herath55@retaillake.lk,0728639738,Badulla,Platinum,2021-06-18
+CUST0056,Zainab,Wijesinghe,zainab.wijesinghe56@retaillake.lk,0772734149,Ratnapura,Silver,2025-02-03
+CUST0057,Chamath,Gunawardena,chamath.gunawardena57@retaillake.lk,0774245343,Ratnapura,Platinum,2024-10-03
+CUST0058,Ruwan,Wijesinghe,ruwan.wijesinghe58@retaillake.lk,0796213226,Kandy,Platinum,2024-11-17
+CUST0059,Nadeesha,Silva,nadeesha.silva59@retaillake.lk,0783994695,Nuwara Eliya,Silver,2022-07-17
+CUST0060,Nimal,Abeysekara,nimal.abeysekara60@retaillake.lk,0726664623,Ratnapura,Silver,2023-03-06
+CUST0061,Ayesha,Rajapaksha,ayesha.rajapaksha61@retaillake.lk,0740262109,Jaffna,Gold,2021-05-07
+CUST0062,Fathima,Jayasinghe,fathima.jayasinghe62@retaillake.lk,0726800072,Kurunegala,Bronze,2025-11-06
+CUST0063,Zainab,Karunaratne,zainab.karunaratne63@retaillake.lk,0730695604,Galle,Gold,2025-01-27
+CUST0064,Amal,Fernando,amal.fernando64@retaillake.lk,0716101779,Nuwara Eliya,Gold,2022-10-14
+CUST0065,Madhavi,De Silva,madhavi.desilva65@retaillake.lk,0714064904,Matara,Gold,2023-08-08
+CUST0066,Dilani,Jayasinghe,dilani.jayasinghe66@retaillake.lk,0770873663,Kandy,Bronze,2022-08-14
+CUST0067,Tharushi,Rathnayake,tharushi.rathnayake67@retaillake.lk,0737383505,Jaffna,Silver,2023-12-11
+CUST0068,Nadeesha,Gunawardena,nadeesha.gunawardena68@retaillake.lk,0727551135,Jaffna,Bronze,2023-04-15
+CUST0069,Saman,Jayasinghe,saman.jayasinghe69@retaillake.lk,0770343755,Badulla,Silver,2021-01-10
+CUST0070,Dilani,Abeysekara,dilani.abeysekara70@retaillake.lk,0792594562,Negombo,Silver,2022-06-19
+CUST0071,Ayesha,Bandara,ayesha.bandara71@retaillake.lk,0731386576,Matara,Platinum,2024-05-16
+CUST0072,Amal,Fernando,amal.fernando72@retaillake.lk,0762780072,Ratnapura,Platinum,2022-04-19
+CUST0073,Nadeesha,Perera,nadeesha.perera73@retaillake.lk,0716783418,Kurunegala,Platinum,2025-11-22
+CUST0074,Tharushi,Jayasinghe,tharushi.jayasinghe74@retaillake.lk,0782033413,Colombo,Bronze,2024-03-09
+CUST0075,Nadeesha,Herath,nadeesha.herath75@retaillake.lk,0764123845,Jaffna,Bronze,2024-01-19
+CUST0076,Fathima,Bandara,fathima.bandara76@retaillake.lk,0758657117,Ratnapura,Gold,2021-07-17
+CUST0077,Shalini,Herath,shalini.herath77@retaillake.lk,0783800569,Kurunegala,Bronze,2022-02-13
+CUST0078,Nadeesha,Herath,nadeesha.herath78@retaillake.lk,0755511258,Ratnapura,Gold,2022-04-20
+CUST0079,Anjali,Gunawardena,anjali.gunawardena79@retaillake.lk,0777119320,Colombo,Bronze,2021-03-23
+CUST0080,Ayesha,Herath,ayesha.herath80@retaillake.lk,0773584863,Ratnapura,Platinum,2022-10-17
+CUST0081,Ruwan,Wijesinghe,ruwan.wijesinghe81@retaillake.lk,0792284610,Jaffna,Silver,2024-10-24
+CUST0082,Chamath,Karunaratne,chamath.karunaratne82@retaillake.lk,0755147280,Ratnapura,Platinum,2025-05-16
+CUST0083,Amal,Wijesinghe,amal.wijesinghe83@retaillake.lk,0754458225,Kandy,Platinum,2025-05-26
+CUST0084,Amal,Karunaratne,amal.karunaratne84@retaillake.lk,0773698420,Kurunegala,Silver,2021-10-16
+CUST0085,Kasun,Senanayake,kasun.senanayake85@retaillake.lk,0794426338,Nuwara Eliya,Platinum,2022-11-08
+CUST0086,Nimal,Karunaratne,nimal.karunaratne86@retaillake.lk,0724749927,Badulla,Bronze,2024-06-14
+CUST0087,Ruwan,Gunawardena,ruwan.gunawardena87@retaillake.lk,0737365878,Negombo,Platinum,2021-12-05
+CUST0088,Anjali,Bandara,anjali.bandara88@retaillake.lk,0785280948,Jaffna,Platinum,2025-07-11
+CUST0089,Kasun,Rathnayake,kasun.rathnayake89@retaillake.lk,0781555103,Jaffna,Gold,2023-10-16
+CUST0090,Dinesh,Bandara,dinesh.bandara90@retaillake.lk,0747447604,Ratnapura,Gold,2022-05-25
+CUST0091,Chamath,Rajapaksha,chamath.rajapaksha91@retaillake.lk,0737820354,Matara,Gold,2024-06-18
+CUST0092,Isuru,Jayasinghe,isuru.jayasinghe92@retaillake.lk,0726357665,Nuwara Eliya,Platinum,2024-06-25
+CUST0093,Ruwan,Jayasinghe,ruwan.jayasinghe93@retaillake.lk,0715646068,Kurunegala,Bronze,2023-08-21
+CUST0094,Isuru,Rajapaksha,isuru.rajapaksha94@retaillake.lk,0774300930,Badulla,Silver,2025-05-18
+CUST0095,Isuru,Silva,isuru.silva95@retaillake.lk,0724660143,Nuwara Eliya,Silver,2022-01-22
+CUST0096,Anjali,Bandara,anjali.bandara96@retaillake.lk,0795623471,Badulla,Bronze,2021-07-11
+CUST0097,Tharushi,Fernando,tharushi.fernando97@retaillake.lk,0728450513,Colombo,Silver,2024-11-16
+CUST0098,Tharushi,De Silva,tharushi.desilva98@retaillake.lk,0736770527,Kurunegala,Gold,2023-11-02
+CUST0099,Kamal,De Silva,kamal.desilva99@retaillake.lk,0787058874,Badulla,Bronze,2022-07-27
+CUST0100,Kasun,Perera,kasun.perera100@retaillake.lk,0763283709,Matara,Silver,2023-01-01
+CUST0101,Chamath,Karunaratne,chamath.karunaratne101@retaillake.lk,0790904160,Kandy,Gold,2023-08-21
+CUST0102,Fathima,Senanayake,fathima.senanayake102@retaillake.lk,0776291802,Galle,Platinum,2023-04-26
+CUST0103,Saman,Wijesinghe,saman.wijesinghe103@retaillake.lk,0731809610,Matara,Gold,2022-01-24
+CUST0104,Ayesha,Herath,ayesha.herath104@retaillake.lk,0749597485,Nuwara Eliya,Silver,2022-10-28
+CUST0105,Dilani,Abeysekara,dilani.abeysekara105@retaillake.lk,0767405358,Ratnapura,Gold,2021-07-22
+CUST0106,Saman,Silva,saman.silva106@retaillake.lk,0728872606,Matara,Gold,2022-01-09
+CUST0107,Dilani,Bandara,dilani.bandara107@retaillake.lk,0769959826,Kurunegala,Gold,2023-10-24
+CUST0108,Zainab,Perera,zainab.perera108@retaillake.lk,0745105069,Jaffna,Silver,2021-11-04
+CUST0109,Shalini,Jayasinghe,shalini.jayasinghe109@retaillake.lk,0731436829,Negombo,Gold,2021-11-10
+CUST0110,Nadeesha,Karunaratne,nadeesha.karunaratne110@retaillake.lk,0739641883,Badulla,Silver,2024-03-15
+CUST0111,Madhavi,Wijesinghe,madhavi.wijesinghe111@retaillake.lk,0765813853,Ratnapura,Platinum,2025-11-27
+CUST0112,Dinesh,Herath,dinesh.herath112@retaillake.lk,0743214247,Nuwara Eliya,Bronze,2025-08-17
+CUST0113,Nadeesha,Fernando,nadeesha.fernando113@retaillake.lk,0785721444,Kandy,Bronze,2025-09-07
+CUST0114,Zainab,Senanayake,zainab.senanayake114@retaillake.lk,0730112846,Galle,Gold,2025-08-04
+CUST0115,Dinesh,Rajapaksha,dinesh.rajapaksha115@retaillake.lk,0788268756,Matara,Bronze,2025-08-26
+CUST0116,Nimal,Rathnayake,nimal.rathnayake116@retaillake.lk,0727709269,Ratnapura,Platinum,2024-10-02
+CUST0117,Fathima,Rathnayake,fathima.rathnayake117@retaillake.lk,0751361818,Colombo,Platinum,2023-01-24
+CUST0118,Dinesh,Karunaratne,dinesh.karunaratne118@retaillake.lk,0719801857,Colombo,Platinum,2023-12-03
+CUST0119,Fathima,Perera,fathima.perera119@retaillake.lk,0719263592,Matara,Bronze,2023-07-06
+CUST0120,Ruwan,Herath,ruwan.herath120@retaillake.lk,0796104027,Negombo,Gold,2024-08-28
+CUST0121,Dilani,Gunawardena,dilani.gunawardena121@retaillake.lk,0720770971,Ratnapura,Silver,2023-02-06
+CUST0122,Fathima,Gunawardena,fathima.gunawardena122@retaillake.lk,0780980044,Galle,Silver,2021-01-10
+CUST0123,Shalini,De Silva,shalini.desilva123@retaillake.lk,0783074216,Negombo,Platinum,2022-04-15
+CUST0124,Nadeesha,Silva,nadeesha.silva124@retaillake.lk,0746997080,Badulla,Bronze,2021-11-14
+CUST0125,Madhavi,Herath,madhavi.herath125@retaillake.lk,0712099943,Badulla,Silver,2021-02-20
+CUST0126,Nimal,Rathnayake,nimal.rathnayake126@retaillake.lk,0790233330,Colombo,Silver,2021-07-15
+CUST0127,Tharindu,Senanayake,tharindu.senanayake127@retaillake.lk,0739161379,Colombo,Silver,2025-05-08
+CUST0128,Zainab,Wijesinghe,zainab.wijesinghe128@retaillake.lk,0787507357,Nuwara Eliya,Gold,2022-05-05
+CUST0129,Anjali,Bandara,anjali.bandara129@retaillake.lk,0765507111,Kurunegala,Gold,2021-09-19
+CUST0130,Kasun,De Silva,kasun.desilva130@retaillake.lk,0767337891,Ratnapura,Platinum,2021-06-21
+CUST0131,Dilani,Herath,dilani.herath131@retaillake.lk,0780392240,Jaffna,Platinum,2024-03-10
+CUST0132,Dilani,Silva,dilani.silva132@retaillake.lk,0782199509,Matara,Silver,2022-05-28
+CUST0133,Ruwan,Herath,ruwan.herath133@retaillake.lk,0772146184,Colombo,Platinum,2024-09-17
+CUST0134,Ruwan,Gunawardena,ruwan.gunawardena134@retaillake.lk,0742595918,Kurunegala,Silver,2023-11-03
+CUST0135,Shalini,Abeysekara,shalini.abeysekara135@retaillake.lk,0759805178,Kandy,Silver,2021-05-13
+CUST0136,Madhavi,Karunaratne,madhavi.karunaratne136@retaillake.lk,0715307982,Kandy,Silver,2025-12-22
+CUST0137,Fathima,Bandara,fathima.bandara137@retaillake.lk,0774343201,Badulla,Gold,2023-01-07
+CUST0138,Dinesh,Rajapaksha,dinesh.rajapaksha138@retaillake.lk,0725745913,Matara,Silver,2025-12-07
+CUST0139,Dilani,Bandara,dilani.bandara139@retaillake.lk,0784098828,Jaffna,Gold,2024-08-18
+CUST0140,Nadeesha,Jayasinghe,nadeesha.jayasinghe140@retaillake.lk,0745106207,Jaffna,Platinum,2024-02-26
+CUST0141,Tharushi,Herath,tharushi.herath141@retaillake.lk,0752980983,Badulla,Gold,2023-07-02
+CUST0142,Zainab,Abeysekara,zainab.abeysekara142@retaillake.lk,0739698906,Galle,Bronze,2023-09-19
+CUST0143,Zainab,Rajapaksha,zainab.rajapaksha143@retaillake.lk,0766046380,Kurunegala,Silver,2022-06-08
+CUST0144,Dilani,Karunaratne,dilani.karunaratne144@retaillake.lk,0742981324,Matara,Gold,2023-08-24
+CUST0145,Tharushi,Rathnayake,tharushi.rathnayake145@retaillake.lk,0732579937,Jaffna,Silver,2022-12-18
+CUST0146,Tharushi,Silva,tharushi.silva146@retaillake.lk,0782764376,Colombo,Bronze,2021-11-02
+CUST0147,Amal,Gunawardena,amal.gunawardena147@retaillake.lk,0728453800,Badulla,Bronze,2022-01-07
+CUST0148,Anjali,Rathnayake,anjali.rathnayake148@retaillake.lk,0760090149,Colombo,Platinum,2024-01-01
+CUST0149,Fathima,Senanayake,fathima.senanayake149@retaillake.lk,0765208920,Colombo,Bronze,2025-12-09
+CUST0150,Fathima,Jayasinghe,fathima.jayasinghe150@retaillake.lk,0712300840,Ratnapura,Platinum,2022-02-04
+CUST0151,Anjali,Silva,anjali.silva151@retaillake.lk,0742342289,Badulla,Gold,2023-05-26
+CUST0152,Dilani,Fernando,dilani.fernando152@retaillake.lk,0760070135,Negombo,Platinum,2025-04-23
+CUST0153,Tharindu,Jayasinghe,tharindu.jayasinghe153@retaillake.lk,0720820219,Colombo,Bronze,2024-07-13
+CUST0154,Fathima,Rathnayake,fathima.rathnayake154@retaillake.lk,0717531619,Colombo,Silver,2021-08-28
+CUST0155,Hiruni,De Silva,hiruni.desilva155@retaillake.lk,0754462389,Nuwara Eliya,Bronze,2025-01-08
+CUST0156,Dinesh,Abeysekara,dinesh.abeysekara156@retaillake.lk,0786072480,Matara,Gold,2021-02-22
+CUST0157,Isuru,Senanayake,isuru.senanayake157@retaillake.lk,0785633013,Colombo,Silver,2023-01-07
+CUST0158,Zainab,Silva,zainab.silva158@retaillake.lk,0763458386,Kandy,Gold,2022-10-08
+CUST0159,Zainab,Abeysekara,zainab.abeysekara159@retaillake.lk,0762231715,Ratnapura,Gold,2024-12-05
+CUST0160,Kamal,Senanayake,kamal.senanayake160@retaillake.lk,0756420476,Colombo,Bronze,2024-04-27
+CUST0161,Kamal,Wijesinghe,kamal.wijesinghe161@retaillake.lk,0791224373,Nuwara Eliya,Platinum,2023-01-21
+CUST0162,Isuru,Herath,isuru.herath162@retaillake.lk,0770471823,Matara,Silver,2023-09-13
+CUST0163,Hiruni,Silva,hiruni.silva163@retaillake.lk,0788634827,Negombo,Bronze,2025-05-26
+CUST0164,Tharindu,Rajapaksha,tharindu.rajapaksha164@retaillake.lk,0719865900,Kandy,Gold,2022-07-23
+CUST0165,Ruwan,Rajapaksha,ruwan.rajapaksha165@retaillake.lk,0762294176,Jaffna,Gold,2021-02-01
+CUST0166,Chamath,Rathnayake,chamath.rathnayake166@retaillake.lk,0758307308,Kurunegala,Bronze,2022-02-06
+CUST0167,Hiruni,Rathnayake,hiruni.rathnayake167@retaillake.lk,0784757265,Ratnapura,Platinum,2021-01-03
+CUST0168,Nadeesha,Senanayake,nadeesha.senanayake168@retaillake.lk,0722490873,Nuwara Eliya,Gold,2024-01-10
+CUST0169,Hiruni,Gunawardena,hiruni.gunawardena169@retaillake.lk,0721368176,Ratnapura,Silver,2025-09-06
+CUST0170,Dilani,Silva,dilani.silva170@retaillake.lk,0728634797,Kurunegala,Gold,2023-08-05
+CUST0171,Kamal,Silva,kamal.silva171@retaillake.lk,0768341261,Kurunegala,Platinum,2023-08-26
+CUST0172,Kamal,Wijesinghe,kamal.wijesinghe172@retaillake.lk,0743782566,Badulla,Platinum,2025-10-07
+CUST0173,Shalini,Fernando,shalini.fernando173@retaillake.lk,0728185096,Kurunegala,Bronze,2024-06-27
+CUST0174,Madhavi,Gunawardena,madhavi.gunawardena174@retaillake.lk,0754230340,Matara,Gold,2024-11-20
+CUST0175,Ruwan,Jayasinghe,ruwan.jayasinghe175@retaillake.lk,0753038948,Nuwara Eliya,Silver,2024-06-06
+CUST0176,Dilani,Wijesinghe,dilani.wijesinghe176@retaillake.lk,0749117508,Matara,Silver,2023-07-09
+CUST0177,Dilani,Wijesinghe,dilani.wijesinghe177@retaillake.lk,0725285764,Nuwara Eliya,Silver,2025-09-06
+CUST0178,Fathima,Perera,fathima.perera178@retaillake.lk,0771957885,Badulla,Platinum,2023-12-03
+CUST0179,Hiruni,De Silva,hiruni.desilva179@retaillake.lk,0777015343,Galle,Gold,2022-05-22
+CUST0180,Ruwan,Rajapaksha,ruwan.rajapaksha180@retaillake.lk,0766791272,Negombo,Bronze,2024-10-16
+CUST0181,Zainab,Gunawardena,zainab.gunawardena181@retaillake.lk,0781721578,Ratnapura,Platinum,2025-01-26
+CUST0182,Nadeesha,Rajapaksha,nadeesha.rajapaksha182@retaillake.lk,0782062301,Nuwara Eliya,Bronze,2021-04-22
+CUST0183,Nadeesha,Silva,nadeesha.silva183@retaillake.lk,0796838849,Nuwara Eliya,Bronze,2025-11-22
+CUST0184,Dilani,Herath,dilani.herath184@retaillake.lk,0754506155,Negombo,Bronze,2021-02-09
+CUST0185,Tharindu,Senanayake,tharindu.senanayake185@retaillake.lk,0779631857,Ratnapura,Silver,2024-06-13
+CUST0186,Shalini,Herath,shalini.herath186@retaillake.lk,0788999206,Ratnapura,Silver,2023-01-16
+CUST0187,Saman,Jayasinghe,saman.jayasinghe187@retaillake.lk,0765831276,Kandy,Bronze,2022-06-10
+CUST0188,Ayesha,Rathnayake,ayesha.rathnayake188@retaillake.lk,0737765262,Ratnapura,Platinum,2023-08-04
+CUST0189,Shalini,Rajapaksha,shalini.rajapaksha189@retaillake.lk,0770726434,Jaffna,Bronze,2023-01-26
+CUST0190,Saman,Perera,saman.perera190@retaillake.lk,0756047142,Kandy,Silver,2022-09-06
+CUST0191,Fathima,Silva,fathima.silva191@retaillake.lk,0754424679,Ratnapura,Platinum,2024-04-26
+CUST0192,Dilani,De Silva,dilani.desilva192@retaillake.lk,0734756698,Galle,Platinum,2024-01-24
+CUST0193,Madhavi,Bandara,madhavi.bandara193@retaillake.lk,0770340936,Nuwara Eliya,Platinum,2024-01-23
+CUST0194,Dinesh,Bandara,dinesh.bandara194@retaillake.lk,0747358810,Kandy,Bronze,2025-03-12
+CUST0195,Ayesha,Bandara,ayesha.bandara195@retaillake.lk,0771411378,Kandy,Gold,2024-09-21
+CUST0196,Ayesha,Karunaratne,ayesha.karunaratne196@retaillake.lk,0762162278,Nuwara Eliya,Platinum,2025-02-12
+CUST0197,Nadeesha,Abeysekara,nadeesha.abeysekara197@retaillake.lk,0771453007,Nuwara Eliya,Silver,2023-10-19
+CUST0198,Kamal,De Silva,kamal.desilva198@retaillake.lk,0727978165,Jaffna,Bronze,2022-05-04
+CUST0199,Kasun,Wijesinghe,kasun.wijesinghe199@retaillake.lk,0728972822,Ratnapura,Platinum,2024-10-05
+CUST0200,Zainab,Gunawardena,zainab.gunawardena200@retaillake.lk,0766779304,Galle,Platinum,2025-12-21
+CUST0201,Kasun,Senanayake,kasun.senanayake201@retaillake.lk,0732396311,Matara,Gold,2022-03-11
+CUST0202,Shalini,Karunaratne,shalini.karunaratne202@retaillake.lk,0717195581,Jaffna,Bronze,2024-03-07
+CUST0203,Dilani,Senanayake,dilani.senanayake203@retaillake.lk,0777838742,Matara,Platinum,2024-07-23
+CUST0204,Shalini,Rathnayake,shalini.rathnayake204@retaillake.lk,0732448383,Kandy,Bronze,2022-05-02
+CUST0205,Isuru,Bandara,isuru.bandara205@retaillake.lk,0782156607,Kurunegala,Silver,2024-10-24
+CUST0206,Tharushi,Senanayake,tharushi.senanayake206@retaillake.lk,0778559218,Kandy,Bronze,2023-09-27
+CUST0207,Nadeesha,Senanayake,nadeesha.senanayake207@retaillake.lk,0715584869,Matara,Silver,2024-02-24
+CUST0208,Tharindu,Jayasinghe,tharindu.jayasinghe208@retaillake.lk,0714325890,Matara,Gold,2023-02-15
+CUST0209,Saman,Herath,saman.herath209@retaillake.lk,0741802361,Badulla,Gold,2025-11-14
+CUST0210,Kasun,Karunaratne,kasun.karunaratne210@retaillake.lk,0728687800,Badulla,Silver,2021-10-12
+CUST0211,Fathima,Jayasinghe,fathima.jayasinghe211@retaillake.lk,0790108882,Ratnapura,Silver,2023-12-10
+CUST0212,Chamath,Karunaratne,chamath.karunaratne212@retaillake.lk,0745882178,Ratnapura,Bronze,2022-07-02
+CUST0213,Isuru,Abeysekara,isuru.abeysekara213@retaillake.lk,0798032908,Galle,Silver,2022-03-23
+CUST0214,Ayesha,Abeysekara,ayesha.abeysekara214@retaillake.lk,0743226234,Negombo,Platinum,2022-10-21
+CUST0215,Isuru,De Silva,isuru.desilva215@retaillake.lk,0765596350,Negombo,Platinum,2021-11-26
+CUST0216,Kamal,Gunawardena,kamal.gunawardena216@retaillake.lk,0779204468,Kurunegala,Gold,2024-08-11
+CUST0217,Zainab,Perera,zainab.perera217@retaillake.lk,0722501261,Matara,Gold,2021-09-13
+CUST0218,Dinesh,Gunawardena,dinesh.gunawardena218@retaillake.lk,0738434222,Matara,Gold,2023-05-11
+CUST0219,Fathima,Karunaratne,fathima.karunaratne219@retaillake.lk,0727528063,Nuwara Eliya,Platinum,2023-11-25
+CUST0220,Nimal,Perera,nimal.perera220@retaillake.lk,0723364695,Matara,Bronze,2021-03-15
+CUST0221,Shalini,Perera,shalini.perera221@retaillake.lk,0767418250,Badulla,Silver,2023-03-28
+CUST0222,Isuru,Fernando,isuru.fernando222@retaillake.lk,0797857309,Jaffna,Gold,2021-06-22
+CUST0223,Kasun,Perera,kasun.perera223@retaillake.lk,0763196064,Kurunegala,Silver,2024-11-03
+CUST0224,Saman,Perera,saman.perera224@retaillake.lk,0738644905,Matara,Bronze,2022-10-08
+CUST0225,Anjali,De Silva,anjali.desilva225@retaillake.lk,0769735865,Colombo,Bronze,2023-02-28
+CUST0226,Hiruni,Rajapaksha,hiruni.rajapaksha226@retaillake.lk,0727740248,Matara,Bronze,2022-07-03
+CUST0227,Saman,Fernando,saman.fernando227@retaillake.lk,0752057323,Jaffna,Gold,2022-07-25
+CUST0228,Ruwan,De Silva,ruwan.desilva228@retaillake.lk,0729173414,Kandy,Bronze,2025-11-06
+CUST0229,Shalini,Wijesinghe,shalini.wijesinghe229@retaillake.lk,0738595818,Galle,Platinum,2025-11-15
+CUST0230,Dinesh,Fernando,dinesh.fernando230@retaillake.lk,0723484199,Galle,Bronze,2025-12-13
+CUST0231,Nadeesha,Gunawardena,nadeesha.gunawardena231@retaillake.lk,0752211967,Galle,Silver,2023-11-03
+CUST0232,Tharindu,Senanayake,tharindu.senanayake232@retaillake.lk,0790664728,Nuwara Eliya,Gold,2021-11-10
+CUST0233,Dinesh,Senanayake,dinesh.senanayake233@retaillake.lk,0791460345,Ratnapura,Silver,2024-05-21
+CUST0234,Nimal,Herath,nimal.herath234@retaillake.lk,0742123815,Matara,Platinum,2021-04-16
+CUST0235,Madhavi,Fernando,madhavi.fernando235@retaillake.lk,0780905413,Colombo,Gold,2023-03-13
+CUST0236,Zainab,Gunawardena,zainab.gunawardena236@retaillake.lk,0759044830,Ratnapura,Silver,2024-02-01
+CUST0237,Zainab,Fernando,zainab.fernando237@retaillake.lk,0711851322,Kurunegala,Silver,2021-01-26
+CUST0238,Dilani,Senanayake,dilani.senanayake238@retaillake.lk,0748451741,Ratnapura,Platinum,2024-12-13
+CUST0239,Kamal,De Silva,kamal.desilva239@retaillake.lk,0782016510,Ratnapura,Silver,2023-02-10
+CUST0240,Kamal,Senanayake,kamal.senanayake240@retaillake.lk,0737272705,Galle,Gold,2024-10-21
+CUST0241,Kamal,Jayasinghe,kamal.jayasinghe241@retaillake.lk,0768718382,Badulla,Bronze,2022-02-14
+CUST0242,Saman,Rathnayake,saman.rathnayake242@retaillake.lk,0792181084,Nuwara Eliya,Bronze,2023-11-24
+CUST0243,Kasun,Fernando,kasun.fernando243@retaillake.lk,0711699863,Galle,Bronze,2022-08-12
+CUST0244,Anjali,Senanayake,anjali.senanayake244@retaillake.lk,0744795538,Galle,Gold,2022-12-25
+CUST0245,Isuru,Rajapaksha,isuru.rajapaksha245@retaillake.lk,0725845304,Colombo,Gold,2024-05-17
+CUST0246,Kamal,Jayasinghe,kamal.jayasinghe246@retaillake.lk,0787396877,Kandy,Platinum,2024-09-12
+CUST0247,Nimal,Rathnayake,nimal.rathnayake247@retaillake.lk,0786086168,Galle,Gold,2022-05-25
+CUST0248,Saman,Karunaratne,saman.karunaratne248@retaillake.lk,0725479814,Badulla,Bronze,2021-01-08
+CUST0249,Nimal,Rathnayake,nimal.rathnayake249@retaillake.lk,0758852098,Negombo,Silver,2022-01-18
+CUST0250,Hiruni,Bandara,hiruni.bandara250@retaillake.lk,0753191535,Badulla,Platinum,2023-05-27
+CUST0251,Kamal,Karunaratne,kamal.karunaratne251@retaillake.lk,0760037465,Kandy,Bronze,2022-04-26
+CUST0252,Anjali,Perera,anjali.perera252@retaillake.lk,0763811222,Kandy,Platinum,2023-05-11
+CUST0253,Kamal,Senanayake,kamal.senanayake253@retaillake.lk,0771303434,Colombo,Gold,2022-05-19
+CUST0254,Chamath,Rajapaksha,chamath.rajapaksha254@retaillake.lk,0793579731,Badulla,Platinum,2023-10-16
+CUST0255,Dinesh,Rajapaksha,dinesh.rajapaksha255@retaillake.lk,0783357939,Badulla,Silver,2021-07-01
+CUST0256,Tharindu,Senanayake,tharindu.senanayake256@retaillake.lk,0756496201,Colombo,Gold,2021-11-13
+CUST0257,Chamath,Fernando,chamath.fernando257@retaillake.lk,0737540722,Ratnapura,Silver,2024-08-02
+CUST0258,Ruwan,Rajapaksha,ruwan.rajapaksha258@retaillake.lk,0747557512,Kandy,Bronze,2022-09-14
+CUST0259,Nadeesha,Rathnayake,nadeesha.rathnayake259@retaillake.lk,0721395409,Nuwara Eliya,Bronze,2025-03-21
+CUST0260,Dilani,Fernando,dilani.fernando260@retaillake.lk,0789442904,Nuwara Eliya,Bronze,2024-11-05
+CUST0261,Tharindu,Jayasinghe,tharindu.jayasinghe261@retaillake.lk,0745029610,Jaffna,Platinum,2023-06-15
+CUST0262,Isuru,Bandara,isuru.bandara262@retaillake.lk,0720024377,Badulla,Silver,2025-02-05
+CUST0263,Saman,Silva,saman.silva263@retaillake.lk,0770339827,Matara,Gold,2024-02-18
+CUST0264,Nadeesha,Herath,nadeesha.herath264@retaillake.lk,0737868462,Matara,Gold,2024-05-28
+CUST0265,Saman,Fernando,saman.fernando265@retaillake.lk,0731154777,Kurunegala,Bronze,2022-06-05
+CUST0266,Kamal,Rajapaksha,kamal.rajapaksha266@retaillake.lk,0743315361,Jaffna,Platinum,2025-01-22
+CUST0267,Chamath,Jayasinghe,chamath.jayasinghe267@retaillake.lk,0733336132,Colombo,Platinum,2024-09-24
+CUST0268,Fathima,Bandara,fathima.bandara268@retaillake.lk,0722713811,Matara,Bronze,2022-02-01
+CUST0269,Nimal,Abeysekara,nimal.abeysekara269@retaillake.lk,0739835008,Galle,Silver,2024-06-22
+CUST0270,Kamal,Karunaratne,kamal.karunaratne270@retaillake.lk,0788667527,Kurunegala,Bronze,2021-02-07
+CUST0271,Shalini,Herath,shalini.herath271@retaillake.lk,0727286109,Kandy,Gold,2021-01-15
+CUST0272,Nimal,Silva,nimal.silva272@retaillake.lk,0787025433,Negombo,Platinum,2024-01-13
+CUST0273,Hiruni,Silva,hiruni.silva273@retaillake.lk,0757505459,Badulla,Silver,2023-05-15
+CUST0274,Ruwan,Perera,ruwan.perera274@retaillake.lk,0792423989,Nuwara Eliya,Silver,2023-08-14
+CUST0275,Fathima,Rathnayake,fathima.rathnayake275@retaillake.lk,0718184472,Kandy,Gold,2024-03-14
+CUST0276,Dinesh,De Silva,dinesh.desilva276@retaillake.lk,0780573568,Badulla,Bronze,2024-12-12
+CUST0277,Tharushi,Senanayake,tharushi.senanayake277@retaillake.lk,0775052579,Jaffna,Gold,2024-05-06
+CUST0278,Amal,Wijesinghe,amal.wijesinghe278@retaillake.lk,0790143600,Badulla,Bronze,2023-01-26
+CUST0279,Tharushi,Senanayake,tharushi.senanayake279@retaillake.lk,0757973830,Nuwara Eliya,Silver,2022-02-08
+CUST0280,Tharindu,Jayasinghe,tharindu.jayasinghe280@retaillake.lk,0781630600,Colombo,Silver,2025-07-12
+CUST0281,Kasun,Silva,kasun.silva281@retaillake.lk,0741749355,Nuwara Eliya,Gold,2023-10-01
+CUST0282,Nadeesha,Karunaratne,nadeesha.karunaratne282@retaillake.lk,0785645982,Galle,Silver,2024-09-10
+CUST0283,Kasun,Rathnayake,kasun.rathnayake283@retaillake.lk,0715095407,Kandy,Bronze,2022-10-08
+CUST0284,Amal,Senanayake,amal.senanayake284@retaillake.lk,0774154596,Colombo,Gold,2025-04-26
+CUST0285,Ruwan,Wijesinghe,ruwan.wijesinghe285@retaillake.lk,0733818260,Jaffna,Bronze,2021-03-19
+CUST0286,Ruwan,Herath,ruwan.herath286@retaillake.lk,0724887509,Ratnapura,Gold,2021-06-23
+CUST0287,Dilani,Karunaratne,dilani.karunaratne287@retaillake.lk,0723560308,Jaffna,Gold,2023-03-06
+CUST0288,Hiruni,Herath,hiruni.herath288@retaillake.lk,0795800828,Matara,Gold,2022-12-18
+CUST0289,Madhavi,Herath,madhavi.herath289@retaillake.lk,0757892314,Badulla,Silver,2024-05-24
+CUST0290,Chamath,Silva,chamath.silva290@retaillake.lk,0733851602,Colombo,Platinum,2025-01-06
+CUST0291,Madhavi,Wijesinghe,madhavi.wijesinghe291@retaillake.lk,0792058189,Badulla,Bronze,2024-03-11
+CUST0292,Kamal,Bandara,kamal.bandara292@retaillake.lk,0756548066,Jaffna,Silver,2021-12-22
+CUST0293,Ayesha,Rathnayake,ayesha.rathnayake293@retaillake.lk,0711529494,Kurunegala,Silver,2022-12-03
+CUST0294,Nadeesha,Jayasinghe,nadeesha.jayasinghe294@retaillake.lk,0724500158,Colombo,Bronze,2024-08-24
+CUST0295,Hiruni,Silva,hiruni.silva295@retaillake.lk,0765568711,Matara,Platinum,2023-09-13
+CUST0296,Saman,Abeysekara,saman.abeysekara296@retaillake.lk,0774355957,Nuwara Eliya,Silver,2022-08-03
+CUST0297,Nimal,Jayasinghe,nimal.jayasinghe297@retaillake.lk,0712694823,Jaffna,Gold,2021-02-11
+CUST0298,Kasun,Gunawardena,kasun.gunawardena298@retaillake.lk,0731596235,Kandy,Bronze,2023-10-20
+CUST0299,Tharushi,Rajapaksha,tharushi.rajapaksha299@retaillake.lk,0714159837,Negombo,Silver,2025-07-06
+CUST0300,Nimal,Fernando,nimal.fernando300@retaillake.lk,0754438762,Badulla,Silver,2024-12-18
+CUST0301,Fathima,Jayasinghe,fathima.jayasinghe301@retaillake.lk,0798663948,Kurunegala,Gold,2022-02-02
+CUST0302,Dilani,Karunaratne,dilani.karunaratne302@retaillake.lk,0783774469,Matara,Silver,2021-06-01
+CUST0303,Hiruni,Fernando,hiruni.fernando303@retaillake.lk,0749533757,Nuwara Eliya,Platinum,2022-02-01
+CUST0304,Dinesh,Silva,dinesh.silva304@retaillake.lk,0795656500,Kurunegala,Bronze,2024-02-10
+CUST0305,Dilani,Rathnayake,dilani.rathnayake305@retaillake.lk,0775645462,Kurunegala,Bronze,2025-07-06
+CUST0306,Nadeesha,Gunawardena,nadeesha.gunawardena306@retaillake.lk,0759580252,Galle,Platinum,2021-05-15
+CUST0307,Shalini,Jayasinghe,shalini.jayasinghe307@retaillake.lk,0740365724,Kurunegala,Bronze,2022-12-22
+CUST0308,Saman,Fernando,saman.fernando308@retaillake.lk,0799676390,Jaffna,Platinum,2025-04-18
+CUST0309,Nimal,Abeysekara,nimal.abeysekara309@retaillake.lk,0761956500,Ratnapura,Platinum,2025-11-28
+CUST0310,Tharushi,Karunaratne,tharushi.karunaratne310@retaillake.lk,0741627336,Matara,Gold,2021-07-28
+CUST0311,Nimal,Senanayake,nimal.senanayake311@retaillake.lk,0786667841,Ratnapura,Silver,2021-08-06
+CUST0312,Kasun,Bandara,kasun.bandara312@retaillake.lk,0735867257,Galle,Bronze,2024-02-22
+CUST0313,Hiruni,Bandara,hiruni.bandara313@retaillake.lk,0794184877,Galle,Gold,2023-12-26
+CUST0314,Kamal,Fernando,kamal.fernando314@retaillake.lk,0762089786,Ratnapura,Platinum,2025-06-28
+CUST0315,Isuru,Senanayake,isuru.senanayake315@retaillake.lk,0771492815,Colombo,Platinum,2021-07-05
+CUST0316,Ruwan,Karunaratne,ruwan.karunaratne316@retaillake.lk,0788911183,Nuwara Eliya,Bronze,2021-10-25
+CUST0317,Saman,Herath,saman.herath317@retaillake.lk,0748398732,Ratnapura,Gold,2024-05-13
+CUST0318,Tharushi,Karunaratne,tharushi.karunaratne318@retaillake.lk,0791733516,Matara,Bronze,2022-05-13
+CUST0319,Ruwan,Karunaratne,ruwan.karunaratne319@retaillake.lk,0791692326,Negombo,Bronze,2024-06-23
+CUST0320,Tharindu,Perera,tharindu.perera320@retaillake.lk,0773782705,Kurunegala,Gold,2021-06-27
+CUST0321,Chamath,Jayasinghe,chamath.jayasinghe321@retaillake.lk,0747627490,Matara,Bronze,2022-03-10
+CUST0322,Shalini,Herath,shalini.herath322@retaillake.lk,0753066216,Kurunegala,Platinum,2025-11-03
+CUST0323,Dinesh,Rathnayake,dinesh.rathnayake323@retaillake.lk,0738372352,Negombo,Platinum,2025-06-27
+CUST0324,Nimal,Senanayake,nimal.senanayake324@retaillake.lk,0731336920,Kandy,Gold,2025-07-05
+CUST0325,Anjali,Karunaratne,anjali.karunaratne325@retaillake.lk,0713885356,Galle,Silver,2022-01-08
+CUST0326,Nimal,Rathnayake,nimal.rathnayake326@retaillake.lk,0716785951,Jaffna,Silver,2023-06-27
+CUST0327,Shalini,Senanayake,shalini.senanayake327@retaillake.lk,0763276690,Kandy,Bronze,2022-06-16
+CUST0328,Madhavi,Rathnayake,madhavi.rathnayake328@retaillake.lk,0733834879,Matara,Gold,2023-03-27
+CUST0329,Isuru,Rajapaksha,isuru.rajapaksha329@retaillake.lk,0722132198,Kurunegala,Bronze,2024-01-06
+CUST0330,Zainab,Herath,zainab.herath330@retaillake.lk,0738765353,Badulla,Silver,2022-05-21
+CUST0331,Hiruni,Senanayake,hiruni.senanayake331@retaillake.lk,0712691381,Colombo,Platinum,2022-11-06
+CUST0332,Madhavi,Herath,madhavi.herath332@retaillake.lk,0711135982,Badulla,Gold,2025-05-23
+CUST0333,Isuru,Gunawardena,isuru.gunawardena333@retaillake.lk,0760529679,Jaffna,Platinum,2023-04-15
+CUST0334,Chamath,De Silva,chamath.desilva334@retaillake.lk,0779878835,Nuwara Eliya,Platinum,2025-02-01
+CUST0335,Anjali,De Silva,anjali.desilva335@retaillake.lk,0760228268,Ratnapura,Gold,2023-11-04
+CUST0336,Tharushi,Fernando,tharushi.fernando336@retaillake.lk,0755135227,Kurunegala,Gold,2023-05-21
+CUST0337,Chamath,Bandara,chamath.bandara337@retaillake.lk,0730123169,Ratnapura,Silver,2021-10-13
+CUST0338,Ayesha,De Silva,ayesha.desilva338@retaillake.lk,0728781020,Colombo,Platinum,2023-05-14
+CUST0339,Dilani,Gunawardena,dilani.gunawardena339@retaillake.lk,0714740436,Nuwara Eliya,Silver,2023-12-23
+CUST0340,Tharindu,De Silva,tharindu.desilva340@retaillake.lk,0781757508,Matara,Gold,2025-05-28
+CUST0341,Kasun,Abeysekara,kasun.abeysekara341@retaillake.lk,0798263548,Ratnapura,Silver,2023-02-16
+CUST0342,Ruwan,Rajapaksha,ruwan.rajapaksha342@retaillake.lk,0744715663,Ratnapura,Silver,2023-11-03
+CUST0343,Tharindu,Wijesinghe,tharindu.wijesinghe343@retaillake.lk,0739974566,Kurunegala,Platinum,2023-06-09
+CUST0344,Zainab,Jayasinghe,zainab.jayasinghe344@retaillake.lk,0772244897,Kandy,Platinum,2021-11-19
+CUST0345,Zainab,Karunaratne,zainab.karunaratne345@retaillake.lk,0719558414,Matara,Silver,2025-02-28
+CUST0346,Dilani,Senanayake,dilani.senanayake346@retaillake.lk,0750044631,Negombo,Bronze,2022-03-07
+CUST0347,Ayesha,Gunawardena,ayesha.gunawardena347@retaillake.lk,0786424055,Matara,Silver,2023-12-06
+CUST0348,Kamal,Rathnayake,kamal.rathnayake348@retaillake.lk,0754644768,Galle,Gold,2021-01-15
+CUST0349,Isuru,Bandara,isuru.bandara349@retaillake.lk,0732629881,Nuwara Eliya,Silver,2024-02-05
+CUST0350,Madhavi,Gunawardena,madhavi.gunawardena350@retaillake.lk,0795025258,Negombo,Platinum,2024-08-13
+CUST0351,Amal,Perera,amal.perera351@retaillake.lk,0781643088,Badulla,Gold,2021-06-25
+CUST0352,Anjali,Bandara,anjali.bandara352@retaillake.lk,0712404661,Colombo,Silver,2022-12-12
+CUST0353,Chamath,Silva,chamath.silva353@retaillake.lk,0723785264,Negombo,Gold,2022-02-27
+CUST0354,Nimal,Jayasinghe,nimal.jayasinghe354@retaillake.lk,0749034245,Matara,Gold,2024-11-05
+CUST0355,Ayesha,Rathnayake,ayesha.rathnayake355@retaillake.lk,0758217837,Badulla,Silver,2024-01-08
+CUST0356,Tharindu,Rajapaksha,tharindu.rajapaksha356@retaillake.lk,0727610141,Badulla,Bronze,2025-09-06
+CUST0357,Saman,Wijesinghe,saman.wijesinghe357@retaillake.lk,0797314051,Colombo,Platinum,2023-09-20
+CUST0358,Nimal,Karunaratne,nimal.karunaratne358@retaillake.lk,0716437132,Kandy,Bronze,2021-12-04
+CUST0359,Hiruni,Rathnayake,hiruni.rathnayake359@retaillake.lk,0761036796,Kandy,Gold,2024-12-05
+CUST0360,Dinesh,Rajapaksha,dinesh.rajapaksha360@retaillake.lk,0794598956,Colombo,Gold,2024-11-04
+CUST0361,Anjali,Jayasinghe,anjali.jayasinghe361@retaillake.lk,0793590502,Nuwara Eliya,Silver,2024-02-17
+CUST0362,Madhavi,Fernando,madhavi.fernando362@retaillake.lk,0747944260,Kandy,Bronze,2024-04-20
+CUST0363,Dinesh,Herath,dinesh.herath363@retaillake.lk,0745298445,Ratnapura,Silver,2023-12-14
+CUST0364,Chamath,Silva,chamath.silva364@retaillake.lk,0715288944,Ratnapura,Platinum,2022-12-16
+CUST0365,Ayesha,Bandara,ayesha.bandara365@retaillake.lk,0710367488,Colombo,Bronze,2021-10-22
+CUST0366,Tharushi,Silva,tharushi.silva366@retaillake.lk,0722090691,Ratnapura,Bronze,2021-05-21
+CUST0367,Tharindu,Rathnayake,tharindu.rathnayake367@retaillake.lk,0749731424,Kurunegala,Platinum,2021-02-27
+CUST0368,Kasun,Abeysekara,kasun.abeysekara368@retaillake.lk,0715294153,Kurunegala,Gold,2023-07-24
+CUST0369,Saman,Fernando,saman.fernando369@retaillake.lk,0716159129,Colombo,Silver,2022-06-12
+CUST0370,Shalini,Karunaratne,shalini.karunaratne370@retaillake.lk,0746011877,Kandy,Gold,2023-03-04
+CUST0371,Dilani,Gunawardena,dilani.gunawardena371@retaillake.lk,0771275585,Kurunegala,Platinum,2024-07-21
+CUST0372,Kasun,Fernando,kasun.fernando372@retaillake.lk,0727785402,Colombo,Silver,2021-07-19
+CUST0373,Tharushi,Herath,tharushi.herath373@retaillake.lk,0786362294,Matara,Silver,2025-07-25
+CUST0374,Nadeesha,Karunaratne,nadeesha.karunaratne374@retaillake.lk,0713867648,Galle,Platinum,2024-02-14
+CUST0375,Shalini,Perera,shalini.perera375@retaillake.lk,0718500820,Kurunegala,Gold,2021-12-28
+CUST0376,Anjali,Herath,anjali.herath376@retaillake.lk,0787396519,Nuwara Eliya,Silver,2023-09-17
+CUST0377,Madhavi,Fernando,madhavi.fernando377@retaillake.lk,0768095862,Badulla,Platinum,2023-11-22
+CUST0378,Dilani,Silva,dilani.silva378@retaillake.lk,0784939694,Nuwara Eliya,Bronze,2021-11-06
+CUST0379,Anjali,Abeysekara,anjali.abeysekara379@retaillake.lk,0772986894,Matara,Silver,2021-08-11
+CUST0380,Tharindu,Wijesinghe,tharindu.wijesinghe380@retaillake.lk,0747333618,Colombo,Silver,2025-11-13
+CUST0381,Dilani,Abeysekara,dilani.abeysekara381@retaillake.lk,0741541166,Kandy,Platinum,2024-10-15
+CUST0382,Kamal,Abeysekara,kamal.abeysekara382@retaillake.lk,0776901651,Matara,Gold,2021-08-24
+CUST0383,Amal,Fernando,amal.fernando383@retaillake.lk,0764148754,Negombo,Bronze,2025-09-01
+CUST0384,Kamal,Herath,kamal.herath384@retaillake.lk,0791094790,Nuwara Eliya,Gold,2025-09-07
+CUST0385,Shalini,Wijesinghe,shalini.wijesinghe385@retaillake.lk,0758767001,Colombo,Silver,2024-06-18
+CUST0386,Madhavi,Karunaratne,madhavi.karunaratne386@retaillake.lk,0773502927,Jaffna,Platinum,2021-02-25
+CUST0387,Tharindu,Perera,tharindu.perera387@retaillake.lk,0755816176,Jaffna,Gold,2025-09-12
+CUST0388,Saman,Perera,saman.perera388@retaillake.lk,0732032560,Matara,Silver,2024-02-09
+CUST0389,Madhavi,Bandara,madhavi.bandara389@retaillake.lk,0735171649,Kandy,Platinum,2022-08-27
+CUST0390,Dinesh,Rajapaksha,dinesh.rajapaksha390@retaillake.lk,0755356673,Kandy,Platinum,2021-11-27
+CUST0391,Zainab,Fernando,zainab.fernando391@retaillake.lk,0770465703,Matara,Silver,2024-01-17
+CUST0392,Nimal,Senanayake,nimal.senanayake392@retaillake.lk,0768090825,Nuwara Eliya,Platinum,2025-03-23
+CUST0393,Zainab,Silva,zainab.silva393@retaillake.lk,0727231111,Kandy,Platinum,2025-10-11
+CUST0394,Anjali,Gunawardena,anjali.gunawardena394@retaillake.lk,0766192230,Nuwara Eliya,Silver,2023-07-11
+CUST0395,Chamath,Rathnayake,chamath.rathnayake395@retaillake.lk,0727900864,Galle,Platinum,2025-12-24
+CUST0396,Anjali,Jayasinghe,anjali.jayasinghe396@retaillake.lk,0783525272,Jaffna,Silver,2022-04-20
+CUST0397,Chamath,De Silva,chamath.desilva397@retaillake.lk,0756344519,Galle,Silver,2025-09-23
+CUST0398,Ayesha,Rajapaksha,ayesha.rajapaksha398@retaillake.lk,0725489430,Jaffna,Platinum,2025-10-22
+CUST0399,Hiruni,De Silva,hiruni.desilva399@retaillake.lk,0781659221,Kurunegala,Platinum,2021-09-04
+CUST0400,Amal,Gunawardena,amal.gunawardena400@retaillake.lk,0729505421,Colombo,Bronze,2022-05-25
+CUST0401,Kasun,Jayasinghe,kasun.jayasinghe401@retaillake.lk,0743629729,Galle,Bronze,2023-04-25
+CUST0402,Fathima,Perera,fathima.perera402@retaillake.lk,0758141541,Matara,Bronze,2025-11-24
+CUST0403,Fathima,Abeysekara,fathima.abeysekara403@retaillake.lk,0740106027,Ratnapura,Platinum,2022-09-26
+CUST0404,Chamath,Rajapaksha,chamath.rajapaksha404@retaillake.lk,0799186817,Colombo,Platinum,2024-07-26
+CUST0405,Ayesha,Senanayake,ayesha.senanayake405@retaillake.lk,0717221208,Colombo,Gold,2022-10-28
+CUST0406,Shalini,Abeysekara,shalini.abeysekara406@retaillake.lk,0740272606,Jaffna,Silver,2022-05-15
+CUST0407,Kasun,De Silva,kasun.desilva407@retaillake.lk,0719995059,Galle,Silver,2025-02-13
+CUST0408,Nimal,Gunawardena,nimal.gunawardena408@retaillake.lk,0747461811,Ratnapura,Gold,2022-03-19
+CUST0409,Isuru,Perera,isuru.perera409@retaillake.lk,0754367386,Matara,Silver,2021-03-11
+CUST0410,Madhavi,Perera,madhavi.perera410@retaillake.lk,0793935292,Nuwara Eliya,Gold,2024-10-18
+CUST0411,Nadeesha,Fernando,nadeesha.fernando411@retaillake.lk,0752662313,Ratnapura,Silver,2022-09-03
+CUST0412,Anjali,Silva,anjali.silva412@retaillake.lk,0765825346,Ratnapura,Platinum,2021-06-08
+CUST0413,Dinesh,De Silva,dinesh.desilva413@retaillake.lk,0754544651,Jaffna,Gold,2023-04-25
+CUST0414,Madhavi,Senanayake,madhavi.senanayake414@retaillake.lk,0773734252,Ratnapura,Bronze,2021-11-12
+CUST0415,Shalini,Bandara,shalini.bandara415@retaillake.lk,0796203262,Nuwara Eliya,Silver,2021-11-11
+CUST0416,Dilani,Herath,dilani.herath416@retaillake.lk,0725216804,Negombo,Gold,2025-12-10
+CUST0417,Amal,Senanayake,amal.senanayake417@retaillake.lk,0760326016,Ratnapura,Platinum,2024-01-10
+CUST0418,Dinesh,Wijesinghe,dinesh.wijesinghe418@retaillake.lk,0778973779,Kandy,Bronze,2022-09-18
+CUST0419,Amal,De Silva,amal.desilva419@retaillake.lk,0718787479,Badulla,Silver,2024-02-07
+CUST0420,Fathima,Abeysekara,fathima.abeysekara420@retaillake.lk,0768416623,Kandy,Silver,2021-08-23
+CUST0421,Ayesha,Perera,ayesha.perera421@retaillake.lk,0721746856,Kandy,Bronze,2022-05-18
+CUST0422,Kamal,Karunaratne,kamal.karunaratne422@retaillake.lk,0740554079,Kurunegala,Platinum,2024-08-21
+CUST0423,Dilani,Gunawardena,dilani.gunawardena423@retaillake.lk,0752467059,Colombo,Platinum,2021-09-01
+CUST0424,Madhavi,Fernando,madhavi.fernando424@retaillake.lk,0788598977,Colombo,Bronze,2023-09-04
+CUST0425,Chamath,Herath,chamath.herath425@retaillake.lk,0750446607,Nuwara Eliya,Bronze,2023-08-13
+CUST0426,Dilani,Abeysekara,dilani.abeysekara426@retaillake.lk,0798680762,Colombo,Platinum,2022-09-08
+CUST0427,Ruwan,Rajapaksha,ruwan.rajapaksha427@retaillake.lk,0762478133,Ratnapura,Gold,2022-05-22
+CUST0428,Nadeesha,Perera,nadeesha.perera428@retaillake.lk,0784292758,Ratnapura,Silver,2021-01-01
+CUST0429,Zainab,Karunaratne,zainab.karunaratne429@retaillake.lk,0762892750,Ratnapura,Bronze,2023-04-24
+CUST0430,Nadeesha,Bandara,nadeesha.bandara430@retaillake.lk,0765385548,Ratnapura,Silver,2022-03-08
+CUST0431,Madhavi,Abeysekara,madhavi.abeysekara431@retaillake.lk,0743922427,Badulla,Bronze,2022-11-26
+CUST0432,Zainab,Abeysekara,zainab.abeysekara432@retaillake.lk,0717299874,Ratnapura,Platinum,2025-02-10
+CUST0433,Kamal,Jayasinghe,kamal.jayasinghe433@retaillake.lk,0723180503,Badulla,Platinum,2023-06-05
+CUST0434,Tharindu,Fernando,tharindu.fernando434@retaillake.lk,0748270459,Nuwara Eliya,Bronze,2022-06-16
+CUST0435,Shalini,Wijesinghe,shalini.wijesinghe435@retaillake.lk,0792724080,Kurunegala,Silver,2025-10-12
+CUST0436,Ayesha,Gunawardena,ayesha.gunawardena436@retaillake.lk,0732634412,Colombo,Gold,2022-04-23
+CUST0437,Hiruni,Jayasinghe,hiruni.jayasinghe437@retaillake.lk,0758249394,Galle,Gold,2024-08-15
+CUST0438,Nadeesha,Herath,nadeesha.herath438@retaillake.lk,0750999730,Matara,Bronze,2022-11-20
+CUST0439,Kamal,Abeysekara,kamal.abeysekara439@retaillake.lk,0747663633,Galle,Silver,2023-12-21
+CUST0440,Kamal,Rajapaksha,kamal.rajapaksha440@retaillake.lk,0720120010,Colombo,Bronze,2025-10-13
+CUST0441,Zainab,Bandara,zainab.bandara441@retaillake.lk,0714919926,Ratnapura,Gold,2025-09-16
+CUST0442,Ruwan,Wijesinghe,ruwan.wijesinghe442@retaillake.lk,0762680236,Badulla,Gold,2022-08-17
+CUST0443,Anjali,Fernando,anjali.fernando443@retaillake.lk,0763255602,Jaffna,Bronze,2022-10-22
+CUST0444,Kasun,Herath,kasun.herath444@retaillake.lk,0779006257,Galle,Platinum,2022-03-19
+CUST0445,Zainab,De Silva,zainab.desilva445@retaillake.lk,0729622504,Matara,Gold,2021-04-25
+CUST0446,Tharushi,Bandara,tharushi.bandara446@retaillake.lk,0718437082,Kurunegala,Gold,2022-01-22
+CUST0447,Dinesh,Senanayake,dinesh.senanayake447@retaillake.lk,0758486337,Negombo,Platinum,2024-01-02
+CUST0448,Ayesha,Fernando,ayesha.fernando448@retaillake.lk,0779977486,Kurunegala,Gold,2025-09-19
+CUST0449,Kasun,Gunawardena,kasun.gunawardena449@retaillake.lk,0797734815,Negombo,Gold,2025-11-27
+CUST0450,Kamal,Senanayake,kamal.senanayake450@retaillake.lk,0743767356,Negombo,Silver,2025-07-12
+CUST0451,Nadeesha,Rathnayake,nadeesha.rathnayake451@retaillake.lk,0774707720,Nuwara Eliya,Bronze,2025-03-15
+CUST0452,Kasun,Bandara,kasun.bandara452@retaillake.lk,0720346606,Ratnapura,Gold,2022-03-06
+CUST0453,Kasun,Wijesinghe,kasun.wijesinghe453@retaillake.lk,0790801793,Kandy,Silver,2024-06-24
+CUST0454,Saman,Rathnayake,saman.rathnayake454@retaillake.lk,0774265413,Matara,Silver,2025-03-21
+CUST0455,Hiruni,Perera,hiruni.perera455@retaillake.lk,0742704875,Colombo,Silver,2025-10-06
+CUST0456,Ruwan,De Silva,ruwan.desilva456@retaillake.lk,0778805754,Colombo,Silver,2021-03-09
+CUST0457,Kasun,Senanayake,kasun.senanayake457@retaillake.lk,0764419425,Nuwara Eliya,Bronze,2023-02-07
+CUST0458,Shalini,Karunaratne,shalini.karunaratne458@retaillake.lk,0773272042,Matara,Silver,2022-07-20
+CUST0459,Ruwan,Herath,ruwan.herath459@retaillake.lk,0788201440,Galle,Gold,2022-12-22
+CUST0460,Ayesha,Rathnayake,ayesha.rathnayake460@retaillake.lk,0790065352,Nuwara Eliya,Bronze,2022-07-13
+CUST0461,Ruwan,Fernando,ruwan.fernando461@retaillake.lk,0712222998,Badulla,Platinum,2022-10-04
+CUST0462,Kasun,Rathnayake,kasun.rathnayake462@retaillake.lk,0792510102,Nuwara Eliya,Bronze,2025-09-25
+CUST0463,Saman,Fernando,saman.fernando463@retaillake.lk,0774725282,Galle,Bronze,2024-09-14
+CUST0464,Nadeesha,Abeysekara,nadeesha.abeysekara464@retaillake.lk,0715830187,Ratnapura,Platinum,2022-08-26
+CUST0465,Dilani,Wijesinghe,dilani.wijesinghe465@retaillake.lk,0789060695,Nuwara Eliya,Bronze,2024-03-09
+CUST0466,Tharushi,Herath,tharushi.herath466@retaillake.lk,0741207351,Kandy,Gold,2025-09-14
+CUST0467,Isuru,Bandara,isuru.bandara467@retaillake.lk,0710734097,Colombo,Bronze,2025-01-13
+CUST0468,Dinesh,Rajapaksha,dinesh.rajapaksha468@retaillake.lk,0752399610,Negombo,Gold,2021-03-14
+CUST0469,Zainab,Jayasinghe,zainab.jayasinghe469@retaillake.lk,0745071480,Ratnapura,Platinum,2025-06-20
+CUST0470,Isuru,De Silva,isuru.desilva470@retaillake.lk,0763345392,Badulla,Platinum,2025-09-16
+CUST0471,Kasun,Wijesinghe,kasun.wijesinghe471@retaillake.lk,0785040303,Ratnapura,Platinum,2023-05-19
+CUST0472,Nadeesha,Herath,nadeesha.herath472@retaillake.lk,0763436070,Galle,Bronze,2022-08-26
+CUST0473,Kasun,Fernando,kasun.fernando473@retaillake.lk,0738784084,Ratnapura,Platinum,2023-09-20
+CUST0474,Nimal,Silva,nimal.silva474@retaillake.lk,0762224611,Colombo,Bronze,2022-08-20
+CUST0475,Hiruni,Fernando,hiruni.fernando475@retaillake.lk,0718600733,Kurunegala,Silver,2023-02-20
+CUST0476,Nimal,Rajapaksha,nimal.rajapaksha476@retaillake.lk,0761583363,Negombo,Gold,2025-01-25
+CUST0477,Kasun,De Silva,kasun.desilva477@retaillake.lk,0776353000,Matara,Bronze,2022-11-26
+CUST0478,Anjali,Jayasinghe,anjali.jayasinghe478@retaillake.lk,0736138432,Colombo,Silver,2025-03-22
+CUST0479,Nimal,Wijesinghe,nimal.wijesinghe479@retaillake.lk,0742112480,Colombo,Silver,2021-05-25
+CUST0480,Dilani,Wijesinghe,dilani.wijesinghe480@retaillake.lk,0799880518,Negombo,Platinum,2025-04-17
+CUST0481,Amal,Rajapaksha,amal.rajapaksha481@retaillake.lk,0719209640,Kandy,Gold,2025-10-12
+CUST0482,Nadeesha,Abeysekara,nadeesha.abeysekara482@retaillake.lk,0747112255,Badulla,Silver,2024-07-19
+CUST0483,Amal,Jayasinghe,amal.jayasinghe483@retaillake.lk,0733492771,Negombo,Bronze,2025-02-17
+CUST0484,Chamath,Wijesinghe,chamath.wijesinghe484@retaillake.lk,0725704681,Ratnapura,Gold,2025-10-09
+CUST0485,Shalini,Gunawardena,shalini.gunawardena485@retaillake.lk,0785587210,Matara,Silver,2023-08-22
+CUST0486,Shalini,Karunaratne,shalini.karunaratne486@retaillake.lk,0713670948,Matara,Bronze,2023-02-13
+CUST0487,Tharindu,De Silva,tharindu.desilva487@retaillake.lk,0740860700,Jaffna,Platinum,2023-09-18
+CUST0488,Amal,Rajapaksha,amal.rajapaksha488@retaillake.lk,0745346197,Badulla,Gold,2021-07-22
+CUST0489,Ayesha,Fernando,ayesha.fernando489@retaillake.lk,0784430642,Galle,Platinum,2023-06-07
+CUST0490,Zainab,Jayasinghe,zainab.jayasinghe490@retaillake.lk,0734532913,Badulla,Platinum,2022-04-24
+CUST0491,Tharindu,Abeysekara,tharindu.abeysekara491@retaillake.lk,0745622106,Badulla,Silver,2022-04-27
+CUST0492,Madhavi,Wijesinghe,madhavi.wijesinghe492@retaillake.lk,0730937370,Kandy,Bronze,2021-11-22
+CUST0493,Tharushi,Karunaratne,tharushi.karunaratne493@retaillake.lk,0710889014,Ratnapura,Bronze,2024-06-20
+CUST0494,Ayesha,Rathnayake,ayesha.rathnayake494@retaillake.lk,0787110685,Kurunegala,Platinum,2022-09-09
+CUST0495,Dilani,Bandara,dilani.bandara495@retaillake.lk,0787398691,Galle,Bronze,2025-07-16
+CUST0496,Fathima,Perera,fathima.perera496@retaillake.lk,0777441081,Jaffna,Platinum,2022-08-04
+CUST0497,Anjali,Rathnayake,anjali.rathnayake497@retaillake.lk,0752365995,Colombo,Bronze,2022-07-19
+CUST0498,Saman,Wijesinghe,saman.wijesinghe498@retaillake.lk,0758533442,Nuwara Eliya,Gold,2022-09-09
+CUST0499,Tharindu,Jayasinghe,tharindu.jayasinghe499@retaillake.lk,0773262903,Nuwara Eliya,Gold,2023-03-16
+CUST0500,Hiruni,Bandara,hiruni.bandara500@retaillake.lk,0766249702,Jaffna,Gold,2024-05-15
+CUST0501,Kasun,Karunaratne,kasun.karunaratne501@retaillake.lk,0727601200,Nuwara Eliya,Silver,2021-12-09
+CUST0502,Tharindu,Senanayake,tharindu.senanayake502@retaillake.lk,0768011418,Negombo,Silver,2022-12-05
+CUST0503,Tharushi,Herath,tharushi.herath503@retaillake.lk,0711307588,Galle,Platinum,2024-03-28
+CUST0504,Anjali,Senanayake,anjali.senanayake504@retaillake.lk,0752376193,Matara,Gold,2023-09-28
+CUST0505,Zainab,Perera,zainab.perera505@retaillake.lk,0763472598,Kandy,Silver,2021-04-27
+CUST0506,Isuru,Rathnayake,isuru.rathnayake506@retaillake.lk,0794538675,Kandy,Platinum,2023-05-12
+CUST0507,Nadeesha,Senanayake,nadeesha.senanayake507@retaillake.lk,0784825240,Kurunegala,Gold,2021-07-04
+CUST0508,Nadeesha,Abeysekara,nadeesha.abeysekara508@retaillake.lk,0791279039,Badulla,Silver,2023-06-11
+CUST0509,Anjali,Rathnayake,anjali.rathnayake509@retaillake.lk,0769985944,Kandy,Platinum,2025-05-15
+CUST0510,Ruwan,Abeysekara,ruwan.abeysekara510@retaillake.lk,0732491607,Jaffna,Platinum,2025-10-13
+CUST0511,Kamal,Fernando,kamal.fernando511@retaillake.lk,0731743203,Jaffna,Silver,2023-06-21
+CUST0512,Chamath,Rajapaksha,chamath.rajapaksha512@retaillake.lk,0745899536,Nuwara Eliya,Platinum,2023-08-25
+CUST0513,Nadeesha,Rajapaksha,nadeesha.rajapaksha513@retaillake.lk,0788775038,Ratnapura,Platinum,2024-03-06
+CUST0514,Amal,Silva,amal.silva514@retaillake.lk,0741491128,Kurunegala,Bronze,2022-03-13
+CUST0515,Saman,Fernando,saman.fernando515@retaillake.lk,0718562070,Matara,Bronze,2021-07-17
+CUST0516,Kamal,Fernando,kamal.fernando516@retaillake.lk,0745225746,Nuwara Eliya,Silver,2021-11-13
+CUST0517,Chamath,Bandara,chamath.bandara517@retaillake.lk,0743204998,Kurunegala,Platinum,2022-03-17
+CUST0518,Kasun,Perera,kasun.perera518@retaillake.lk,0714718421,Jaffna,Gold,2024-08-28
+CUST0519,Fathima,Jayasinghe,fathima.jayasinghe519@retaillake.lk,0783624500,Matara,Silver,2025-03-19
+CUST0520,Madhavi,Rathnayake,madhavi.rathnayake520@retaillake.lk,0794697764,Nuwara Eliya,Platinum,2025-11-21
+CUST0521,Fathima,Jayasinghe,fathima.jayasinghe521@retaillake.lk,0756596140,Matara,Silver,2021-08-10
+CUST0522,Nadeesha,Gunawardena,nadeesha.gunawardena522@retaillake.lk,0744870711,Galle,Gold,2021-01-17
+CUST0523,Ruwan,Wijesinghe,ruwan.wijesinghe523@retaillake.lk,0748488577,Matara,Bronze,2024-08-10
+CUST0524,Amal,Herath,amal.herath524@retaillake.lk,0767772049,Kurunegala,Silver,2021-09-12
+CUST0525,Dinesh,Gunawardena,dinesh.gunawardena525@retaillake.lk,0785236332,Negombo,Platinum,2022-03-23
+CUST0526,Dilani,Abeysekara,dilani.abeysekara526@retaillake.lk,0760782359,Badulla,Gold,2021-07-21
+CUST0527,Tharindu,Senanayake,tharindu.senanayake527@retaillake.lk,0792304487,Kurunegala,Gold,2025-05-14
+CUST0528,Dinesh,Abeysekara,dinesh.abeysekara528@retaillake.lk,0719189076,Galle,Silver,2023-02-21
+CUST0529,Shalini,Karunaratne,shalini.karunaratne529@retaillake.lk,0770769389,Kurunegala,Platinum,2022-06-01
+CUST0530,Ruwan,Perera,ruwan.perera530@retaillake.lk,0781802559,Colombo,Silver,2021-05-09
+CUST0531,Ruwan,Rajapaksha,ruwan.rajapaksha531@retaillake.lk,0768843284,Colombo,Silver,2021-03-01
+CUST0532,Tharushi,Bandara,tharushi.bandara532@retaillake.lk,0755890766,Negombo,Gold,2024-06-15
+CUST0533,Nimal,Wijesinghe,nimal.wijesinghe533@retaillake.lk,0720767361,Galle,Bronze,2023-07-03
+CUST0534,Fathima,Rathnayake,fathima.rathnayake534@retaillake.lk,0734374441,Badulla,Gold,2024-01-04
+CUST0535,Tharindu,Gunawardena,tharindu.gunawardena535@retaillake.lk,0769453211,Badulla,Bronze,2022-08-24
+CUST0536,Saman,Senanayake,saman.senanayake536@retaillake.lk,0799390064,Badulla,Platinum,2024-11-10
+CUST0537,Ayesha,Silva,ayesha.silva537@retaillake.lk,0794444996,Colombo,Bronze,2023-08-21
+CUST0538,Chamath,Bandara,chamath.bandara538@retaillake.lk,0758375646,Colombo,Silver,2021-04-21
+CUST0539,Hiruni,Wijesinghe,hiruni.wijesinghe539@retaillake.lk,0712022353,Galle,Gold,2025-02-13
+CUST0540,Tharindu,Perera,tharindu.perera540@retaillake.lk,0715636254,Nuwara Eliya,Platinum,2025-03-12
+CUST0541,Kamal,Bandara,kamal.bandara541@retaillake.lk,0731165928,Matara,Bronze,2025-06-25
+CUST0542,Nimal,Perera,nimal.perera542@retaillake.lk,0757716774,Galle,Bronze,2022-08-08
+CUST0543,Ayesha,Senanayake,ayesha.senanayake543@retaillake.lk,0796522918,Jaffna,Platinum,2022-01-23
+CUST0544,Dilani,Wijesinghe,dilani.wijesinghe544@retaillake.lk,0728083446,Kurunegala,Bronze,2024-12-15
+CUST0545,Fathima,Jayasinghe,fathima.jayasinghe545@retaillake.lk,0782844534,Matara,Silver,2025-03-18
+CUST0546,Nadeesha,Wijesinghe,nadeesha.wijesinghe546@retaillake.lk,0772866875,Kurunegala,Silver,2021-09-05
+CUST0547,Shalini,Jayasinghe,shalini.jayasinghe547@retaillake.lk,0745346140,Ratnapura,Gold,2024-01-25
+CUST0548,Anjali,Gunawardena,anjali.gunawardena548@retaillake.lk,0734901990,Colombo,Gold,2025-04-11
+CUST0549,Kamal,De Silva,kamal.desilva549@retaillake.lk,0782337519,Negombo,Silver,2025-11-16
+CUST0550,Fathima,Silva,fathima.silva550@retaillake.lk,0792280734,Kurunegala,Gold,2024-11-11
+CUST0551,Saman,Fernando,saman.fernando551@retaillake.lk,0780222787,Kandy,Bronze,2022-03-28
+CUST0552,Nimal,Bandara,nimal.bandara552@retaillake.lk,0724368701,Matara,Silver,2021-01-19
+CUST0553,Dilani,De Silva,dilani.desilva553@retaillake.lk,0775754558,Ratnapura,Gold,2021-06-08
+CUST0554,Madhavi,Rajapaksha,madhavi.rajapaksha554@retaillake.lk,0719512542,Colombo,Silver,2024-02-15
+CUST0555,Nimal,Wijesinghe,nimal.wijesinghe555@retaillake.lk,0784896161,Negombo,Gold,2021-10-09
+CUST0556,Anjali,Perera,anjali.perera556@retaillake.lk,0719447334,Kurunegala,Bronze,2022-09-04
+CUST0557,Saman,Rajapaksha,saman.rajapaksha557@retaillake.lk,0741006711,Ratnapura,Platinum,2022-04-17
+CUST0558,Tharindu,Karunaratne,tharindu.karunaratne558@retaillake.lk,0793929707,Galle,Platinum,2021-11-19
+CUST0559,Nadeesha,De Silva,nadeesha.desilva559@retaillake.lk,0771568435,Negombo,Bronze,2022-03-18
+CUST0560,Dilani,Senanayake,dilani.senanayake560@retaillake.lk,0755300210,Galle,Platinum,2023-06-18
+CUST0561,Ayesha,Abeysekara,ayesha.abeysekara561@retaillake.lk,0759891348,Negombo,Platinum,2023-10-08
+CUST0562,Zainab,Senanayake,zainab.senanayake562@retaillake.lk,0738712948,Negombo,Gold,2023-08-15
+CUST0563,Dilani,Perera,dilani.perera563@retaillake.lk,0714652375,Kurunegala,Bronze,2025-03-10
+CUST0564,Amal,Jayasinghe,amal.jayasinghe564@retaillake.lk,0739781129,Badulla,Gold,2021-12-27
+CUST0565,Isuru,Senanayake,isuru.senanayake565@retaillake.lk,0778621697,Ratnapura,Silver,2021-01-15
+CUST0566,Nadeesha,Silva,nadeesha.silva566@retaillake.lk,0728576833,Kurunegala,Gold,2025-04-08
+CUST0567,Isuru,Herath,isuru.herath567@retaillake.lk,0750305910,Kandy,Platinum,2025-04-24
+CUST0568,Kamal,Rajapaksha,kamal.rajapaksha568@retaillake.lk,0753579429,Matara,Silver,2024-12-23
+CUST0569,Zainab,Abeysekara,zainab.abeysekara569@retaillake.lk,0722799546,Nuwara Eliya,Gold,2021-12-26
+CUST0570,Zainab,Gunawardena,zainab.gunawardena570@retaillake.lk,0720533057,Colombo,Gold,2023-07-14
+CUST0571,Saman,Abeysekara,saman.abeysekara571@retaillake.lk,0740429530,Nuwara Eliya,Bronze,2024-01-10
+CUST0572,Anjali,Perera,anjali.perera572@retaillake.lk,0752857940,Ratnapura,Silver,2023-09-23
+CUST0573,Tharindu,Silva,tharindu.silva573@retaillake.lk,0716780654,Negombo,Platinum,2025-10-17
+CUST0574,Kamal,Bandara,kamal.bandara574@retaillake.lk,0767973424,Kurunegala,Platinum,2022-03-11
+CUST0575,Kamal,Rathnayake,kamal.rathnayake575@retaillake.lk,0786697457,Colombo,Platinum,2023-02-13
+CUST0576,Anjali,Gunawardena,anjali.gunawardena576@retaillake.lk,0727498659,Galle,Platinum,2025-04-16
+CUST0577,Dilani,De Silva,dilani.desilva577@retaillake.lk,0786682706,Badulla,Silver,2022-02-09
+CUST0578,Hiruni,Wijesinghe,hiruni.wijesinghe578@retaillake.lk,0787311859,Kandy,Bronze,2024-07-12
+CUST0579,Nadeesha,Bandara,nadeesha.bandara579@retaillake.lk,0753048774,Jaffna,Bronze,2023-03-12
+CUST0580,Madhavi,Abeysekara,madhavi.abeysekara580@retaillake.lk,0769352435,Nuwara Eliya,Silver,2024-01-27
+CUST0581,Tharindu,Bandara,tharindu.bandara581@retaillake.lk,0760173377,Galle,Bronze,2021-12-02
+CUST0582,Tharindu,Karunaratne,tharindu.karunaratne582@retaillake.lk,0729820881,Kurunegala,Bronze,2023-12-26
+CUST0583,Saman,Jayasinghe,saman.jayasinghe583@retaillake.lk,0770406241,Matara,Bronze,2023-04-24
+CUST0584,Fathima,Bandara,fathima.bandara584@retaillake.lk,0737353754,Ratnapura,Gold,2025-08-20
+CUST0585,Ruwan,Rajapaksha,ruwan.rajapaksha585@retaillake.lk,0799692417,Colombo,Platinum,2025-11-17
+CUST0586,Nimal,Jayasinghe,nimal.jayasinghe586@retaillake.lk,0732859916,Colombo,Gold,2022-12-20
+CUST0587,Isuru,Perera,isuru.perera587@retaillake.lk,0772405984,Colombo,Bronze,2024-11-09
+CUST0588,Nadeesha,Abeysekara,nadeesha.abeysekara588@retaillake.lk,0724480943,Colombo,Gold,2024-04-13
+CUST0589,Anjali,Rajapaksha,anjali.rajapaksha589@retaillake.lk,0723368583,Jaffna,Platinum,2025-09-03
+CUST0590,Kasun,Bandara,kasun.bandara590@retaillake.lk,0777196215,Matara,Bronze,2021-04-17
+CUST0591,Chamath,Wijesinghe,chamath.wijesinghe591@retaillake.lk,0775757673,Negombo,Silver,2021-06-22
+CUST0592,Nadeesha,Wijesinghe,nadeesha.wijesinghe592@retaillake.lk,0793917080,Kurunegala,Silver,2025-05-26
+CUST0593,Nimal,De Silva,nimal.desilva593@retaillake.lk,0744585138,Negombo,Bronze,2025-05-08
+CUST0594,Ruwan,Wijesinghe,ruwan.wijesinghe594@retaillake.lk,0762726977,Galle,Bronze,2024-09-22
+CUST0595,Madhavi,Abeysekara,madhavi.abeysekara595@retaillake.lk,0793956490,Badulla,Platinum,2022-10-05
+CUST0596,Hiruni,Jayasinghe,hiruni.jayasinghe596@retaillake.lk,0791251236,Jaffna,Platinum,2025-03-07
+CUST0597,Ruwan,Karunaratne,ruwan.karunaratne597@retaillake.lk,0782659280,Badulla,Silver,2023-12-23
+CUST0598,Anjali,Silva,anjali.silva598@retaillake.lk,0767722252,Galle,Silver,2023-02-18
+CUST0599,Fathima,Rajapaksha,fathima.rajapaksha599@retaillake.lk,0725889673,Galle,Gold,2022-12-01
+CUST0600,Ayesha,Gunawardena,ayesha.gunawardena600@retaillake.lk,0765197277,Kurunegala,Platinum,2023-03-25
+CUST0601,Dinesh,Fernando,dinesh.fernando601@retaillake.lk,0727655789,Galle,Bronze,2025-10-09
+CUST0602,Madhavi,Karunaratne,madhavi.karunaratne602@retaillake.lk,0792189839,Badulla,Silver,2022-11-01
+CUST0603,Nadeesha,Fernando,nadeesha.fernando603@retaillake.lk,0773968467,Galle,Platinum,2023-03-28
+CUST0604,Dilani,Rathnayake,dilani.rathnayake604@retaillake.lk,0773598657,Galle,Silver,2022-04-02
+CUST0605,Hiruni,Herath,hiruni.herath605@retaillake.lk,0712015179,Kurunegala,Platinum,2022-12-22
+CUST0606,Dinesh,Herath,dinesh.herath606@retaillake.lk,0737455861,Kandy,Silver,2024-10-16
+CUST0607,Ayesha,Abeysekara,ayesha.abeysekara607@retaillake.lk,0771410640,Badulla,Platinum,2024-01-20
+CUST0608,Dilani,Rajapaksha,dilani.rajapaksha608@retaillake.lk,0751996390,Negombo,Bronze,2025-02-15
+CUST0609,Shalini,Abeysekara,shalini.abeysekara609@retaillake.lk,0715692967,Badulla,Platinum,2021-09-13
+CUST0610,Anjali,Herath,anjali.herath610@retaillake.lk,0794644215,Colombo,Silver,2023-08-13
+CUST0611,Chamath,Herath,chamath.herath611@retaillake.lk,0748374806,Matara,Silver,2024-05-20
+CUST0612,Nimal,Rajapaksha,nimal.rajapaksha612@retaillake.lk,0779386491,Galle,Platinum,2024-02-24
+CUST0613,Anjali,Fernando,anjali.fernando613@retaillake.lk,0734128507,Nuwara Eliya,Silver,2024-07-11
+CUST0614,Shalini,Perera,shalini.perera614@retaillake.lk,0734008676,Matara,Silver,2024-02-09
+CUST0615,Ayesha,Rajapaksha,ayesha.rajapaksha615@retaillake.lk,0797050454,Galle,Bronze,2021-02-23
+CUST0616,Shalini,De Silva,shalini.desilva616@retaillake.lk,0758713437,Kandy,Platinum,2025-10-06
+CUST0617,Dilani,Senanayake,dilani.senanayake617@retaillake.lk,0761084208,Colombo,Silver,2023-10-28
+CUST0618,Ruwan,Silva,ruwan.silva618@retaillake.lk,0729408873,Galle,Bronze,2024-05-10
+CUST0619,Shalini,Jayasinghe,shalini.jayasinghe619@retaillake.lk,0794081078,Galle,Bronze,2022-04-01
+CUST0620,Madhavi,Herath,madhavi.herath620@retaillake.lk,0743971980,Colombo,Platinum,2024-08-18
+CUST0621,Amal,Karunaratne,amal.karunaratne621@retaillake.lk,0776231992,Badulla,Silver,2025-11-16
+CUST0622,Shalini,Gunawardena,shalini.gunawardena622@retaillake.lk,0769307507,Kandy,Bronze,2022-09-09
+CUST0623,Madhavi,De Silva,madhavi.desilva623@retaillake.lk,0784832912,Badulla,Bronze,2022-03-02
+CUST0624,Nadeesha,Perera,nadeesha.perera624@retaillake.lk,0729511823,Colombo,Gold,2023-02-02
+CUST0625,Saman,Gunawardena,saman.gunawardena625@retaillake.lk,0733924094,Galle,Gold,2025-11-23
+CUST0626,Madhavi,Karunaratne,madhavi.karunaratne626@retaillake.lk,0785454146,Galle,Platinum,2025-06-02
+CUST0627,Kamal,Herath,kamal.herath627@retaillake.lk,0750170625,Jaffna,Gold,2024-02-25
+CUST0628,Hiruni,Abeysekara,hiruni.abeysekara628@retaillake.lk,0783882978,Kandy,Gold,2024-03-04
+CUST0629,Isuru,Wijesinghe,isuru.wijesinghe629@retaillake.lk,0780739820,Negombo,Silver,2022-10-02
+CUST0630,Saman,Karunaratne,saman.karunaratne630@retaillake.lk,0794420078,Ratnapura,Bronze,2024-12-23
+CUST0631,Madhavi,Herath,madhavi.herath631@retaillake.lk,0748545627,Negombo,Gold,2023-09-19
+CUST0632,Madhavi,Wijesinghe,madhavi.wijesinghe632@retaillake.lk,0727409802,Nuwara Eliya,Platinum,2025-12-21
+CUST0633,Tharushi,Rathnayake,tharushi.rathnayake633@retaillake.lk,0734146739,Nuwara Eliya,Silver,2023-04-01
+CUST0634,Saman,Perera,saman.perera634@retaillake.lk,0772395893,Kandy,Silver,2025-07-14
+CUST0635,Nimal,Wijesinghe,nimal.wijesinghe635@retaillake.lk,0756929234,Ratnapura,Silver,2021-11-07
+CUST0636,Chamath,Jayasinghe,chamath.jayasinghe636@retaillake.lk,0719104802,Kurunegala,Gold,2025-09-11
+CUST0637,Amal,Fernando,amal.fernando637@retaillake.lk,0754732472,Jaffna,Platinum,2025-10-01
+CUST0638,Kasun,Bandara,kasun.bandara638@retaillake.lk,0754360949,Jaffna,Platinum,2024-01-21
+CUST0639,Ruwan,Rathnayake,ruwan.rathnayake639@retaillake.lk,0730855594,Matara,Gold,2024-07-24
+CUST0640,Nimal,Abeysekara,nimal.abeysekara640@retaillake.lk,0779937264,Kurunegala,Gold,2025-09-01
+CUST0641,Dinesh,Karunaratne,dinesh.karunaratne641@retaillake.lk,0754522609,Jaffna,Bronze,2022-05-27
+CUST0642,Amal,Wijesinghe,amal.wijesinghe642@retaillake.lk,0760363964,Ratnapura,Silver,2025-10-13
+CUST0643,Kasun,Karunaratne,kasun.karunaratne643@retaillake.lk,0725682621,Kurunegala,Gold,2021-05-14
+CUST0644,Kamal,Rathnayake,kamal.rathnayake644@retaillake.lk,0741895802,Jaffna,Platinum,2023-04-17
+CUST0645,Chamath,Silva,chamath.silva645@retaillake.lk,0725063426,Jaffna,Bronze,2022-02-15
+CUST0646,Anjali,Perera,anjali.perera646@retaillake.lk,0774781956,Ratnapura,Silver,2022-06-16
+CUST0647,Anjali,Jayasinghe,anjali.jayasinghe647@retaillake.lk,0753934556,Galle,Bronze,2025-11-05
+CUST0648,Dinesh,Rajapaksha,dinesh.rajapaksha648@retaillake.lk,0714905998,Matara,Platinum,2025-02-01
+CUST0649,Chamath,Perera,chamath.perera649@retaillake.lk,0789763928,Kandy,Gold,2024-01-04
+CUST0650,Anjali,Herath,anjali.herath650@retaillake.lk,0798447373,Kurunegala,Bronze,2025-05-21
+CUST0651,Dinesh,Wijesinghe,dinesh.wijesinghe651@retaillake.lk,0736918105,Badulla,Gold,2023-09-11
+CUST0652,Shalini,De Silva,shalini.desilva652@retaillake.lk,0725790828,Kurunegala,Silver,2022-05-04
+CUST0653,Amal,Karunaratne,amal.karunaratne653@retaillake.lk,0785111698,Ratnapura,Bronze,2022-09-12
+CUST0654,Fathima,Wijesinghe,fathima.wijesinghe654@retaillake.lk,0746379997,Galle,Gold,2025-04-06
+CUST0655,Kamal,Jayasinghe,kamal.jayasinghe655@retaillake.lk,0792310750,Jaffna,Platinum,2021-03-01
+CUST0656,Tharushi,De Silva,tharushi.desilva656@retaillake.lk,0716772091,Kandy,Platinum,2021-02-14
+CUST0657,Dilani,Silva,dilani.silva657@retaillake.lk,0790010054,Nuwara Eliya,Platinum,2025-06-10
+CUST0658,Ayesha,Abeysekara,ayesha.abeysekara658@retaillake.lk,0736594858,Ratnapura,Bronze,2024-10-05
+CUST0659,Kamal,Abeysekara,kamal.abeysekara659@retaillake.lk,0772850928,Kandy,Platinum,2023-11-21
+CUST0660,Shalini,Rathnayake,shalini.rathnayake660@retaillake.lk,0741097470,Badulla,Silver,2025-05-12
+CUST0661,Dilani,Silva,dilani.silva661@retaillake.lk,0799279031,Jaffna,Gold,2024-08-01
+CUST0662,Kamal,Rathnayake,kamal.rathnayake662@retaillake.lk,0725151444,Jaffna,Platinum,2024-03-10
+CUST0663,Nadeesha,Karunaratne,nadeesha.karunaratne663@retaillake.lk,0787132010,Galle,Bronze,2024-12-26
+CUST0664,Saman,Wijesinghe,saman.wijesinghe664@retaillake.lk,0784645170,Kandy,Gold,2025-08-13
+CUST0665,Zainab,Gunawardena,zainab.gunawardena665@retaillake.lk,0742021033,Nuwara Eliya,Silver,2025-03-16
+CUST0666,Dilani,Fernando,dilani.fernando666@retaillake.lk,0755729880,Badulla,Platinum,2024-10-26
+CUST0667,Ayesha,Senanayake,ayesha.senanayake667@retaillake.lk,0741696096,Galle,Bronze,2025-08-04
+CUST0668,Zainab,Karunaratne,zainab.karunaratne668@retaillake.lk,0772130518,Jaffna,Bronze,2024-03-10
+CUST0669,Dilani,Fernando,dilani.fernando669@retaillake.lk,0790296988,Kandy,Platinum,2023-08-21
+CUST0670,Nimal,Fernando,nimal.fernando670@retaillake.lk,0739207357,Galle,Bronze,2022-11-05
+CUST0671,Shalini,Senanayake,shalini.senanayake671@retaillake.lk,0749124904,Negombo,Platinum,2022-04-22
+CUST0672,Ayesha,Jayasinghe,ayesha.jayasinghe672@retaillake.lk,0786541203,Kurunegala,Platinum,2023-02-19
+CUST0673,Amal,Karunaratne,amal.karunaratne673@retaillake.lk,0778507933,Negombo,Silver,2023-01-12
+CUST0674,Fathima,Perera,fathima.perera674@retaillake.lk,0710113187,Ratnapura,Gold,2021-05-28
+CUST0675,Amal,Bandara,amal.bandara675@retaillake.lk,0767943873,Nuwara Eliya,Platinum,2023-12-13
+CUST0676,Dilani,Gunawardena,dilani.gunawardena676@retaillake.lk,0768410219,Ratnapura,Silver,2022-08-05
+CUST0677,Dinesh,Senanayake,dinesh.senanayake677@retaillake.lk,0761619474,Jaffna,Platinum,2022-05-28
+CUST0678,Ruwan,Silva,ruwan.silva678@retaillake.lk,0711557295,Kandy,Bronze,2022-12-16
+CUST0679,Hiruni,Silva,hiruni.silva679@retaillake.lk,0721363335,Galle,Platinum,2024-12-20
+CUST0680,Hiruni,Karunaratne,hiruni.karunaratne680@retaillake.lk,0734131995,Matara,Platinum,2025-08-13
+CUST0681,Nadeesha,Bandara,nadeesha.bandara681@retaillake.lk,0734936450,Negombo,Bronze,2025-08-28
+CUST0682,Tharindu,Rajapaksha,tharindu.rajapaksha682@retaillake.lk,0777340900,Kurunegala,Platinum,2025-10-12
+CUST0683,Nimal,Perera,nimal.perera683@retaillake.lk,0786255745,Matara,Gold,2021-10-16
+CUST0684,Kamal,Silva,kamal.silva684@retaillake.lk,0780653292,Kurunegala,Platinum,2025-02-17
+CUST0685,Madhavi,Fernando,madhavi.fernando685@retaillake.lk,0742914388,Matara,Bronze,2025-10-10
+CUST0686,Madhavi,Perera,madhavi.perera686@retaillake.lk,0756109986,Ratnapura,Bronze,2024-08-17
+CUST0687,Tharushi,Karunaratne,tharushi.karunaratne687@retaillake.lk,0754495054,Negombo,Gold,2023-05-06
+CUST0688,Nimal,Rajapaksha,nimal.rajapaksha688@retaillake.lk,0790213415,Kurunegala,Gold,2021-11-16
+CUST0689,Zainab,Silva,zainab.silva689@retaillake.lk,0786887967,Colombo,Gold,2025-01-10
+CUST0690,Tharushi,Fernando,tharushi.fernando690@retaillake.lk,0727021671,Ratnapura,Bronze,2023-05-05
+CUST0691,Madhavi,Jayasinghe,madhavi.jayasinghe691@retaillake.lk,0746939015,Kurunegala,Bronze,2021-10-06
+CUST0692,Zainab,Rajapaksha,zainab.rajapaksha692@retaillake.lk,0730285078,Matara,Gold,2022-05-26
+CUST0693,Tharindu,Rathnayake,tharindu.rathnayake693@retaillake.lk,0734267798,Ratnapura,Bronze,2023-02-05
+CUST0694,Madhavi,Abeysekara,madhavi.abeysekara694@retaillake.lk,0730689702,Matara,Platinum,2024-04-22
+CUST0695,Shalini,Rajapaksha,shalini.rajapaksha695@retaillake.lk,0795573823,Galle,Silver,2025-12-27
+CUST0696,Nadeesha,Perera,nadeesha.perera696@retaillake.lk,0796202825,Kurunegala,Bronze,2021-03-15
+CUST0697,Dilani,Rathnayake,dilani.rathnayake697@retaillake.lk,0750448811,Matara,Silver,2024-11-23
+CUST0698,Dilani,Rathnayake,dilani.rathnayake698@retaillake.lk,0745248951,Galle,Platinum,2021-05-26
+CUST0699,Shalini,Gunawardena,shalini.gunawardena699@retaillake.lk,0752371009,Ratnapura,Bronze,2021-09-21
+CUST0700,Nadeesha,Abeysekara,nadeesha.abeysekara700@retaillake.lk,0767953319,Nuwara Eliya,Gold,2023-05-09
+CUST0701,Saman,Jayasinghe,saman.jayasinghe701@retaillake.lk,0797824468,Nuwara Eliya,Platinum,2024-11-24
+CUST0702,Tharindu,Rajapaksha,tharindu.rajapaksha702@retaillake.lk,0789017236,Badulla,Gold,2022-06-18
+CUST0703,Amal,De Silva,amal.desilva703@retaillake.lk,0711137651,Kandy,Bronze,2024-02-17
+CUST0704,Saman,De Silva,saman.desilva704@retaillake.lk,0769853349,Jaffna,Silver,2023-05-07
+CUST0705,Nimal,Perera,nimal.perera705@retaillake.lk,0793134088,Kandy,Bronze,2025-11-27
+CUST0706,Dinesh,Karunaratne,dinesh.karunaratne706@retaillake.lk,0795642035,Kandy,Bronze,2021-10-05
+CUST0707,Dilani,De Silva,dilani.desilva707@retaillake.lk,0796960449,Nuwara Eliya,Silver,2021-12-06
+CUST0708,Isuru,Jayasinghe,isuru.jayasinghe708@retaillake.lk,0772673716,Kandy,Platinum,2023-07-23
+CUST0709,Ayesha,Jayasinghe,ayesha.jayasinghe709@retaillake.lk,0731738712,Kandy,Gold,2021-07-13
+CUST0710,Ayesha,Perera,ayesha.perera710@retaillake.lk,0744660198,Kurunegala,Silver,2024-02-16
+CUST0711,Dinesh,Karunaratne,dinesh.karunaratne711@retaillake.lk,0762698503,Galle,Platinum,2021-03-18
+CUST0712,Hiruni,Bandara,hiruni.bandara712@retaillake.lk,0792405160,Kandy,Platinum,2023-02-02
+CUST0713,Kamal,Fernando,kamal.fernando713@retaillake.lk,0786684568,Kurunegala,Platinum,2021-08-05
+CUST0714,Amal,Perera,amal.perera714@retaillake.lk,0799201885,Negombo,Gold,2022-12-11
+CUST0715,Dilani,Karunaratne,dilani.karunaratne715@retaillake.lk,0710497109,Ratnapura,Platinum,2024-07-13
+CUST0716,Kamal,Senanayake,kamal.senanayake716@retaillake.lk,0740312650,Colombo,Platinum,2024-02-19
+CUST0717,Fathima,Wijesinghe,fathima.wijesinghe717@retaillake.lk,0754753520,Kurunegala,Platinum,2021-11-21
+CUST0718,Kamal,Wijesinghe,kamal.wijesinghe718@retaillake.lk,0781756326,Jaffna,Bronze,2024-05-21
+CUST0719,Dinesh,Silva,dinesh.silva719@retaillake.lk,0784420438,Colombo,Platinum,2022-05-23
+CUST0720,Dilani,Fernando,dilani.fernando720@retaillake.lk,0794639988,Jaffna,Platinum,2021-11-15
+CUST0721,Dinesh,Silva,dinesh.silva721@retaillake.lk,0714791343,Badulla,Bronze,2025-04-16
+CUST0722,Dilani,Fernando,dilani.fernando722@retaillake.lk,0782551667,Kurunegala,Platinum,2025-08-01
+CUST0723,Nimal,Wijesinghe,nimal.wijesinghe723@retaillake.lk,0717523501,Jaffna,Bronze,2024-02-07
+CUST0724,Anjali,Rathnayake,anjali.rathnayake724@retaillake.lk,0782016051,Galle,Silver,2021-01-24
+CUST0725,Ruwan,Rathnayake,ruwan.rathnayake725@retaillake.lk,0797755782,Colombo,Platinum,2025-01-08
+CUST0726,Ruwan,Perera,ruwan.perera726@retaillake.lk,0733118870,Colombo,Gold,2021-08-20
+CUST0727,Kasun,Abeysekara,kasun.abeysekara727@retaillake.lk,0789328380,Kandy,Bronze,2021-08-20
+CUST0728,Madhavi,Bandara,madhavi.bandara728@retaillake.lk,0718470495,Badulla,Platinum,2023-12-22
+CUST0729,Dilani,Wijesinghe,dilani.wijesinghe729@retaillake.lk,0726213828,Nuwara Eliya,Silver,2023-04-25
+CUST0730,Nimal,Karunaratne,nimal.karunaratne730@retaillake.lk,0733279749,Jaffna,Bronze,2021-05-05
+CUST0731,Hiruni,Silva,hiruni.silva731@retaillake.lk,0759650807,Ratnapura,Silver,2024-04-19
+CUST0732,Nimal,Silva,nimal.silva732@retaillake.lk,0723417457,Nuwara Eliya,Platinum,2022-01-16
+CUST0733,Kamal,Perera,kamal.perera733@retaillake.lk,0710969588,Galle,Bronze,2025-05-14
+CUST0734,Tharushi,Rajapaksha,tharushi.rajapaksha734@retaillake.lk,0727031212,Badulla,Silver,2023-09-15
+CUST0735,Hiruni,Bandara,hiruni.bandara735@retaillake.lk,0733427561,Nuwara Eliya,Bronze,2025-03-23
+CUST0736,Tharushi,Karunaratne,tharushi.karunaratne736@retaillake.lk,0721814004,Kurunegala,Gold,2024-01-18
+CUST0737,Tharindu,Bandara,tharindu.bandara737@retaillake.lk,0725771632,Ratnapura,Bronze,2025-06-28
+CUST0738,Fathima,Senanayake,fathima.senanayake738@retaillake.lk,0739430744,Matara,Silver,2023-01-07
+CUST0739,Saman,Herath,saman.herath739@retaillake.lk,0730027622,Matara,Platinum,2022-03-22
+CUST0740,Nimal,Perera,nimal.perera740@retaillake.lk,0796551756,Jaffna,Gold,2022-07-09
+CUST0741,Ayesha,Karunaratne,ayesha.karunaratne741@retaillake.lk,0770820445,Colombo,Bronze,2021-09-06
+CUST0742,Kasun,Herath,kasun.herath742@retaillake.lk,0713901068,Matara,Bronze,2021-04-24
+CUST0743,Shalini,Karunaratne,shalini.karunaratne743@retaillake.lk,0787814308,Jaffna,Platinum,2022-12-22
+CUST0744,Ayesha,Bandara,ayesha.bandara744@retaillake.lk,0724781783,Jaffna,Silver,2021-04-24
+CUST0745,Hiruni,Abeysekara,hiruni.abeysekara745@retaillake.lk,0736837617,Negombo,Silver,2021-08-19
+CUST0746,Tharushi,Perera,tharushi.perera746@retaillake.lk,0768500818,Galle,Silver,2025-08-06
+CUST0747,Dilani,Wijesinghe,dilani.wijesinghe747@retaillake.lk,0728307917,Matara,Silver,2023-05-07
+CUST0748,Ayesha,Silva,ayesha.silva748@retaillake.lk,0714307663,Nuwara Eliya,Bronze,2023-03-04
+CUST0749,Shalini,Rathnayake,shalini.rathnayake749@retaillake.lk,0766133052,Galle,Gold,2022-05-20
+CUST0750,Kasun,Herath,kasun.herath750@retaillake.lk,0795630804,Nuwara Eliya,Silver,2025-09-28
+CUST0751,Tharindu,Fernando,tharindu.fernando751@retaillake.lk,0765256920,Ratnapura,Platinum,2022-10-16
+CUST0752,Shalini,Jayasinghe,shalini.jayasinghe752@retaillake.lk,0711946674,Negombo,Silver,2022-06-14
+CUST0753,Zainab,Bandara,zainab.bandara753@retaillake.lk,0789426243,Galle,Bronze,2024-01-02
+CUST0754,Tharushi,Rajapaksha,tharushi.rajapaksha754@retaillake.lk,0777674770,Colombo,Platinum,2025-07-16
+CUST0755,Saman,Rathnayake,saman.rathnayake755@retaillake.lk,0776476033,Badulla,Bronze,2025-01-23
+CUST0756,Hiruni,Bandara,hiruni.bandara756@retaillake.lk,0727812303,Jaffna,Gold,2022-11-03
+CUST0757,Amal,Rathnayake,amal.rathnayake757@retaillake.lk,0799796439,Kurunegala,Silver,2024-10-24
+CUST0758,Zainab,Perera,zainab.perera758@retaillake.lk,0771047698,Matara,Silver,2024-03-26
+CUST0759,Nadeesha,De Silva,nadeesha.desilva759@retaillake.lk,0772316725,Colombo,Bronze,2024-12-11
+CUST0760,Anjali,Perera,anjali.perera760@retaillake.lk,0749807633,Negombo,Gold,2025-09-19
+CUST0761,Dinesh,Herath,dinesh.herath761@retaillake.lk,0720866138,Nuwara Eliya,Gold,2021-09-22
+CUST0762,Nadeesha,Perera,nadeesha.perera762@retaillake.lk,0724893677,Negombo,Gold,2024-10-02
+CUST0763,Nadeesha,Wijesinghe,nadeesha.wijesinghe763@retaillake.lk,0733523992,Ratnapura,Bronze,2025-12-25
+CUST0764,Dinesh,Silva,dinesh.silva764@retaillake.lk,0754953500,Badulla,Bronze,2024-12-25
+CUST0765,Zainab,Abeysekara,zainab.abeysekara765@retaillake.lk,0738158070,Badulla,Gold,2023-05-17
+CUST0766,Hiruni,Jayasinghe,hiruni.jayasinghe766@retaillake.lk,0717309497,Kandy,Gold,2023-08-16
+CUST0767,Anjali,Senanayake,anjali.senanayake767@retaillake.lk,0726469781,Matara,Gold,2024-10-12
+CUST0768,Kamal,Bandara,kamal.bandara768@retaillake.lk,0771454824,Kandy,Bronze,2024-03-10
+CUST0769,Kamal,Fernando,kamal.fernando769@retaillake.lk,0732114547,Kurunegala,Bronze,2022-08-05
+CUST0770,Dinesh,Senanayake,dinesh.senanayake770@retaillake.lk,0794191586,Colombo,Gold,2024-11-18
+CUST0771,Ruwan,Rathnayake,ruwan.rathnayake771@retaillake.lk,0756533319,Negombo,Platinum,2021-05-07
+CUST0772,Kamal,Perera,kamal.perera772@retaillake.lk,0741182544,Ratnapura,Gold,2024-10-11
+CUST0773,Ayesha,Rathnayake,ayesha.rathnayake773@retaillake.lk,0789639062,Ratnapura,Platinum,2024-05-19
+CUST0774,Ruwan,Herath,ruwan.herath774@retaillake.lk,0751137063,Galle,Gold,2022-08-12
+CUST0775,Chamath,Herath,chamath.herath775@retaillake.lk,0716351040,Galle,Gold,2023-08-06
+CUST0776,Madhavi,Silva,madhavi.silva776@retaillake.lk,0781848989,Kurunegala,Silver,2022-12-23
+CUST0777,Ruwan,Silva,ruwan.silva777@retaillake.lk,0741931112,Kandy,Bronze,2023-10-05
+CUST0778,Shalini,Jayasinghe,shalini.jayasinghe778@retaillake.lk,0759616555,Galle,Silver,2025-12-02
+CUST0779,Ayesha,Wijesinghe,ayesha.wijesinghe779@retaillake.lk,0729856736,Jaffna,Platinum,2025-03-18
+CUST0780,Chamath,Fernando,chamath.fernando780@retaillake.lk,0713345404,Negombo,Platinum,2022-08-11
+CUST0781,Ruwan,Perera,ruwan.perera781@retaillake.lk,0783302419,Ratnapura,Gold,2023-08-10
+CUST0782,Zainab,De Silva,zainab.desilva782@retaillake.lk,0729741209,Nuwara Eliya,Platinum,2023-12-04
+CUST0783,Tharushi,Perera,tharushi.perera783@retaillake.lk,0728713077,Ratnapura,Bronze,2023-01-13
+CUST0784,Madhavi,Abeysekara,madhavi.abeysekara784@retaillake.lk,0739576862,Matara,Gold,2021-06-02
+CUST0785,Madhavi,De Silva,madhavi.desilva785@retaillake.lk,0736192555,Nuwara Eliya,Silver,2023-04-01
+CUST0786,Kamal,Senanayake,kamal.senanayake786@retaillake.lk,0769788371,Kandy,Platinum,2022-08-11
+CUST0787,Madhavi,Karunaratne,madhavi.karunaratne787@retaillake.lk,0778659862,Colombo,Gold,2024-03-23
+CUST0788,Hiruni,Wijesinghe,hiruni.wijesinghe788@retaillake.lk,0761823158,Jaffna,Bronze,2023-06-12
+CUST0789,Chamath,Rathnayake,chamath.rathnayake789@retaillake.lk,0785300576,Kandy,Silver,2024-12-14
+CUST0790,Shalini,Jayasinghe,shalini.jayasinghe790@retaillake.lk,0731983567,Negombo,Platinum,2022-10-20
+CUST0791,Kamal,Silva,kamal.silva791@retaillake.lk,0737888268,Kurunegala,Platinum,2025-06-03
+CUST0792,Zainab,Herath,zainab.herath792@retaillake.lk,0760435319,Kandy,Bronze,2024-11-09
+CUST0793,Hiruni,Silva,hiruni.silva793@retaillake.lk,0784600071,Matara,Silver,2022-03-27
+CUST0794,Dilani,Jayasinghe,dilani.jayasinghe794@retaillake.lk,0784338760,Matara,Bronze,2023-10-10
+CUST0795,Tharushi,Senanayake,tharushi.senanayake795@retaillake.lk,0772203452,Badulla,Bronze,2021-03-09
+CUST0796,Chamath,De Silva,chamath.desilva796@retaillake.lk,0795437748,Matara,Bronze,2023-07-06
+CUST0797,Tharushi,Rajapaksha,tharushi.rajapaksha797@retaillake.lk,0796541691,Badulla,Bronze,2021-05-16
+CUST0798,Kamal,Karunaratne,kamal.karunaratne798@retaillake.lk,0758554539,Nuwara Eliya,Platinum,2025-07-28
+CUST0799,Isuru,De Silva,isuru.desilva799@retaillake.lk,0773893102,Kandy,Gold,2025-12-19
+CUST0800,Amal,Abeysekara,amal.abeysekara800@retaillake.lk,0744834491,Galle,Bronze,2022-06-15
+CUST0801,Ruwan,Wijesinghe,ruwan.wijesinghe801@retaillake.lk,0731918943,Colombo,Gold,2023-07-21
+CUST0802,Nadeesha,Perera,nadeesha.perera802@retaillake.lk,0748903840,Kurunegala,Bronze,2025-04-25
+CUST0803,Kasun,Herath,kasun.herath803@retaillake.lk,0722684736,Nuwara Eliya,Silver,2025-06-28
+CUST0804,Ayesha,Abeysekara,ayesha.abeysekara804@retaillake.lk,0750409241,Kurunegala,Gold,2021-09-19
+CUST0805,Nadeesha,Abeysekara,nadeesha.abeysekara805@retaillake.lk,0729289438,Colombo,Silver,2025-05-12
+CUST0806,Tharushi,Gunawardena,tharushi.gunawardena806@retaillake.lk,0755676049,Galle,Bronze,2022-03-17
+CUST0807,Tharindu,Abeysekara,tharindu.abeysekara807@retaillake.lk,0735288872,Ratnapura,Bronze,2024-08-03
+CUST0808,Saman,Abeysekara,saman.abeysekara808@retaillake.lk,0727613681,Colombo,Platinum,2023-05-23
+CUST0809,Nadeesha,Silva,nadeesha.silva809@retaillake.lk,0769315901,Nuwara Eliya,Gold,2022-12-10
+CUST0810,Amal,Rajapaksha,amal.rajapaksha810@retaillake.lk,0725917805,Badulla,Silver,2022-12-08
+CUST0811,Chamath,Silva,chamath.silva811@retaillake.lk,0738164383,Galle,Bronze,2024-12-25
+CUST0812,Saman,Fernando,saman.fernando812@retaillake.lk,0712524153,Matara,Platinum,2021-04-04
+CUST0813,Nimal,Herath,nimal.herath813@retaillake.lk,0798555359,Ratnapura,Bronze,2024-02-09
+CUST0814,Nimal,Fernando,nimal.fernando814@retaillake.lk,0750486214,Colombo,Bronze,2021-10-07
+CUST0815,Zainab,Bandara,zainab.bandara815@retaillake.lk,0734800996,Jaffna,Bronze,2021-03-28
+CUST0816,Isuru,Karunaratne,isuru.karunaratne816@retaillake.lk,0756685830,Jaffna,Silver,2025-12-20
+CUST0817,Tharindu,Senanayake,tharindu.senanayake817@retaillake.lk,0786535694,Kandy,Bronze,2025-01-17
+CUST0818,Dinesh,Rajapaksha,dinesh.rajapaksha818@retaillake.lk,0735709072,Kurunegala,Silver,2025-01-24
+CUST0819,Saman,Bandara,saman.bandara819@retaillake.lk,0777671943,Matara,Gold,2025-03-15
+CUST0820,Saman,Silva,saman.silva820@retaillake.lk,0757623448,Negombo,Platinum,2022-09-08
+CUST0821,Hiruni,Fernando,hiruni.fernando821@retaillake.lk,0752181984,Kandy,Platinum,2021-09-05
+CUST0822,Tharushi,Herath,tharushi.herath822@retaillake.lk,0758486215,Kurunegala,Bronze,2021-06-16
+CUST0823,Saman,Gunawardena,saman.gunawardena823@retaillake.lk,0748065683,Matara,Gold,2024-04-18
+CUST0824,Hiruni,Jayasinghe,hiruni.jayasinghe824@retaillake.lk,0767440042,Badulla,Bronze,2024-11-12
+CUST0825,Kasun,Perera,kasun.perera825@retaillake.lk,0775987927,Kandy,Platinum,2024-09-22
+CUST0826,Kamal,Fernando,kamal.fernando826@retaillake.lk,0729242468,Negombo,Platinum,2025-02-24
+CUST0827,Kasun,Fernando,kasun.fernando827@retaillake.lk,0758816328,Badulla,Gold,2022-10-28
+CUST0828,Dilani,Fernando,dilani.fernando828@retaillake.lk,0741255233,Negombo,Platinum,2023-12-25
+CUST0829,Zainab,Karunaratne,zainab.karunaratne829@retaillake.lk,0746637787,Negombo,Gold,2024-11-20
+CUST0830,Dilani,Rathnayake,dilani.rathnayake830@retaillake.lk,0778640894,Kurunegala,Silver,2024-02-04
+CUST0831,Isuru,Rathnayake,isuru.rathnayake831@retaillake.lk,0776742957,Badulla,Silver,2021-02-24
+CUST0832,Nimal,Abeysekara,nimal.abeysekara832@retaillake.lk,0719157497,Matara,Bronze,2022-07-20
+CUST0833,Ayesha,Silva,ayesha.silva833@retaillake.lk,0750634767,Nuwara Eliya,Bronze,2021-11-25
+CUST0834,Anjali,Herath,anjali.herath834@retaillake.lk,0776060289,Matara,Silver,2023-11-16
+CUST0835,Tharushi,Senanayake,tharushi.senanayake835@retaillake.lk,0745120118,Ratnapura,Gold,2025-09-01
+CUST0836,Nimal,Gunawardena,nimal.gunawardena836@retaillake.lk,0725989909,Negombo,Platinum,2023-07-15
+CUST0837,Shalini,Perera,shalini.perera837@retaillake.lk,0714410367,Galle,Gold,2022-08-14
+CUST0838,Ruwan,Jayasinghe,ruwan.jayasinghe838@retaillake.lk,0762221499,Matara,Bronze,2025-11-16
+CUST0839,Fathima,De Silva,fathima.desilva839@retaillake.lk,0782396020,Nuwara Eliya,Platinum,2024-09-28
+CUST0840,Kasun,Senanayake,kasun.senanayake840@retaillake.lk,0717480910,Negombo,Gold,2024-10-13
+CUST0841,Madhavi,De Silva,madhavi.desilva841@retaillake.lk,0757347151,Kurunegala,Gold,2021-01-19
+CUST0842,Nimal,Silva,nimal.silva842@retaillake.lk,0759178730,Jaffna,Bronze,2023-07-04
+CUST0843,Hiruni,Wijesinghe,hiruni.wijesinghe843@retaillake.lk,0757964863,Negombo,Gold,2021-11-08
+CUST0844,Tharindu,Bandara,tharindu.bandara844@retaillake.lk,0796984204,Kurunegala,Bronze,2021-05-04
+CUST0845,Ayesha,Silva,ayesha.silva845@retaillake.lk,0712645698,Ratnapura,Gold,2021-08-22
+CUST0846,Hiruni,Karunaratne,hiruni.karunaratne846@retaillake.lk,0779089893,Negombo,Gold,2021-12-16
+CUST0847,Zainab,Perera,zainab.perera847@retaillake.lk,0752481834,Negombo,Platinum,2023-10-04
+CUST0848,Tharushi,Fernando,tharushi.fernando848@retaillake.lk,0737636546,Jaffna,Platinum,2025-11-11
+CUST0849,Kasun,Karunaratne,kasun.karunaratne849@retaillake.lk,0750201014,Jaffna,Platinum,2022-08-21
+CUST0850,Kamal,Abeysekara,kamal.abeysekara850@retaillake.lk,0781918425,Badulla,Gold,2023-01-10
+CUST0851,Zainab,Gunawardena,zainab.gunawardena851@retaillake.lk,0740317902,Nuwara Eliya,Bronze,2025-02-19
+CUST0852,Ayesha,Jayasinghe,ayesha.jayasinghe852@retaillake.lk,0719028796,Nuwara Eliya,Platinum,2024-04-12
+CUST0853,Kamal,De Silva,kamal.desilva853@retaillake.lk,0750513220,Ratnapura,Gold,2024-11-18
+CUST0854,Ayesha,Bandara,ayesha.bandara854@retaillake.lk,0765608317,Negombo,Gold,2025-09-15
+CUST0855,Fathima,Silva,fathima.silva855@retaillake.lk,0712496895,Ratnapura,Silver,2025-08-07
+CUST0856,Shalini,Jayasinghe,shalini.jayasinghe856@retaillake.lk,0795621026,Ratnapura,Platinum,2025-12-21
+CUST0857,Nimal,Senanayake,nimal.senanayake857@retaillake.lk,0736930522,Jaffna,Platinum,2022-04-05
+CUST0858,Chamath,Abeysekara,chamath.abeysekara858@retaillake.lk,0768436893,Negombo,Gold,2021-11-07
+CUST0859,Hiruni,Jayasinghe,hiruni.jayasinghe859@retaillake.lk,0748526473,Galle,Gold,2025-04-13
+CUST0860,Tharindu,Fernando,tharindu.fernando860@retaillake.lk,0730127592,Badulla,Bronze,2022-05-15
+CUST0861,Tharushi,Senanayake,tharushi.senanayake861@retaillake.lk,0768536768,Negombo,Bronze,2022-03-09
+CUST0862,Ruwan,Perera,ruwan.perera862@retaillake.lk,0744681437,Kurunegala,Silver,2021-12-16
+CUST0863,Amal,Perera,amal.perera863@retaillake.lk,0721264832,Jaffna,Gold,2021-07-12
+CUST0864,Kamal,Gunawardena,kamal.gunawardena864@retaillake.lk,0728865664,Badulla,Bronze,2025-12-17
+CUST0865,Saman,Senanayake,saman.senanayake865@retaillake.lk,0799149714,Nuwara Eliya,Gold,2024-02-08
+CUST0866,Madhavi,Fernando,madhavi.fernando866@retaillake.lk,0752065222,Jaffna,Platinum,2022-07-07
+CUST0867,Ruwan,Fernando,ruwan.fernando867@retaillake.lk,0733508806,Badulla,Gold,2024-07-09
+CUST0868,Zainab,Perera,zainab.perera868@retaillake.lk,0775814814,Ratnapura,Gold,2021-06-18
+CUST0869,Hiruni,Rathnayake,hiruni.rathnayake869@retaillake.lk,0743064092,Kurunegala,Silver,2023-08-23
+CUST0870,Nadeesha,Abeysekara,nadeesha.abeysekara870@retaillake.lk,0751362065,Colombo,Bronze,2021-12-26
+CUST0871,Tharindu,Jayasinghe,tharindu.jayasinghe871@retaillake.lk,0784185883,Negombo,Gold,2023-11-04
+CUST0872,Fathima,Abeysekara,fathima.abeysekara872@retaillake.lk,0741726640,Matara,Platinum,2021-07-09
+CUST0873,Chamath,Fernando,chamath.fernando873@retaillake.lk,0741602967,Kurunegala,Silver,2022-08-21
+CUST0874,Ayesha,Herath,ayesha.herath874@retaillake.lk,0796493863,Negombo,Bronze,2023-02-27
+CUST0875,Tharushi,Rathnayake,tharushi.rathnayake875@retaillake.lk,0765426729,Jaffna,Platinum,2021-03-23
+CUST0876,Isuru,Senanayake,isuru.senanayake876@retaillake.lk,0718907659,Jaffna,Platinum,2025-12-27
+CUST0877,Fathima,Rajapaksha,fathima.rajapaksha877@retaillake.lk,0753858104,Matara,Bronze,2021-11-21
+CUST0878,Kasun,De Silva,kasun.desilva878@retaillake.lk,0769512807,Galle,Bronze,2024-04-21
+CUST0879,Chamath,Wijesinghe,chamath.wijesinghe879@retaillake.lk,0787283822,Kandy,Bronze,2022-04-17
+CUST0880,Ruwan,Abeysekara,ruwan.abeysekara880@retaillake.lk,0789727494,Negombo,Gold,2024-08-28
+CUST0881,Ruwan,Jayasinghe,ruwan.jayasinghe881@retaillake.lk,0733283960,Nuwara Eliya,Gold,2023-04-03
+CUST0882,Hiruni,Wijesinghe,hiruni.wijesinghe882@retaillake.lk,0734412762,Negombo,Platinum,2025-04-01
+CUST0883,Amal,Senanayake,amal.senanayake883@retaillake.lk,0796853189,Nuwara Eliya,Silver,2021-08-07
+CUST0884,Isuru,Rajapaksha,isuru.rajapaksha884@retaillake.lk,0732650041,Colombo,Platinum,2025-07-20
+CUST0885,Isuru,Silva,isuru.silva885@retaillake.lk,0721953600,Jaffna,Silver,2025-02-01
+CUST0886,Anjali,Gunawardena,anjali.gunawardena886@retaillake.lk,0770895638,Matara,Bronze,2022-12-07
+CUST0887,Dinesh,Abeysekara,dinesh.abeysekara887@retaillake.lk,0745729141,Kurunegala,Platinum,2024-03-14
+CUST0888,Dinesh,Karunaratne,dinesh.karunaratne888@retaillake.lk,0738932858,Kurunegala,Silver,2024-03-14
+CUST0889,Ruwan,Perera,ruwan.perera889@retaillake.lk,0748949039,Kurunegala,Silver,2025-08-08
+CUST0890,Nadeesha,Karunaratne,nadeesha.karunaratne890@retaillake.lk,0796870487,Matara,Bronze,2021-08-05
+CUST0891,Ayesha,Rajapaksha,ayesha.rajapaksha891@retaillake.lk,0763358890,Badulla,Platinum,2024-12-20
+CUST0892,Isuru,Fernando,isuru.fernando892@retaillake.lk,0722788187,Ratnapura,Bronze,2021-06-08
+CUST0893,Tharushi,Wijesinghe,tharushi.wijesinghe893@retaillake.lk,0791386202,Nuwara Eliya,Bronze,2021-05-17
+CUST0894,Madhavi,Gunawardena,madhavi.gunawardena894@retaillake.lk,0750601849,Negombo,Gold,2022-09-02
+CUST0895,Zainab,Silva,zainab.silva895@retaillake.lk,0744935754,Galle,Platinum,2023-08-05
+CUST0896,Kamal,Wijesinghe,kamal.wijesinghe896@retaillake.lk,0781192277,Negombo,Silver,2023-02-11
+CUST0897,Nimal,Silva,nimal.silva897@retaillake.lk,0777002914,Kurunegala,Gold,2024-05-09
+CUST0898,Madhavi,Abeysekara,madhavi.abeysekara898@retaillake.lk,0745400991,Ratnapura,Gold,2024-03-11
+CUST0899,Tharushi,Herath,tharushi.herath899@retaillake.lk,0730302410,Ratnapura,Platinum,2021-04-05
+CUST0900,Nimal,Bandara,nimal.bandara900@retaillake.lk,0734580812,Colombo,Platinum,2023-03-23
+CUST0901,Shalini,Gunawardena,shalini.gunawardena901@retaillake.lk,0725572483,Matara,Bronze,2024-06-23
+CUST0902,Fathima,Rathnayake,fathima.rathnayake902@retaillake.lk,0771439467,Matara,Bronze,2022-02-12
+CUST0903,Kamal,Bandara,kamal.bandara903@retaillake.lk,0748133464,Galle,Silver,2025-05-19
+CUST0904,Zainab,Bandara,zainab.bandara904@retaillake.lk,0788322404,Colombo,Silver,2024-02-08
+CUST0905,Tharushi,De Silva,tharushi.desilva905@retaillake.lk,0722657432,Jaffna,Bronze,2023-11-22
+CUST0906,Saman,Gunawardena,saman.gunawardena906@retaillake.lk,0760138147,Nuwara Eliya,Bronze,2023-03-01
+CUST0907,Kamal,Rathnayake,kamal.rathnayake907@retaillake.lk,0798521869,Matara,Platinum,2023-10-22
+CUST0908,Amal,Wijesinghe,amal.wijesinghe908@retaillake.lk,0715885044,Nuwara Eliya,Platinum,2023-12-24
+CUST0909,Zainab,Silva,zainab.silva909@retaillake.lk,0738369179,Colombo,Gold,2023-01-24
+CUST0910,Kamal,Senanayake,kamal.senanayake910@retaillake.lk,0790838200,Negombo,Bronze,2024-05-06
+CUST0911,Tharindu,Herath,tharindu.herath911@retaillake.lk,0763541768,Kandy,Bronze,2022-03-13
+CUST0912,Dilani,Jayasinghe,dilani.jayasinghe912@retaillake.lk,0796861418,Galle,Bronze,2023-08-26
+CUST0913,Hiruni,Rajapaksha,hiruni.rajapaksha913@retaillake.lk,0751621092,Nuwara Eliya,Silver,2023-11-04
+CUST0914,Nadeesha,Senanayake,nadeesha.senanayake914@retaillake.lk,0736826266,Matara,Platinum,2024-08-09
+CUST0915,Zainab,Karunaratne,zainab.karunaratne915@retaillake.lk,0766783572,Kandy,Platinum,2023-10-06
+CUST0916,Hiruni,De Silva,hiruni.desilva916@retaillake.lk,0767179047,Kandy,Bronze,2025-06-15
+CUST0917,Tharindu,De Silva,tharindu.desilva917@retaillake.lk,0730813102,Matara,Bronze,2023-08-14
+CUST0918,Kamal,Herath,kamal.herath918@retaillake.lk,0774103912,Kurunegala,Silver,2022-11-10
+CUST0919,Tharindu,Senanayake,tharindu.senanayake919@retaillake.lk,0767409191,Kurunegala,Bronze,2025-02-02
+CUST0920,Anjali,Fernando,anjali.fernando920@retaillake.lk,0778538495,Negombo,Platinum,2021-08-22
+CUST0921,Zainab,Abeysekara,zainab.abeysekara921@retaillake.lk,0744008132,Jaffna,Gold,2025-02-25
+CUST0922,Anjali,Perera,anjali.perera922@retaillake.lk,0725292162,Matara,Silver,2022-07-02
+CUST0923,Kamal,Gunawardena,kamal.gunawardena923@retaillake.lk,0749949573,Jaffna,Platinum,2024-10-26
+CUST0924,Isuru,Wijesinghe,isuru.wijesinghe924@retaillake.lk,0735124449,Badulla,Silver,2021-12-20
+CUST0925,Isuru,Abeysekara,isuru.abeysekara925@retaillake.lk,0724271459,Negombo,Bronze,2021-07-04
+CUST0926,Amal,Silva,amal.silva926@retaillake.lk,0798020116,Matara,Platinum,2024-11-24
+CUST0927,Madhavi,Rajapaksha,madhavi.rajapaksha927@retaillake.lk,0775326787,Kurunegala,Gold,2024-05-03
+CUST0928,Ruwan,Silva,ruwan.silva928@retaillake.lk,0711862394,Badulla,Bronze,2021-12-07
+CUST0929,Amal,Bandara,amal.bandara929@retaillake.lk,0774574456,Galle,Silver,2024-11-28
+CUST0930,Fathima,Bandara,fathima.bandara930@retaillake.lk,0721555280,Kurunegala,Platinum,2022-08-14
+CUST0931,Amal,Fernando,amal.fernando931@retaillake.lk,0732294301,Galle,Platinum,2024-08-01
+CUST0932,Shalini,Karunaratne,shalini.karunaratne932@retaillake.lk,0742565200,Badulla,Gold,2025-07-02
+CUST0933,Ayesha,Perera,ayesha.perera933@retaillake.lk,0723779264,Negombo,Platinum,2024-12-19
+CUST0934,Madhavi,Rajapaksha,madhavi.rajapaksha934@retaillake.lk,0784397493,Kurunegala,Bronze,2024-07-16
+CUST0935,Anjali,Karunaratne,anjali.karunaratne935@retaillake.lk,0792073508,Matara,Silver,2021-09-01
+CUST0936,Hiruni,Karunaratne,hiruni.karunaratne936@retaillake.lk,0752392689,Ratnapura,Bronze,2023-11-14
+CUST0937,Tharushi,Fernando,tharushi.fernando937@retaillake.lk,0776409428,Nuwara Eliya,Gold,2024-12-14
+CUST0938,Amal,Silva,amal.silva938@retaillake.lk,0748656152,Badulla,Platinum,2023-08-08
+CUST0939,Anjali,Bandara,anjali.bandara939@retaillake.lk,0788874216,Jaffna,Platinum,2022-05-24
+CUST0940,Dilani,Gunawardena,dilani.gunawardena940@retaillake.lk,0797577092,Jaffna,Platinum,2022-10-07
+CUST0941,Chamath,Rajapaksha,chamath.rajapaksha941@retaillake.lk,0721568480,Matara,Silver,2022-04-06
+CUST0942,Madhavi,Rathnayake,madhavi.rathnayake942@retaillake.lk,0723543068,Negombo,Platinum,2023-04-07
+CUST0943,Fathima,Perera,fathima.perera943@retaillake.lk,0712433447,Jaffna,Gold,2023-11-06
+CUST0944,Kasun,Abeysekara,kasun.abeysekara944@retaillake.lk,0777575794,Colombo,Bronze,2023-07-04
+CUST0945,Madhavi,Bandara,madhavi.bandara945@retaillake.lk,0726198473,Ratnapura,Silver,2024-05-11
+CUST0946,Nadeesha,Herath,nadeesha.herath946@retaillake.lk,0716264794,Ratnapura,Gold,2022-12-28
+CUST0947,Anjali,Karunaratne,anjali.karunaratne947@retaillake.lk,0799856875,Kandy,Bronze,2024-08-27
+CUST0948,Saman,Fernando,saman.fernando948@retaillake.lk,0791949659,Nuwara Eliya,Bronze,2025-01-17
+CUST0949,Saman,Silva,saman.silva949@retaillake.lk,0794547252,Kandy,Silver,2023-03-24
+CUST0950,Chamath,Rajapaksha,chamath.rajapaksha950@retaillake.lk,0769259530,Ratnapura,Platinum,2021-03-21
+CUST0951,Nadeesha,Wijesinghe,nadeesha.wijesinghe951@retaillake.lk,0728491507,Kandy,Silver,2024-07-25
+CUST0952,Amal,Bandara,amal.bandara952@retaillake.lk,0773574016,Jaffna,Gold,2025-03-03
+CUST0953,Isuru,Wijesinghe,isuru.wijesinghe953@retaillake.lk,0765701512,Jaffna,Silver,2022-09-14
+CUST0954,Tharindu,Silva,tharindu.silva954@retaillake.lk,0767555628,Negombo,Platinum,2024-09-26
+CUST0955,Nadeesha,Perera,nadeesha.perera955@retaillake.lk,0769401906,Galle,Bronze,2025-02-03
+CUST0956,Ayesha,Wijesinghe,ayesha.wijesinghe956@retaillake.lk,0763908666,Galle,Platinum,2021-07-25
+CUST0957,Nimal,De Silva,nimal.desilva957@retaillake.lk,0796096076,Galle,Bronze,2025-05-14
+CUST0958,Dilani,De Silva,dilani.desilva958@retaillake.lk,0784304333,Kurunegala,Gold,2023-01-27
+CUST0959,Isuru,Senanayake,isuru.senanayake959@retaillake.lk,0791926643,Galle,Platinum,2024-11-07
+CUST0960,Fathima,Karunaratne,fathima.karunaratne960@retaillake.lk,0792971716,Matara,Gold,2024-04-10
+CUST0961,Kamal,Perera,kamal.perera961@retaillake.lk,0782133102,Jaffna,Platinum,2022-09-18
+CUST0962,Chamath,Bandara,chamath.bandara962@retaillake.lk,0722458031,Ratnapura,Gold,2025-06-25
+CUST0963,Kasun,Perera,kasun.perera963@retaillake.lk,0713743496,Ratnapura,Gold,2022-05-24
+CUST0964,Hiruni,Senanayake,hiruni.senanayake964@retaillake.lk,0724823261,Colombo,Gold,2023-11-17
+CUST0965,Nadeesha,Fernando,nadeesha.fernando965@retaillake.lk,0716406597,Kandy,Platinum,2023-10-24
+CUST0966,Amal,Rathnayake,amal.rathnayake966@retaillake.lk,0755497164,Badulla,Silver,2023-05-10
+CUST0967,Zainab,De Silva,zainab.desilva967@retaillake.lk,0728786655,Negombo,Silver,2021-06-17
+CUST0968,Zainab,Bandara,zainab.bandara968@retaillake.lk,0758488507,Matara,Bronze,2022-12-14
+CUST0969,Hiruni,Fernando,hiruni.fernando969@retaillake.lk,0722381399,Colombo,Platinum,2022-08-07
+CUST0970,Shalini,Fernando,shalini.fernando970@retaillake.lk,0759565830,Ratnapura,Platinum,2025-09-17
+CUST0971,Dilani,Abeysekara,dilani.abeysekara971@retaillake.lk,0745392370,Nuwara Eliya,Platinum,2024-08-23
+CUST0972,Tharushi,Rajapaksha,tharushi.rajapaksha972@retaillake.lk,0765958370,Galle,Silver,2025-03-16
+CUST0973,Shalini,Silva,shalini.silva973@retaillake.lk,0778878589,Ratnapura,Bronze,2022-08-16
+CUST0974,Nimal,Rajapaksha,nimal.rajapaksha974@retaillake.lk,0731050667,Ratnapura,Gold,2021-10-28
+CUST0975,Hiruni,Fernando,hiruni.fernando975@retaillake.lk,0726222417,Jaffna,Gold,2021-09-05
+CUST0976,Saman,Wijesinghe,saman.wijesinghe976@retaillake.lk,0750926285,Jaffna,Gold,2023-08-01
+CUST0977,Ruwan,Silva,ruwan.silva977@retaillake.lk,0789138026,Negombo,Bronze,2023-05-07
+CUST0978,Kasun,Abeysekara,kasun.abeysekara978@retaillake.lk,0775604774,Colombo,Bronze,2025-06-03
+CUST0979,Nimal,Gunawardena,nimal.gunawardena979@retaillake.lk,0774582407,Nuwara Eliya,Gold,2025-08-11
+CUST0980,Dilani,Rathnayake,dilani.rathnayake980@retaillake.lk,0791296981,Galle,Silver,2025-11-15
+CUST0981,Shalini,De Silva,shalini.desilva981@retaillake.lk,0770273791,Galle,Gold,2021-10-22
+CUST0982,Madhavi,Gunawardena,madhavi.gunawardena982@retaillake.lk,0761973818,Badulla,Platinum,2023-09-02
+CUST0983,Shalini,Rajapaksha,shalini.rajapaksha983@retaillake.lk,0747228655,Kandy,Silver,2021-10-21
+CUST0984,Chamath,Senanayake,chamath.senanayake984@retaillake.lk,0796591866,Kandy,Bronze,2022-10-18
+CUST0985,Zainab,Herath,zainab.herath985@retaillake.lk,0717096679,Nuwara Eliya,Silver,2024-09-01
+CUST0986,Saman,De Silva,saman.desilva986@retaillake.lk,0781384965,Galle,Bronze,2023-04-08
+CUST0987,Zainab,Rathnayake,zainab.rathnayake987@retaillake.lk,0721361254,Ratnapura,Gold,2024-10-02
+CUST0988,Tharushi,Abeysekara,tharushi.abeysekara988@retaillake.lk,0713122340,Jaffna,Platinum,2022-07-01
+CUST0989,Anjali,Wijesinghe,anjali.wijesinghe989@retaillake.lk,0761272646,Kurunegala,Bronze,2021-02-18
+CUST0990,Kasun,Jayasinghe,kasun.jayasinghe990@retaillake.lk,0729331950,Galle,Gold,2021-03-10
+CUST0991,Hiruni,De Silva,hiruni.desilva991@retaillake.lk,0732708438,Colombo,Gold,2022-01-23
+CUST0992,Nimal,Jayasinghe,nimal.jayasinghe992@retaillake.lk,0762336822,Kandy,Gold,2022-07-11
+CUST0993,Isuru,Gunawardena,isuru.gunawardena993@retaillake.lk,0726235817,Colombo,Silver,2022-10-19
+CUST0994,Tharindu,Rathnayake,tharindu.rathnayake994@retaillake.lk,0778265991,Ratnapura,Platinum,2021-05-02
+CUST0995,Ayesha,Rathnayake,ayesha.rathnayake995@retaillake.lk,0784238655,Negombo,Bronze,2024-01-14
+CUST0996,Tharindu,Perera,tharindu.perera996@retaillake.lk,0746126008,Ratnapura,Bronze,2022-09-21
+CUST0997,Ruwan,Jayasinghe,ruwan.jayasinghe997@retaillake.lk,0786268638,Negombo,Platinum,2021-11-17
+CUST0998,Dinesh,Herath,dinesh.herath998@retaillake.lk,0729108179,Jaffna,Silver,2022-09-14
+CUST0999,Fathima,Rathnayake,fathima.rathnayake999@retaillake.lk,0715609238,Colombo,Platinum,2025-05-21
+CUST1000,Kasun,Perera,kasun.perera1000@retaillake.lk,0718076555,Matara,Gold,2025-05-27
+CUST1001,Dilani,Wijesinghe,invalid-email-1001,0794853379,Badulla,Gold,2021-03-24
+CUST1002,Fathima,Karunaratne,invalid-email-1002,0719386546,Kurunegala,Bronze,2024-12-04
+CUST1003,Ruwan,Rajapaksha,invalid-email-1003,0784689357,Kurunegala,Platinum,2022-10-17
+CUST1004,Ayesha,De Silva,invalid-email-1004,0755987725,Kurunegala,Platinum,2023-04-22
+CUST1005,Ayesha,Wijesinghe,invalid-email-1005,0738269460,Matara,Gold,2021-12-05
+CUST1006,Amal,Karunaratne,amal.karunaratne1006@retaillake.lk,0773958633,Colombo,Bronze,2022-07-18
+CUST1007,Tharushi,Herath,tharushi.herath1007@retaillake.lk,0762719526,Ratnapura,Bronze,2021-09-01
+CUST1008,Shalini,De Silva,shalini.desilva1008@retaillake.lk,0726564560,Jaffna,Platinum,2025-06-13
+CUST1009,Kasun,Abeysekara,kasun.abeysekara1009@retaillake.lk,0711131640,Kandy,Platinum,2023-04-15
+CUST1010,Amal,Bandara,amal.bandara1010@retaillake.lk,0712655050,Kurunegala,Gold,2022-02-27
+CUST1011,Madhavi,De Silva,madhavi.desilva1011@retaillake.lk,0750691933,Badulla,Silver,2024-06-02
+CUST1012,Isuru,Rathnayake,isuru.rathnayake1012@retaillake.lk,0791339562,Badulla,Bronze,2022-11-13
+CUST1013,Saman,Abeysekara,saman.abeysekara1013@retaillake.lk,0747224958,Nuwara Eliya,Platinum,2022-09-07
+CUST1014,Zainab,De Silva,zainab.desilva1014@retaillake.lk,0790929605,Nuwara Eliya,Silver,2021-10-05
+CUST1015,Kamal,Silva,kamal.silva1015@retaillake.lk,0744846207,Nuwara Eliya,Silver,2025-12-26
+CUST1016,Isuru,Bandara,isuru.bandara1016@retaillake.lk,0713102778,Ratnapura,Gold,2025-08-01
+CUST1017,Hiruni,De Silva,hiruni.desilva1017@retaillake.lk,0797245556,Colombo,Gold,2024-07-09
+CUST1018,Saman,De Silva,saman.desilva1018@retaillake.lk,0779564413,Matara,Platinum,2023-09-25
+CUST1019,Nimal,Rajapaksha,nimal.rajapaksha1019@retaillake.lk,0740138350,Colombo,Gold,2024-09-15
+CUST1020,Ayesha,Perera,ayesha.perera1020@retaillake.lk,0762594409,Badulla,Gold,2021-10-26
+CUST1021,Amal,Rajapaksha,amal.rajapaksha1021@retaillake.lk,0740283277,Negombo,Bronze,2022-04-06
+CUST1022,Ayesha,Jayasinghe,ayesha.jayasinghe1022@retaillake.lk,0718434795,Kandy,Bronze,2024-07-26
+CUST1023,Amal,Karunaratne,amal.karunaratne1023@retaillake.lk,0794060174,Jaffna,Gold,2022-02-16
+CUST1024,Tharindu,Wijesinghe,tharindu.wijesinghe1024@retaillake.lk,0717305854,Jaffna,Silver,2021-10-20
+CUST1025,Shalini,Herath,shalini.herath1025@retaillake.lk,0722840710,Matara,Bronze,2021-01-02
+CUST1026,Dilani,Wijesinghe,dilani.wijesinghe1026@retaillake.lk,0718727939,Galle,Bronze,2024-01-10
+CUST1027,Madhavi,De Silva,madhavi.desilva1027@retaillake.lk,0767960448,Kandy,Bronze,2021-09-02
+CUST1028,Chamath,Abeysekara,chamath.abeysekara1028@retaillake.lk,0761198088,Negombo,Bronze,2025-07-08
+CUST1029,Madhavi,Herath,madhavi.herath1029@retaillake.lk,0798546660,Nuwara Eliya,Bronze,2024-07-15
+CUST1030,Hiruni,Karunaratne,hiruni.karunaratne1030@retaillake.lk,0793111718,Kandy,Gold,2021-08-17
+CUST1031,Ayesha,Karunaratne,ayesha.karunaratne1031@retaillake.lk,0735834405,Kandy,Bronze,2021-10-23
+CUST1032,Kamal,Karunaratne,kamal.karunaratne1032@retaillake.lk,0735986503,Nuwara Eliya,Silver,2025-05-12
+CUST1033,Hiruni,Rathnayake,hiruni.rathnayake1033@retaillake.lk,0793329195,Matara,Silver,2022-03-26
+CUST1034,Nimal,Perera,nimal.perera1034@retaillake.lk,0727137020,Kurunegala,Platinum,2025-11-25
+CUST1035,Nadeesha,Jayasinghe,nadeesha.jayasinghe1035@retaillake.lk,0788338313,Ratnapura,Silver,2022-08-10
+CUST1036,Madhavi,Wijesinghe,madhavi.wijesinghe1036@retaillake.lk,0749065941,Jaffna,Bronze,2025-10-22
+CUST1037,Ruwan,Perera,ruwan.perera1037@retaillake.lk,0741861591,Ratnapura,Bronze,2024-06-07
+CUST1038,Dinesh,De Silva,dinesh.desilva1038@retaillake.lk,0737012825,Kandy,Gold,2022-11-16
+CUST1039,Shalini,Karunaratne,shalini.karunaratne1039@retaillake.lk,0754445587,Nuwara Eliya,Gold,2025-05-14
+CUST1040,Ayesha,Silva,ayesha.silva1040@retaillake.lk,0724072446,Matara,Bronze,2024-04-01
+CUST1041,Tharindu,Rajapaksha,tharindu.rajapaksha1041@retaillake.lk,0740906854,Matara,Silver,2022-08-24
+CUST1042,Ayesha,Herath,ayesha.herath1042@retaillake.lk,0760454028,Badulla,Platinum,2022-01-12
+CUST1043,Amal,Fernando,amal.fernando1043@retaillake.lk,0758034735,Colombo,Bronze,2022-05-15
+CUST1044,Dinesh,De Silva,dinesh.desilva1044@retaillake.lk,0788609496,Jaffna,Bronze,2021-04-07
+CUST1045,Chamath,Silva,chamath.silva1045@retaillake.lk,0739386305,Kurunegala,Silver,2023-09-08
+CUST1046,Kasun,Bandara,kasun.bandara1046@retaillake.lk,0712884611,Galle,Gold,2021-01-27
+CUST1047,Ruwan,Gunawardena,ruwan.gunawardena1047@retaillake.lk,0797895055,Kandy,Gold,2022-05-15
+CUST1048,Tharindu,Wijesinghe,tharindu.wijesinghe1048@retaillake.lk,0759976005,Galle,Platinum,2021-02-05
+CUST1049,Ruwan,Herath,ruwan.herath1049@retaillake.lk,0735453201,Badulla,Platinum,2023-06-20
+CUST1050,Hiruni,De Silva,hiruni.desilva1050@retaillake.lk,0742822896,Colombo,Silver,2025-05-26
