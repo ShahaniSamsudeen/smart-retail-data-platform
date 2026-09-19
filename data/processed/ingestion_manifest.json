@@ -1,0 +1,57 @@
+{
+  "platform": "RetailLake",
+  "bucket": "retaillake-raw",
+  "ingestion_runtime": "2026-09-19T06:14:14.943539",
+  "ingestion_date": "2026-09-19",
+  "sources": [
+    {
+      "source": "stores",
+      "file": "stores.csv",
+      "object_key": "stores/2026/09/19/stores.csv",
+      "row_count": 6,
+      "status": "SKIPPED"
+    },
+    {
+      "source": "products",
+      "file": "products.csv",
+      "object_key": "products/2026/09/19/products.csv",
+      "row_count": 336,
+      "status": "SKIPPED"
+    },
+    {
+      "source": "crm",
+      "file": "customers.csv",
+      "object_key": "crm/2026/09/19/customers.csv",
+      "row_count": 1050,
+      "status": "SKIPPED"
+    },
+    {
+      "source": "pos",
+      "file": "pos_sales.csv",
+      "object_key": "pos/2026/09/19/pos_sales.csv",
+      "row_count": 5500,
+      "status": "SKIPPED"
+    },
+    {
+      "source": "ecommerce",
+      "file": "ecommerce_orders.json",
+      "object_key": "ecommerce/2026/09/19/ecommerce_orders.json",
+      "row_count": 3500,
+      "status": "SKIPPED"
+    },
+    {
+      "source": "inventory",
+      "file": "inventory.csv",
+      "object_key": "inventory/2026/09/19/inventory.csv",
+      "row_count": 1000,
+      "status": "SKIPPED"
+    },
+    {
+      "source": "suppliers",
+      "file": "supplier_deliveries.json",
+      "object_key": "suppliers/2026/09/19/supplier_deliveries.json",
+      "row_count": 1500,
+      "status": "SKIPPED"
+    }
+  ]
+}
