@@ -1,0 +1,7 @@
+store_id,store_name,city,region
+ST001,RetailLake Colombo,Colombo,Western
+ST002,RetailLake Kandy,Kandy,Central
+ST003,RetailLake Galle,Galle,Southern
+ST004,RetailLake Badulla,Badulla,Uva
+ST005,RetailLake Kurunegala,Kurunegala,North Western
+ST006,RetailLake Jaffna,Jaffna,Northern
