@@ -1,0 +1,123 @@
+services:
+
+  # ==========================================================
+  # MINIO
+  # ==========================================================
+
+  minio:
+    image: quay.io/minio/minio:latest
+    container_name: retaillake-minio
+
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+
+    environment:
+      MINIO_ROOT_USER: retaillake_admin
+      MINIO_ROOT_PASSWORD: retaillake_password
+
+    volumes:
+      - D:/Docker/MinIO:/data
+
+    command: server /data --console-address ":9001"
+
+    restart: unless-stopped
+
+
+  # ==========================================================
+  # POSTGRESQL
+  # ==========================================================
+
+  postgres:
+    image: postgres:16
+    container_name: retaillake-postgres
+
+    ports:
+      - "5432:5432"
+
+    environment:
+      POSTGRES_DB: retaillake
+      POSTGRES_USER: retaillake_user
+      POSTGRES_PASSWORD: change_me
+
+    volumes:
+      - D:/Docker/PostgreSQL:/var/lib/postgresql/data
+
+    restart: unless-stopped
+
+
+  # ==========================================================
+  # AIRFLOW
+  # ==========================================================
+
+  airflow:
+    build:
+      context: ./airflow
+      dockerfile: Dockerfile
+
+    container_name: retaillake-airflow
+
+    ports:
+      - "8080:8080"
+
+    environment:
+
+      # ------------------------------------------------------
+      # Airflow configuration
+      # ------------------------------------------------------
+
+      AIRFLOW__CORE__LOAD_EXAMPLES: "False"
+
+      # ------------------------------------------------------
+      # RetailLake connection settings
+      #
+      # IMPORTANT:
+      # Inside Docker, localhost means the Airflow container.
+      # Therefore we use the Docker service names:
+      # minio and postgres.
+      # ------------------------------------------------------
+
+      MINIO_ENDPOINT: "http://minio:9000"
+      MINIO_ACCESS_KEY: "retaillake_admin"
+      MINIO_SECRET_KEY: "retaillake_password"
+
+      POSTGRES_HOST: "postgres"
+      POSTGRES_PORT: "5432"
+      POSTGRES_DB: "retaillake"
+      POSTGRES_USER: "retaillake_user"
+      POSTGRES_PASSWORD: "change_me"
+
+      API_BASE_URL: "https://dummyjson.com"
+
+    volumes:
+
+      # Airflow DAGs
+      - ../dags:/opt/airflow/dags
+
+      # Our RetailLake scripts
+      - ../scripts:/opt/airflow/scripts
+
+      # Source code
+      - ../src:/opt/airflow/src
+
+      # Tests
+      - ../tests:/opt/airflow/tests
+
+      # dbt project
+      - ../dbt_smart_retail:/opt/airflow/dbt_smart_retail
+
+      - ../data:/opt/airflow/data
+
+      # Project environment file
+      - ../.env:/opt/airflow/.env
+
+      # Airflow persistent data
+      
+
+    command:
+      - bash
+      - -c
+      - |
+        airflow standalone
+
+    restart: unless-stopped
