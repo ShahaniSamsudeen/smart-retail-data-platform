@@ -1,0 +1,97 @@
+dataset,quarantine_file,error_reason,record_count
+15,quarantine/crm/2026/09/15/customers_quarantine.parquet,Invalid email,5
+16,quarantine/crm/2026/09/16/customers_quarantine.parquet,Invalid email,5
+18,quarantine/crm/2026/09/18/customers_quarantine.parquet,Invalid email,5
+19,quarantine/crm/2026/09/19/customers_quarantine.parquet,Invalid email,5
+15,quarantine/ecommerce/2026/09/15/ecommerce_orders_quarantine.parquet,Duplicate order_id,2
+15,quarantine/ecommerce/2026/09/15/ecommerce_orders_quarantine.parquet,Missing customer_id,1
+15,quarantine/ecommerce/2026/09/15/ecommerce_orders_quarantine.parquet,Invalid quantity,1
+15,quarantine/ecommerce/2026/09/15/ecommerce_orders_quarantine.parquet,Invalid unit_price,1
+15,quarantine/ecommerce/2026/09/15/ecommerce_orders_quarantine.parquet,Invalid or future order_date,1
+15,quarantine/ecommerce/2026/09/15/ecommerce_orders_quarantine.parquet,Unknown product_id,1
+15,quarantine/ecommerce/2026/09/15/ecommerce_orders_quarantine.parquet,Unknown customer_id,1
+16,quarantine/ecommerce/2026/09/16/ecommerce_orders_quarantine.parquet,Duplicate order_id,2
+16,quarantine/ecommerce/2026/09/16/ecommerce_orders_quarantine.parquet,Missing customer_id,1
+16,quarantine/ecommerce/2026/09/16/ecommerce_orders_quarantine.parquet,Invalid quantity,1
+16,quarantine/ecommerce/2026/09/16/ecommerce_orders_quarantine.parquet,Invalid unit_price,1
+16,quarantine/ecommerce/2026/09/16/ecommerce_orders_quarantine.parquet,Invalid or future order_date,1
+16,quarantine/ecommerce/2026/09/16/ecommerce_orders_quarantine.parquet,Unknown product_id,1
+16,quarantine/ecommerce/2026/09/16/ecommerce_orders_quarantine.parquet,Unknown customer_id,1
+18,quarantine/ecommerce/2026/09/18/ecommerce_orders_quarantine.parquet,Duplicate order_id,2
+18,quarantine/ecommerce/2026/09/18/ecommerce_orders_quarantine.parquet,Missing customer_id,1
+18,quarantine/ecommerce/2026/09/18/ecommerce_orders_quarantine.parquet,Invalid quantity,1
+18,quarantine/ecommerce/2026/09/18/ecommerce_orders_quarantine.parquet,Invalid unit_price,1
+18,quarantine/ecommerce/2026/09/18/ecommerce_orders_quarantine.parquet,Invalid or future order_date,1
+18,quarantine/ecommerce/2026/09/18/ecommerce_orders_quarantine.parquet,Unknown product_id,1
+18,quarantine/ecommerce/2026/09/18/ecommerce_orders_quarantine.parquet,Unknown customer_id,1
+19,quarantine/ecommerce/2026/09/19/ecommerce_orders_quarantine.parquet,Duplicate order_id,2
+19,quarantine/ecommerce/2026/09/19/ecommerce_orders_quarantine.parquet,Missing customer_id,1
+19,quarantine/ecommerce/2026/09/19/ecommerce_orders_quarantine.parquet,Invalid quantity,1
+19,quarantine/ecommerce/2026/09/19/ecommerce_orders_quarantine.parquet,Invalid unit_price,1
+19,quarantine/ecommerce/2026/09/19/ecommerce_orders_quarantine.parquet,Invalid or future order_date,1
+19,quarantine/ecommerce/2026/09/19/ecommerce_orders_quarantine.parquet,Unknown product_id,1
+19,quarantine/ecommerce/2026/09/19/ecommerce_orders_quarantine.parquet,Unknown customer_id,1
+15,quarantine/inventory/2026/09/15/inventory_quarantine.parquet,Invalid stock_quantity,1
+15,quarantine/inventory/2026/09/15/inventory_quarantine.parquet,Unknown product_id,1
+15,quarantine/inventory/2026/09/15/inventory_quarantine.parquet,Unknown store_id,1
+15,quarantine/inventory/2026/09/15/inventory_quarantine.parquet,Future snapshot_date,1
+16,quarantine/inventory/2026/09/16/inventory_quarantine.parquet,Invalid stock_quantity,1
+16,quarantine/inventory/2026/09/16/inventory_quarantine.parquet,Unknown product_id,1
+16,quarantine/inventory/2026/09/16/inventory_quarantine.parquet,Unknown store_id,1
+16,quarantine/inventory/2026/09/16/inventory_quarantine.parquet,Future snapshot_date,1
+18,quarantine/inventory/2026/09/18/inventory_quarantine.parquet,Invalid stock_quantity,1
+18,quarantine/inventory/2026/09/18/inventory_quarantine.parquet,Unknown product_id,1
+18,quarantine/inventory/2026/09/18/inventory_quarantine.parquet,Unknown store_id,1
+18,quarantine/inventory/2026/09/18/inventory_quarantine.parquet,Future snapshot_date,1
+19,quarantine/inventory/2026/09/19/inventory_quarantine.parquet,Invalid stock_quantity,1
+19,quarantine/inventory/2026/09/19/inventory_quarantine.parquet,Unknown product_id,1
+19,quarantine/inventory/2026/09/19/inventory_quarantine.parquet,Unknown store_id,1
+19,quarantine/inventory/2026/09/19/inventory_quarantine.parquet,Future snapshot_date,1
+15,quarantine/pos/2026/09/15/pos_sales_quarantine.parquet,Duplicate transaction_id,2
+15,quarantine/pos/2026/09/15/pos_sales_quarantine.parquet,Missing customer_id,1
+15,quarantine/pos/2026/09/15/pos_sales_quarantine.parquet,Invalid quantity,1
+15,quarantine/pos/2026/09/15/pos_sales_quarantine.parquet,Invalid unit_price,1
+15,quarantine/pos/2026/09/15/pos_sales_quarantine.parquet,Invalid or future transaction_date,1
+15,quarantine/pos/2026/09/15/pos_sales_quarantine.parquet,Unknown product_id,1
+16,quarantine/pos/2026/09/16/pos_sales_quarantine.parquet,Duplicate transaction_id,2
+16,quarantine/pos/2026/09/16/pos_sales_quarantine.parquet,Missing customer_id,1
+16,quarantine/pos/2026/09/16/pos_sales_quarantine.parquet,Invalid quantity,1
+16,quarantine/pos/2026/09/16/pos_sales_quarantine.parquet,Invalid unit_price,1
+16,quarantine/pos/2026/09/16/pos_sales_quarantine.parquet,Invalid or future transaction_date,1
+16,quarantine/pos/2026/09/16/pos_sales_quarantine.parquet,Unknown product_id,1
+18,quarantine/pos/2026/09/18/pos_sales_quarantine.parquet,Duplicate transaction_id,2
+18,quarantine/pos/2026/09/18/pos_sales_quarantine.parquet,Missing customer_id,1
+18,quarantine/pos/2026/09/18/pos_sales_quarantine.parquet,Invalid quantity,1
+18,quarantine/pos/2026/09/18/pos_sales_quarantine.parquet,Invalid unit_price,1
+18,quarantine/pos/2026/09/18/pos_sales_quarantine.parquet,Invalid or future transaction_date,1
+18,quarantine/pos/2026/09/18/pos_sales_quarantine.parquet,Unknown product_id,1
+19,quarantine/pos/2026/09/19/pos_sales_quarantine.parquet,Duplicate transaction_id,2
+19,quarantine/pos/2026/09/19/pos_sales_quarantine.parquet,Missing customer_id,1
+19,quarantine/pos/2026/09/19/pos_sales_quarantine.parquet,Invalid quantity,1
+19,quarantine/pos/2026/09/19/pos_sales_quarantine.parquet,Invalid unit_price,1
+19,quarantine/pos/2026/09/19/pos_sales_quarantine.parquet,Invalid or future transaction_date,1
+19,quarantine/pos/2026/09/19/pos_sales_quarantine.parquet,Unknown product_id,1
+15,quarantine/suppliers/2026/09/15/supplier_deliveries_quarantine.parquet,Duplicate delivery_id,2
+15,quarantine/suppliers/2026/09/15/supplier_deliveries_quarantine.parquet,Invalid quantity,1
+15,quarantine/suppliers/2026/09/15/supplier_deliveries_quarantine.parquet,Unknown supplier_id,1
+15,quarantine/suppliers/2026/09/15/supplier_deliveries_quarantine.parquet,Unknown product_id,1
+15,quarantine/suppliers/2026/09/15/supplier_deliveries_quarantine.parquet,Delivery date after expected date,1
+15,quarantine/suppliers/2026/09/15/supplier_deliveries_quarantine.parquet,Future delivery_date,1
+16,quarantine/suppliers/2026/09/16/supplier_deliveries_quarantine.parquet,Duplicate delivery_id,2
+16,quarantine/suppliers/2026/09/16/supplier_deliveries_quarantine.parquet,Invalid quantity,1
+16,quarantine/suppliers/2026/09/16/supplier_deliveries_quarantine.parquet,Unknown supplier_id,1
+16,quarantine/suppliers/2026/09/16/supplier_deliveries_quarantine.parquet,Unknown product_id,1
+16,quarantine/suppliers/2026/09/16/supplier_deliveries_quarantine.parquet,Delivery date after expected date,1
+16,quarantine/suppliers/2026/09/16/supplier_deliveries_quarantine.parquet,Future delivery_date,1
+18,quarantine/suppliers/2026/09/18/supplier_deliveries_quarantine.parquet,Duplicate delivery_id,2
+18,quarantine/suppliers/2026/09/18/supplier_deliveries_quarantine.parquet,Invalid quantity,1
+18,quarantine/suppliers/2026/09/18/supplier_deliveries_quarantine.parquet,Unknown supplier_id,1
+18,quarantine/suppliers/2026/09/18/supplier_deliveries_quarantine.parquet,Unknown product_id,1
+18,quarantine/suppliers/2026/09/18/supplier_deliveries_quarantine.parquet,Delivery date after expected date,1
+18,quarantine/suppliers/2026/09/18/supplier_deliveries_quarantine.parquet,Future delivery_date,1
+19,quarantine/suppliers/2026/09/19/supplier_deliveries_quarantine.parquet,Duplicate delivery_id,2
+19,quarantine/suppliers/2026/09/19/supplier_deliveries_quarantine.parquet,Invalid quantity,1
+19,quarantine/suppliers/2026/09/19/supplier_deliveries_quarantine.parquet,Unknown supplier_id,1
+19,quarantine/suppliers/2026/09/19/supplier_deliveries_quarantine.parquet,Unknown product_id,1
+19,quarantine/suppliers/2026/09/19/supplier_deliveries_quarantine.parquet,Delivery date after expected date,1
+19,quarantine/suppliers/2026/09/19/supplier_deliveries_quarantine.parquet,Future delivery_date,1
