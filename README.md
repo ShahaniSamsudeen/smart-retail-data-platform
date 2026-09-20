@@ -593,7 +593,7 @@ The following evidence should be captured for the final project demonstration an
 - The dashboard depends on the availability of local services.
 - The platform is not currently deployed to a cloud environment.
 - Additional production monitoring and alerting can be added in the future.
-- API responses and source data may change over time.
+- API respons and source data may change over time.
 
 ## Repository
 
