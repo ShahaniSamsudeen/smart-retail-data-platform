@@ -1,0 +1,50 @@
+version: 2
+
+models:
+  - name: silver_sales_transaction
+    description: "Cleaned and standardized sales transaction data for the Silver layer."
+
+    columns:
+      - name: sales_key
+        description: "Unique identifier for each sales transaction."
+        tests:
+          - not_null
+          - unique
+
+      - name: transaction_id
+        description: "Business transaction identifier."
+        tests:
+          - not_null
+
+      - name: date_key
+        description: "Foreign key referencing the date dimension."
+        tests:
+          - not_null
+
+      - name: product_key
+        description: "Foreign key referencing the product dimension."
+        tests:
+          - not_null
+
+      - name: customer_key
+        description: "Foreign key referencing the customer dimension."
+        tests:
+          - not_null
+
+      - name: store_key
+        description: "Physical store identifier. NULL values are permitted for e-commerce transactions."
+
+      - name: quantity
+        description: "Quantity of products sold."
+
+      - name: unit_price
+        description: "Unit selling price."
+
+      - name: net_sales
+        description: "Total net sales amount."
+
+      - name: payment_method
+        description: "Normalized payment method."
+
+      - name: sales_channel
+        description: "Normalized sales channel."
