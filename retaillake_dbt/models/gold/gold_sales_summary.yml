@@ -1,0 +1,41 @@
+version: 2
+
+models:
+  - name: gold_sales_summary
+    description: "Aggregated sales summary for analytical reporting and dashboards."
+
+    columns:
+      - name: date_key
+        description: "Reference key identifying the sales date."
+        tests:
+          - not_null
+
+      - name: product_key
+        description: "Reference key identifying the product."
+        tests:
+          - not_null
+
+      - name: store_key
+        description: "Reference key identifying the store. May be null for e-commerce transactions."
+
+      - name: sales_channel
+        description: "Sales channel, such as POS or e-commerce."
+        tests:
+          - not_null
+
+      - name: payment_method
+        description: "Payment method used for the transaction."
+        tests:
+          - not_null
+
+      - name: total_transactions
+        description: "Total number of transactions in each grouped record."
+
+      - name: total_quantity_sold
+        description: "Total quantity of products sold."
+
+      - name: total_sales_revenue
+        description: "Total sales revenue generated."
+
+      - name: average_unit_price
+        description: "Average unit price for the grouped sales records."
