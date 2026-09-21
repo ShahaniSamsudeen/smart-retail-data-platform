@@ -1,0 +1,30 @@
+version: 2
+
+models:
+  - name: gold_inventory_summary
+    description: "Aggregated inventory summary for analytical reporting and dashboards."
+
+    columns:
+      - name: date_key
+        description: "Reference key identifying the inventory date."
+        tests:
+          - not_null
+
+      - name: product_key
+        description: "Reference key identifying the product."
+        tests:
+          - not_null
+
+      - name: store_key
+        description: "Reference key identifying the store."
+        tests:
+          - not_null
+
+      - name: inventory_record_count
+        description: "Number of inventory records in each grouped record."
+
+      - name: total_stock_quantity
+        description: "Total stock quantity for each date, product, and store combination."
+
+      - name: average_stock_quantity
+        description: "Average stock quantity for each date, product, and store combination."
