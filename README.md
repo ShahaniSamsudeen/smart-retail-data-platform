@@ -44,7 +44,15 @@ Mock Data Sources and External APIs
          v
  Apache Superset Dashboard
 ```
+## Project Documentation
 
+The following documentation files are included in the `docs` folder:
+
+- [RetailLake Architecture Diagram](docs/RetailLake_Architecture_Diagram.png)
+- [RetailLake Entity Relationship Diagram](docs/RetailLake_ERD.png)
+- [RetailLake Data Dictionary](docs/RetailLake_Data_Dictionary.xlsx)
+
+These documents describe the overall system architecture, database relationships, and Gold-layer data structures.
 ## Data Sources
 
 The platform uses the following data sources:
@@ -243,10 +251,14 @@ smart-retail-data-platform/
 |   |-- test_data_quality.py
 |   |-- test_data_quality_rules.py
 |   `-- test_silver_outputs.py
-|
+|-- docs/
+|   |-- RetailLake_Architecture_Diagram.png
+|   |-- RetailLake_ERD.png
+|   `-- RetailLake_Data_Dictionary.xlsx
 |-- .env.example
 |-- README.md
 `-- requirements.txt
+
 ```
 
 ## Prerequisites
@@ -562,7 +574,7 @@ The project uses Pytest for automated validation.
 Run the tests from the project root:
 
 ```powershell
-pytest -q
+pytest -q tests
 ```
 
 The test suite checks the project structure, data quality rules, source data, and Silver-layer outputs.
@@ -570,6 +582,21 @@ The test suite checks the project structure, data quality rules, source data, an
 The latest completed test run passed all 13 tests.
 
 GitHub Actions can be used to run automated tests when changes are pushed to the repository, provided the workflow is configured and enabled.
+
+## Final Validation Results
+
+The final validation of the RetailLake platform produced the following results:
+
+- 8,985 sales transactions successfully loaded into the Gold layer.
+- Total sales revenue: LKR 266,449,659.26.
+- 13 automated tests passed successfully using Pytest.
+- No duplicate transaction IDs were detected.
+- No invalid foreign-key relationships were detected.
+- POS and e-commerce transactions were successfully combined.
+- Invalid customer references were handled using the `UNKNOWN_CUSTOMER` record.
+- The Airflow pipeline completed successfully.
+- Open Food Facts and DummyJSON API data were processed through the data pipeline.
+- The Apache Superset dashboard successfully displayed sales and business intelligence visualisations.
 
 ## Evidence and Demonstration
 
@@ -593,7 +620,7 @@ The following evidence should be captured for the final project demonstration an
 - The dashboard depends on the availability of local services.
 - The platform is not currently deployed to a cloud environment.
 - Additional production monitoring and alerting can be added in the future.
-- API respons and source data may change over time.
+- API responses and source data may change over time.
 
 ## Repository
 
