@@ -1,0 +1,30 @@
+version: 2
+
+models:
+  - name: silver_inventory_snapshot
+    description: "Cleaned and standardized inventory snapshot data for the Silver layer."
+
+    columns:
+      - name: inventory_key
+        description: "Unique identifier for each inventory snapshot."
+        tests:
+          - not_null
+          - unique
+
+      - name: date_key
+        description: "Reference key identifying the inventory snapshot date."
+        tests:
+          - not_null
+
+      - name: product_key
+        description: "Reference key identifying the product."
+        tests:
+          - not_null
+
+      - name: store_key
+        description: "Reference key identifying the store."
+        tests:
+          - not_null
+
+      - name: stock_quantity
+        description: "Quantity of stock available for the product at the store."
