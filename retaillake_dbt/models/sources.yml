@@ -1,0 +1,104 @@
+version: 2
+
+sources:
+  - name: retaillake_gold
+    description: "Existing RetailLake Gold-layer tables created by the Python pipeline."
+    schema: gold
+
+    tables:
+      - name: dim_customer
+        description: "Customer dimension table."
+        columns:
+          - name: customer_key
+            tests:
+              - not_null
+              - unique
+
+      - name: dim_date
+        description: "Date dimension table."
+        columns:
+          - name: date_key
+            tests:
+              - not_null
+              - unique
+
+      - name: dim_product
+        description: "Product dimension table."
+        columns:
+          - name: product_key
+            tests:
+              - not_null
+              - unique
+
+      - name: dim_store
+        description: "Store dimension table."
+        columns:
+          - name: store_key
+            tests:
+              - not_null
+              - unique
+
+      - name: fact_sales_transaction
+        description: "Sales transaction fact table."
+        columns:
+          - name: sales_key
+            tests:
+              - not_null
+              - unique
+
+          - name: product_key
+            tests:
+              - relationships:
+                  arguments:
+                    to: source('retaillake_gold', 'dim_product')
+                    field: product_key
+
+          - name: customer_key
+            tests:
+              - relationships:
+                  arguments:
+                    to: source('retaillake_gold', 'dim_customer')
+                    field: customer_key
+
+          - name: store_key
+            tests:
+              - relationships:
+                  arguments:
+                    to: source('retaillake_gold', 'dim_store')
+                    field: store_key
+
+          - name: date_key
+            tests:
+              - relationships:
+                  arguments:
+                    to: source('retaillake_gold', 'dim_date')
+                    field: date_key
+
+      - name: fact_inventory_snapshot
+        description: "Inventory snapshot fact table."
+        columns:
+          - name: inventory_key
+            tests:
+              - not_null
+              - unique
+
+          - name: product_key
+            tests:
+              - relationships:
+                  arguments:
+                    to: source('retaillake_gold', 'dim_product')
+                    field: product_key
+
+          - name: store_key
+            tests:
+              - relationships:
+                  arguments:
+                    to: source('retaillake_gold', 'dim_store')
+                    field: store_key
+
+          - name: date_key
+            tests:
+              - relationships:
+                  arguments:
+                    to: source('retaillake_gold', 'dim_date')
+                    field: date_key
